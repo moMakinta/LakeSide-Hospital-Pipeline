@@ -1,0 +1,3241 @@
+PatientID,FullName,DateOfBirth,Gender,City
+P003089,Lerato Smith,27/07/1951,F,Centurion
+P001061,Tumi Govender,25/01/1953,F,Benoni
+P000459,Karabo Williams,2024-09-17,F,Pretoria
+P000326,Naledi Adams,1964-07-06,F,Pretoria
+P000843,Riaan Du Plessis,15/12/2005,Male,Krugersdorp
+P002259,Vusi Van der Merwe,1950-11-03,M,Benoni
+P001884,Emma Zulu,2002-01-07,F,Centurion
+P002179,Sibusiso Pillay,1948-08-28,M,Pretoria
+P001108,Gugu Govender,1973-12-24,Female,Roodepoort
+P000530, VUSI NDLOVU ,16-Nov-1947,m,Johannesburg
+P001798,Jabu Govender,08/09/2020,Male,Centurion
+P001317,Johan Pretorius,23/12/2020,M,Krugersdorp
+P002658,Zanele Molefe,2006-09-19,Female,Krugersdorp
+P002608,Hendrik Williams,1960-03-03,M,Benoni
+P000137,Unathi Dlamini,1976-11-10,Female,Roodepoort
+P003025,Wanda Mabaso,1941-04-27,f,Soweto
+P000367,Zanele Mahlangu,1975-05-07,F,Krugersdorp
+P002209,Ayesha Naidoo,1945-04-18,Female,Centurion
+P003087,Imaan Pretorius,09-Jan-2019,F,Roodepoort
+P002695,Vusi Jacobs,1944-05-15,M,Roodepoort
+P001125,Sibusiso Dlamini,1970-02-19,M,Soweto
+P000884,Imaan Molefe,2023-11-09,Female,Krugersdorp
+P001809,Lerato Williams,2020-05-16,f,Krugersdorp
+P000929,Yusuf Sithole,1970-11-19,Male,Benoni
+P002942,Naledi Zulu,1980-10-05,f,Soweto
+P003191,Unathi Adams,13/06/1987,F,Midrand
+P003016,Oliver Mabaso,1979-04-28,Male,Johannesburg
+P000639,Emma Sithole,03/07/1969,F,Benoni
+P000698,Dumisani Du Plessis,06/10/1969,M,Pretoria
+P001256,Unathi Pretorius,1984-06-15,F,Soweto
+P002963,Naledi Adams,1991-03-07,Female,Krugersdorp
+P002965,Hendrik Sithole,1950-09-07,M,Roodepoort
+P001235,Pieter Botha,1996-10-06,M,Centurion
+P001743,Karabo Mokoena,1994-04-07,Female,Pretoria
+P001273, AYESHA VAN DER MERWE ,2016-11-05,f,Midrand
+P001853,Hendrik Mahlangu,17/01/1987,M,Krugersdorp
+P000377,Wanda Zulu,02/02/2018,f,Centurion
+P002078,Chloe Zulu,2021-06-13,F,Pretoria
+P003128, UNATHI MOKOENA ,2004-09-13,f,Roodepoort
+P000893,Thabo Pretorius,11/10/1988,M,Roodepoort
+P002189,Imaan Zulu,1962-12-12,f,Midrand
+P002304,Unathi Van der Merwe,1984-01-07,F,Soweto
+P000839,Chloe Smith,16-May-1951,f,Johannesburg
+P002763,Jabu Molefe,1997-07-10,M,Pretoria
+P000938,Tumi Pillay,11/09/1952,Female,Soweto
+P000966,Riaan Du Plessis,1972-05-01,m,Roodepoort
+P002364,Mpho Mabaso,27/11/1967,M,Krugersdorp
+P003020,Chloe Naidoo,09/01/2002,F,Soweto
+P001109,Bongani Pillay,28/05/1946,m,Midrand
+P002407,Anika Smith,1970-01-06,f,Krugersdorp
+P000520,Jabu Zulu,1994-05-01,m,Johannesburg
+P002143,Megan Ndlovu,2015-07-03,F,Centurion
+P003048,Kagiso Molefe,2016-03-24,M,Benoni
+P000812,Chloe Smith,06/11/1948,F,Midrand
+P002019,Ayesha Botha,1955-11-03,F,Soweto
+P002381,Naledi Mabaso,1958-07-07,F,Pretoria
+P002678,Vusi Du Plessis,03/01/2018,m,Pretoria
+P002681,Thabo Nkosi,1972-02-20,m,Pretoria
+P001096,Vusi Botha,2016-02-16,m,Pretoria
+P001904,Zanele Zulu,2014-11-08,F,Midrand
+P000464,Megan Adams,1973-08-03,F,Krugersdorp
+P001051,Wanda Mokoena,1960-06-13,Female,Pretoria
+P000764,Pieter Mokoena,22/04/2019,Male,Roodepoort
+P000856,Karabo Du Plessis,1944-10-15,f,Krugersdorp
+P002326, DUMISANI PRETORIUS ,19/06/1999,M,Benoni
+P001454,Karabo Adams,2006-04-24,F,Centurion
+P000908,Bongani Williams,2016-02-25,M,Soweto
+P000576,Sipho Pillay,1968-11-24,m,Pretoria
+P001048,Imaan Pillay,14/01/1942,F,Centurion
+P002884,Johan Khumalo,22/06/1989,M,Krugersdorp
+P002468,Nomsa Mahlangu,11-Feb-1953,f,Johannesburg
+P002999,Vusi Pillay,27/04/2023,M,Midrand
+P000035,Yusuf Van der Merwe,2023-11-04,M,Benoni
+P002825,Bongani Du Plessis,1974-07-06,Male,Centurion
+P001792,Palesa Botha,2014-04-10,f,Johannesburg
+P000048,Lerato Jacobs,1951-12-12,F,Krugersdorp
+P002164,Johan Smith,1967-12-22,m,Soweto
+P000411,Pieter Mahlangu,1961-10-03,M,Roodepoort
+P000770,Riaan Molefe,1968-01-13,Male,Pretoria
+P001960,Sipho Nkosi,1946-04-24,m,Benoni
+P000902,Pieter Naidoo,1981-10-19,m,Centurion
+P002917,Chloe Molefe,15/09/1953,Female,Johannesburg
+P002789, THABO PILLAY ,26/04/2023,Male,Krugersdorp
+P003071,Bongani Pretorius,1976-08-23,M,Pretoria
+P002805,Riaan Ndlovu,25/11/1999,m,Midrand
+P002485,Megan Mabaso,1943-10-10,F,Johannesburg
+P000988,Chloe Govender,15/02/1981,Female,Soweto
+P002168,Chloe Molefe,1970-09-12,F,Krugersdorp
+P001933,Emma Tshabalala,2004-03-23,f,Krugersdorp
+P001016,Nomsa Govender,1945-06-10,F,Pretoria
+P001754,Zinhle Ndlovu,1950-01-27,F,Benoni
+P001778,Farouk Govender,2018-09-14,M,Krugersdorp
+P001991,Mpho Du Plessis,1994-07-04,M,Roodepoort
+P002106,Lerato Du Plessis,1984-05-12,F,Soweto
+P002417,Zinhle Govender,2024-11-26,F,Krugersdorp
+P002121,Oliver Pillay,1972-02-20,M,Soweto
+P003047,Lerato Ndlovu,1967-11-22,Female,Soweto
+P003129,Johan Naidoo,1982-01-16,Male,Benoni
+P003112,Naledi Jacobs,1964-04-04,f,Centurion
+P002452,Wanda Williams,08/08/1957,F,Pretoria
+P001231,Wanda Tshabalala,1995-06-17,F,Soweto
+P001484,Chloe Govender,1971-05-10,f,Midrand
+P001055,Tumi Govender,1970-04-15,Female,Krugersdorp
+P001777,Gugu Govender,1982-09-14,F,Soweto
+P000715,Zanele Van der Merwe,04/05/1995,Female,Pretoria
+P001978,Chloe Zulu,1984-01-01,Female,Krugersdorp
+P002600,Thabo Adams,1941-03-26,M,Midrand
+P001066,Oliver Botha,1955-05-01,M,Centurion
+P000201,Gugu Molefe,1991-01-24,f,Benoni
+P000677,Kagiso Pillay,1990-07-10,M,Johannesburg
+P000675,Palesa Nkosi,19-Apr-1940,F,Roodepoort
+P000872,Sibusiso Dlamini,2005-06-18,M,Pretoria
+P001903,Kagiso Molefe,1997-10-05,M,Midrand
+P001279,Karabo Du Plessis,2024-03-04,F,Soweto
+P002641,Ayesha Mahlangu,2004-07-17,F,Benoni
+P000930,Naledi Zulu,2003-12-15,f,Centurion
+P002116,Ayesha Williams,2003-01-26,F,Johannesburg
+P002298,Ayesha Mahlangu,15/11/2016,F,Pretoria
+P000292,Sibusiso Naidoo,1999-09-08,M,Soweto
+P001512, TUMI MABASO ,1993-03-08,F,Midrand
+P001562,Nomsa Govender,1977-09-27,Female,Midrand
+P002509,Naledi Jacobs,2019-11-22,f,Roodepoort
+P002556,Nomsa Mahlangu,1940-10-17,F,Centurion
+P001736,Dumisani Mokoena,1946-05-23,M,Centurion
+P001095,Lerato Adams,2003-06-17,f,Krugersdorp
+P000515,Karabo Dlamini,2003-03-09,F,Krugersdorp
+P002067,Karabo Van der Merwe,02/11/1947,F,Soweto
+P003159,Imaan Ndlovu,02/08/1975,Female,Benoni
+P001658,Sipho Dlamini,1966-08-04,M,Midrand
+P002180,Jabu Dlamini,2001-06-13,Male,Soweto
+P002518,Zinhle Ndlovu,12/08/2002,Female,Soweto
+P000713,Karabo Zulu,1941-05-11,F,Midrand
+P001954,Karabo Zulu,1940-01-11,F,Pretoria
+P002661,Ayesha Dlamini,1990-12-26,F,Krugersdorp
+P001291,Vusi Du Plessis,1962-08-12,M,Krugersdorp
+P000766,Sipho Mahlangu,1960-11-26,M,Johannesburg
+P001638,Imaan Pretorius,17/08/2020,Female,Midrand
+P000660,Naledi Jacobs,1980-02-10,F,Centurion
+P000299,Emma Govender,1948-06-14,Female,Johannesburg
+P000113,Palesa Molefe,1950-05-03,F,Pretoria
+P000880,Naledi Naidoo,,F,Johannesburg
+P000091,Anika Khumalo,1961-11-06,F,Krugersdorp
+P002810,Vusi Molefe,1971-06-17,M,Krugersdorp
+P001039,Palesa Botha,21/09/2023,F,Benoni
+P002761,Chloe Nkosi,08-Aug-2018,F,Benoni
+P001228,Imaan Botha,1960-06-23,Female,Midrand
+P002544,Mpho Dlamini,2018-02-21,M,Soweto
+P002009,Emma Botha,1997-04-14,f,Krugersdorp
+P000914,Sibusiso Tshabalala,2013-03-08,M,Johannesburg
+P000532,Vusi Van der Merwe,1998-01-11,m,Johannesburg
+P002708,Karabo Mabaso,,f,Soweto
+P002305,Ayesha Dlamini,1995-06-21,Female,Midrand
+P002133, HENDRIK MOKOENA ,1995-07-06,M,Benoni
+P003171,Anika Zulu,1960-11-16,F,Soweto
+P002598,Emma Zulu,05/05/1978,F,Midrand
+P001964,Anika Williams,2022-11-01,F,Roodepoort
+P000559,Unathi Williams,05/10/2001,Female,Krugersdorp
+P000608,Zanele Pillay,1986-03-17,F,Midrand
+P001485,Karabo Ndlovu,1984-07-03,F,Midrand
+P000765,Riaan Mokoena,1953-12-17,M,Johannesburg
+P000193,Nomsa Govender,1944-06-19,f,Midrand
+P001252,Lerato Dlamini,17/01/1998,Female,Benoni
+P001617,Riaan Du Plessis,2016-05-05,M,Centurion
+P001986,Kagiso Dlamini,1982-02-10,M,Johannesburg
+P001300,Oliver Sithole,15/02/2002,M,Krugersdorp
+P001899,Yusuf Khumalo,17/10/1940,M,Benoni
+P002816,Johan Tshabalala,1962-05-23,M,Soweto
+P002173,Zinhle Jacobs,2002-12-16,Female,Midrand
+P002225,Sibusiso Pretorius,1969-07-25,M,Benoni
+P002534,Naledi Smith,2001-07-19,F,Pretoria
+P001684,Chloe Dlamini,2021-03-16,F,Soweto
+P001156,Yusuf Khumalo,1983-05-20,M,Pretoria
+P001141,Kagiso Mabaso,15/10/2024,M,Soweto
+P002126,Hendrik Mabaso,,M,Centurion
+P001419,Mpho Van der Merwe,1960-09-28,M,Pretoria
+P002144,Naledi Dlamini,07/05/1982,F,Johannesburg
+P002138,Megan Nkosi,2020-03-08,f,Benoni
+P001602,Unathi Van der Merwe,1948-06-24,Female,Johannesburg
+P000115,Emma Jacobs,15-Sep-2017,F,Soweto
+P001843,Wanda Van der Merwe,2014-03-14,f,Johannesburg
+P000894,Oliver Naidoo,17/09/2003,Male,Krugersdorp
+P001469,Unathi Khumalo,1989-05-09,f,Centurion
+P002384,Hendrik Jacobs,06/09/1955,M,Benoni
+P000477,Naledi Mahlangu,1990-09-14,F,Roodepoort
+P001994,Wanda Van der Merwe,1980-01-01,f,Soweto
+P001082,Megan Williams,04/03/2001,Female,Pretoria
+P000423,Mpho Molefe,2013-06-27,M,Soweto
+P001728,Naledi Nkosi,1968-01-23,F,Midrand
+P000261,Emma Smith,2021-08-19,F,Roodepoort
+P000074,Dumisani Pillay,1970-12-25,m,Krugersdorp
+P000891,Unathi Khumalo,1981-01-20,f,Centurion
+P001615,Ayesha Williams,02-Jun-1994,Female,Centurion
+P001745,Pieter Govender,2021-12-27,M,Pretoria
+P002747,Yusuf Nkosi,22/08/1963,M,Centurion
+P001788,Anika Pillay,2013-09-08,F,Benoni
+P002735,Imaan Botha,1957-03-23,F,Midrand
+P000976,Dumisani Williams,2015-06-04,m,Pretoria
+P002929,Zanele Dlamini,1978-05-27,F,Krugersdorp
+P001775,Mpho Dlamini,2015-04-16,m,Soweto
+P001831,Yusuf Jacobs,,Male,Krugersdorp
+P001269,Zinhle Molefe,1944-04-18,F,Centurion
+P002000,Chloe Dlamini,1957-09-09,F,Centurion
+P002380,Johan Jacobs,2018-03-07,Male,Soweto
+P001604,Jabu Govender,1974-11-10,Male,Soweto
+P000511,Pieter Khumalo,25/06/1959,M,Centurion
+P000414,Chloe Adams,1972-09-01,f,Roodepoort
+P002706,Naledi Nkosi,2012-03-06,F,Roodepoort
+P002904,Tumi Botha,2023-10-21,F,Benoni
+P003053,Dumisani Khumalo,1975-01-25,M,Pretoria
+P001800,Thabo Zulu,19-Sep-1994,M,Krugersdorp
+P002546,Riaan Van der Merwe,28-Mar-1967,m,Pretoria
+P000788,Palesa Khumalo,1963-08-04,F,Roodepoort
+P002488,Farouk Botha,22/05/1964,Male,Roodepoort
+P000688,Riaan Nkosi,1999-10-19,m,Midrand
+P002551,Sipho Sithole,06/07/1981,M,Roodepoort
+P002224,Nomsa Mokoena,2022-11-05,F,Soweto
+P000394,Gugu Ndlovu,04/05/1941,Female,Soweto
+P001869,Yusuf Pretorius,2020-09-04,M,Centurion
+P000618,Zanele Zulu,2024-06-03,F,Krugersdorp
+P000570,Johan Williams,1988-01-01,M,Johannesburg
+P002433,Liam Molefe,2014-07-20,m,Johannesburg
+P002540,Riaan Govender,1955-12-18,Male,Benoni
+P000545,Bongani Adams,1979-03-21,M,Pretoria
+P001445,Tumi Jacobs,06/09/1986,f,Centurion
+P000041,Lerato Botha,15-Sep-1952,f,Krugersdorp
+P002454,Emma Molefe,2012-12-23,F,Midrand
+P001673,Zanele Molefe,2004-08-09,F,Midrand
+P002389,Yusuf Tshabalala,2014-04-11,M,Soweto
+P001035,Mpho Ndlovu,1954-06-01,M,Benoni
+P001880,Sipho Khumalo,1976-02-22,Male,Centurion
+P001824,Sipho Khumalo,1941-08-27,M,Pretoria
+P002981,Emma Van der Merwe,02-Jul-2024,F,Soweto
+P002759,Palesa Sithole,07/05/2022,F,Krugersdorp
+P003150,Jabu Williams,21/09/1958,m,Johannesburg
+P002585,Imaan Ndlovu,2023-12-20,f,Soweto
+P001765,Imaan Govender,1992-10-01,F,Midrand
+P002669,Kagiso Tshabalala,2021-06-17,m,Midrand
+P000823,Emma Pillay,1988-08-27,F,Roodepoort
+P000062,Jabu Mabaso,2018-09-22,M,Centurion
+P003023,Yusuf Mahlangu,2020-04-22,M,Roodepoort
+P000569,Pieter Nkosi,1960-07-05,M,Pretoria
+P002628,Tumi Govender,01-Feb-1945,Female,Centurion
+P002290,Mpho Mahlangu,1970-07-13,m,Krugersdorp
+P002657,Karabo Naidoo,1968-03-26,Female,Pretoria
+P000313,Zanele Zulu,1992-09-19,Female,Benoni
+P001533,Karabo Botha,2017-05-09,F,Soweto
+P001355,Unathi Khumalo,05/06/1986,f,Johannesburg
+P001716,Palesa Zulu,24-Apr-1974,F,Krugersdorp
+P002902,Farouk Jacobs,1978-04-19,M,Johannesburg
+P001286,Emma Mokoena,1969-01-19,Female,Roodepoort
+P000758,Zanele Mokoena,26/10/2013,F,Roodepoort
+P000846,Zinhle Adams,1941-01-09,F,Midrand
+P000230,Zinhle Naidoo,2004-06-07,Female,Soweto
+P002148,Emma Van der Merwe,2019-08-09,F,Midrand
+P000071,Sibusiso Sithole,2013-07-27,Male,Johannesburg
+P002808,Gugu Pillay,1948-04-21,F,Benoni
+P002679,Yusuf Dlamini,21-Jul-1950,M,Pretoria
+P000525,Tumi Mahlangu,12/04/1961,F,Krugersdorp
+P003052,Kagiso Nkosi,1971-03-17,M,Krugersdorp
+P001760,Gugu Jacobs,1999-01-28,Female,Krugersdorp
+P002399,Megan Naidoo,1962-03-16,F,Johannesburg
+P003062,Tumi Dlamini,2016-06-19,Female,Pretoria
+P000368,Palesa Mahlangu,1996-08-19,F,Midrand
+P001172,Nomsa Mahlangu,21/07/2002,Female,Centurion
+P001530,Hendrik Jacobs,1952-09-07,m,Benoni
+P001812, PALESA KHUMALO ,1961-12-25,F,Pretoria
+P000001,Zanele Ndlovu,1946-02-27,f,Johannesburg
+P002831,Wanda Du Plessis,1947-04-19,F,Roodepoort
+P001770,Oliver Pillay,2021-08-25,Male,Centurion
+P000352,Tumi Ndlovu,1999-04-28,F,Pretoria
+P000600,Mpho Botha,2020-01-03,M,Midrand
+P001260,Naledi Botha,1942-09-08,f,Roodepoort
+P002822,Naledi Smith,21/08/1966,F,Pretoria
+P002891,Lerato Adams,2016-01-18,F,Roodepoort
+P000053,Anika Smith,1949-05-01,F,Pretoria
+P001752,Vusi Zulu,06/03/1967,M,Roodepoort
+P000350,Tumi Mahlangu,27/03/1976,F,Soweto
+P000306,Karabo Mabaso,1986-08-18,f,Krugersdorp
+P001830,Naledi Zulu,1988-05-17,F,Krugersdorp
+P003066, BONGANI TSHABALALA ,1959-11-02,M,Johannesburg
+P000065,Megan Adams,1950-08-09,Female,Centurion
+P000746,Chloe Jacobs,1976-06-13,F,Johannesburg
+P001470,Hendrik Govender,24/05/1969,m,Benoni
+P000826,Oliver Khumalo,2023-12-12,M,Midrand
+P002092,Thabo Van der Merwe,1950-12-15,m,Roodepoort
+P002939,Kagiso Adams,25/04/1996,M,Centurion
+P001431,Wanda Govender,1983-11-23,f,Krugersdorp
+P001532,Gugu Govender,12-Jun-1994,F,Pretoria
+P001764,Ayesha Sithole,1952-07-21,F,Midrand
+P000371, JOHAN VAN DER MERWE ,08/11/1972,m,Johannesburg
+P001958,Emma Dlamini,1959-08-20,F,Krugersdorp
+P000497,Sibusiso Naidoo,2024-02-24,m,Pretoria
+P003009,Kagiso Nkosi,1973-06-22,M,Johannesburg
+P000589,Mpho Nkosi,1972-05-28,M,Soweto
+P001625,Lerato Botha,1970-08-21,Female,Benoni
+P000953,Zanele Pillay,1957-04-09,f,Centurion
+P002623, PIETER MAHLANGU ,1982-10-17,M,Krugersdorp
+P002145,Naledi Ndlovu,1969-07-23,F,Midrand
+P000961,Mpho Tshabalala,11-Nov-2023,Male,Pretoria
+P001474,Imaan Pillay,1954-10-14,F,Midrand
+P002531,Gugu Khumalo,1951-04-24,F,Soweto
+P000033,Lerato Van der Merwe,05/03/1960,f,Krugersdorp
+P002029,Imaan Nkosi,2023-01-01,f,Roodepoort
+P000375,Tumi Dlamini,27/11/2024,F,Centurion
+P001527,Sibusiso Mokoena,2000-04-16,M,Johannesburg
+P002312,Riaan Mabaso,1980-10-20,M,Johannesburg
+P002096,Tumi Naidoo,1989-03-04,Female,Centurion
+P002210,Naledi Mahlangu,2012-03-16,F,Johannesburg
+P002182,Hendrik Khumalo,1954-09-20,M,Pretoria
+P002575,Gugu Pillay,17/04/2020,F,Krugersdorp
+P002665,Johan Nkosi,1963-07-02,m,Soweto
+P001338,Thabo Mahlangu,2024-06-11,M,Pretoria
+P001600,Jabu Pillay,2020-07-01,M,Roodepoort
+P001009,Bongani Molefe,1953-09-22,M,Midrand
+P002797,Naledi Du Plessis,1963-11-02,F,Benoni
+P000343,Mpho Khumalo,12/03/1970,Male,Benoni
+P001415,Pieter Smith,1971-12-23,M,Soweto
+P002933,Zanele Mabaso,2001-04-04,f,Pretoria
+P000194,Wanda Smith,1981-03-15,f,Centurion
+P000616,Anika Zulu,1980-04-04,F,Roodepoort
+P002908,Gugu Van der Merwe,1989-03-18,Female,Centurion
+P000007,Gugu Mokoena,10/06/1998,Female,Centurion
+P001511,Megan Sithole,1981-03-11,F,Centurion
+P002675,Mpho Mabaso,12/06/1977,M,Midrand
+P002453, OLIVER WILLIAMS ,1948-11-18,m,Benoni
+P001350, PALESA ZULU ,2003-08-17,Female,Krugersdorp
+P003002,Wanda Dlamini,2000-11-06,F,Johannesburg
+P001105,Gugu Zulu,16/06/1952,F,Pretoria
+P002821,Unathi Tshabalala,1989-03-11,F,Centurion
+P001555,Bongani Govender,1983-01-02,M,Benoni
+P002651,Dumisani Sithole,2024-11-17,M,Johannesburg
+P002248,Emma Govender,2003-01-16,Female,Benoni
+P000791,Bongani Dlamini,28/01/1982,M,Benoni
+P001923, SIBUSISO ADAMS ,21/03/1952,M,Centurion
+P001664,Thabo Ndlovu,16/04/1951,M,Roodepoort
+P000665,Kagiso Williams,1980-10-02,m,Pretoria
+P000252,Pieter Du Plessis,27/05/1945,M,Midrand
+P000077,Emma Tshabalala,2016-11-04,F,Krugersdorp
+P000460,Wanda Adams,1997-12-04,F,Krugersdorp
+P002314,Dumisani Nkosi,1982-03-19,M,Midrand
+P002174,Palesa Smith,2012-07-13,F,Johannesburg
+P000518,Sipho Pretorius,2003-10-22,M,Benoni
+P000151,Anika Williams,1985-07-12,F,Johannesburg
+P001422,Oliver Mabaso,1941-07-22,M,Benoni
+P001106,Ayesha Dlamini,1972-03-16,F,Midrand
+P003103,Anika Ndlovu,1972-08-06,F,Centurion
+P001316,Ayesha Govender,17/11/1988,F,Roodepoort
+P001501,Jabu Smith,1957-07-06,M,Centurion
+P000482,Wanda Khumalo,1998-07-24,F,Centurion
+P003094,Jabu Du Plessis,1957-11-02,Male,Pretoria
+P000901,Bongani Smith,1971-01-21,M,Centurion
+P002792,Unathi Du Plessis,1990-06-06,f,Midrand
+P002498,Yusuf Botha,1949-09-22,M,Roodepoort
+P000494,Zinhle Smith,05/04/1951,f,Centurion
+P002387, UNATHI MAHLANGU ,06/10/1973,F,Johannesburg
+P003114,Gugu Adams,2004-08-04,f,Johannesburg
+P002594,Sibusiso Williams,07/12/1975,Male,Midrand
+P001407,Nomsa Khumalo,1950-07-25,F,Soweto
+P000700,Unathi Van der Merwe,26/02/1951,F,Soweto
+P002103,Wanda Pillay,1957-01-03,f,Centurion
+P000623,Liam Du Plessis,1964-05-24,M,Centurion
+P002098,Sipho Pillay,1940-01-04,M,Benoni
+P003033,Zanele Zulu,2006-06-25,f,Krugersdorp
+P000108,Karabo Naidoo,1999-04-09,f,Krugersdorp
+P001940,Hendrik Pillay,2002-12-06,M,Benoni
+P000400,Chloe Mabaso,1944-01-03,F,Benoni
+P001982, ANIKA NAIDOO ,1969-07-09,f,Pretoria
+P001074,Riaan Pretorius,1969-10-19,M,Centurion
+P001695, ZINHLE TSHABALALA ,1955-01-15,F,Krugersdorp
+P000090,Farouk Mahlangu,,M,Krugersdorp
+P001797,Anika Naidoo,25-Jan-1946,F,Centurion
+P002337,Sibusiso Dlamini,1980-10-23,M,Midrand
+P001858,Gugu Dlamini,1994-11-26,Female,Pretoria
+P001494,Megan Ndlovu,2022-12-18,F,Centurion
+P001110,Thabo Van der Merwe,1998-03-16,M,Centurion
+P003035,Imaan Van der Merwe,17/05/1976,F,Pretoria
+P001301,Bongani Mabaso,2017-09-20,M,Johannesburg
+P002960,Oliver Mokoena,2004-05-24,M,Johannesburg
+P000983,Naledi Pillay,1999-11-11,f,Centurion
+P001342,Liam Govender,01/03/1989,M,Roodepoort
+P002612,Karabo Tshabalala,1961-11-05,Female,Centurion
+P002607,Lerato Smith,1976-04-25,F,Centurion
+P001657,Thabo Molefe,1983-05-15,M,Benoni
+P000635,Dumisani Molefe,1987-09-18,M,Pretoria
+P002995,Sibusiso Pillay,08/02/1953,M,Centurion
+P002964,Anika Pillay,1971-11-18,F,Benoni
+P000286,Palesa Dlamini,1963-10-27,F,Midrand
+P002674,Hendrik Khumalo,2005-09-02,Male,Midrand
+P002935,Unathi Tshabalala,1956-06-16,f,Benoni
+P001526,Riaan Nkosi,18-Mar-1943,M,Centurion
+P000191,Unathi Adams,1990-12-03,F,Johannesburg
+P002957,Karabo Khumalo,1948-02-12,f,Centurion
+P001170,Palesa Khumalo,2023-03-25,F,Soweto
+P002850,Megan Govender,1991-07-15,F,Soweto
+P000054,Lerato Jacobs,1973-02-15,F,Benoni
+P001895,Farouk Govender,2005-07-04,m,Johannesburg
+P000131,Emma Botha,1946-04-20,Female,Soweto
+P001661,Mpho Zulu,2020-03-07,Male,Midrand
+P000568,Imaan Govender,1942-04-23,Female,Benoni
+P000926,Farouk Mahlangu,21/02/1951,M,Benoni
+P002048,Jabu Smith,1945-08-16,M,Pretoria
+P000442,Johan Naidoo,1942-01-11,M,Pretoria
+P002693,Johan Mabaso,06/11/1976,M,Soweto
+P002554,Palesa Molefe,05/05/1945,Female,Johannesburg
+P000803,Anika Mokoena,03/02/1940,F,Soweto
+P000995,Bongani Govender,09/11/1994,M,Soweto
+P001811,Mpho Pillay,1959-05-16,m,Soweto
+P003154,Liam Govender,1997-12-11,M,Midrand
+P000215,Jabu Jacobs,1975-06-08,M,Krugersdorp
+P000519,Johan Pillay,1983-07-13,M,Soweto
+P000507, DUMISANI PILLAY ,1950-11-19,Male,Centurion
+P002057,Yusuf Molefe,19/02/1965,M,Roodepoort
+P002308,Palesa Smith,1981-01-28,F,Krugersdorp
+P001544,Vusi Molefe,2017-12-25,M,Centurion
+P002690,Hendrik Adams,17/04/1969,m,Centurion
+P000461,Ayesha Ndlovu,2006-03-01,F,Krugersdorp
+P000575,Gugu Pillay,2018-02-23,f,Johannesburg
+P003031,Lerato Adams,2021-07-19,F,Soweto
+P001990,Nomsa Mokoena,14/05/1965,F,Pretoria
+P001503,Pieter Zulu,2017-07-26,m,Roodepoort
+P001166,Megan Zulu,1998-09-09,F,Midrand
+P000079,Wanda Botha,2000-01-10,F,Krugersdorp
+P002743,Nomsa Smith,1974-12-17,f,Centurion
+P000340,Farouk Pretorius,1994-06-18,M,Centurion
+P002185,Farouk Molefe,2020-07-09,m,Pretoria
+P001413,Kagiso Mabaso,1955-09-27,Male,Benoni
+P000982,Thabo Van der Merwe,1986-01-08,M,Johannesburg
+P002343,Lerato Mabaso,1962-09-25,F,Roodepoort
+P001762,Jabu Tshabalala,1960-11-21,M,Benoni
+P002959,Thabo Jacobs,1977-09-05,Male,Krugersdorp
+P002464,Ayesha Dlamini,16/03/1980,F,Soweto
+P000877,Tumi Williams,1941-07-08,F,Johannesburg
+P002279,Zanele Smith,23/12/1973,Female,Krugersdorp
+P002918,Chloe Molefe,2003-09-05,F,Benoni
+P001560,Yusuf Molefe,2002-09-22,M,Pretoria
+P000290,Bongani Naidoo,06/10/2015,M,Roodepoort
+P003056,Hendrik Dlamini,1951-01-28,M,Johannesburg
+P001805,Oliver Ndlovu,25/09/2014,M,Midrand
+P002350,Oliver Mahlangu,2023-05-20,M,Krugersdorp
+P002620,Megan Adams,1978-10-11,F,Centurion
+P001915,Megan Pretorius,2018-12-03,F,Soweto
+P002595,Yusuf Pretorius,1990-04-06,M,Roodepoort
+P002124,Dumisani Adams,1987-06-26,Male,Soweto
+P001091,Oliver Du Plessis,1983-06-24,M,Benoni
+P002574,Zinhle Mabaso,1995-09-21,F,Soweto
+P000653,Johan Zulu,1969-05-26,m,Pretoria
+P000276,Ayesha Govender,1998-08-04,f,Johannesburg
+P001190,Zinhle Botha,2002-01-07,F,Centurion
+P001573,Yusuf Govender,2020-02-10,m,Benoni
+P001950,Imaan Sithole,1963-04-20,F,Pretoria
+P001014,Hendrik Jacobs,2024-07-26,m,Johannesburg
+P001790,Farouk Khumalo,1992-09-17,m,Krugersdorp
+P002165,Vusi Nkosi,2021-07-13,Male,Soweto
+P001130,Gugu Mahlangu,1978-11-12,Female,Pretoria
+P000945,Liam Nkosi,1965-05-13,M,Pretoria
+P000808,Palesa Pillay,01-Jul-1960,Female,Benoni
+P002256,Wanda Nkosi,2023-09-28,f,Midrand
+P000004,Unathi Van der Merwe,2020-03-10,f,Pretoria
+P000329,Imaan Adams,2003-09-19,F,Midrand
+P002094,Palesa Pillay,28/07/1956,Female,Pretoria
+P002848,Ayesha Dlamini,1970-12-13,F,Johannesburg
+P001946, THABO TSHABALALA ,,M,Midrand
+P000470, ZINHLE VAN DER MERWE ,1948-08-13,F,Johannesburg
+P001112,Zanele Van der Merwe,09/03/2019,f,Centurion
+P000280,Lerato Govender,2005-03-15,Female,Roodepoort
+P001508,Jabu Molefe,18-May-1990,M,Midrand
+P002727,Kagiso Jacobs,09/10/1951,m,Krugersdorp
+P000730,Riaan Nkosi,1977-10-17,m,Pretoria
+P001411,Nomsa Jacobs,2017-07-24,f,Pretoria
+P002886,Farouk Jacobs,1981-07-16,M,Johannesburg
+P000387,Gugu Sithole,1972-12-16,f,Krugersdorp
+P000462, TUMI SMITH ,1987-09-11,f,Johannesburg
+P000596,Riaan Naidoo,1941-12-09,Male,Midrand
+P002906,Emma Nkosi,2023-12-14,Female,Centurion
+P001459,Lerato Mokoena,1999-11-01,Female,Benoni
+P001306,Pieter Williams,2024-08-01,M,Centurion
+P000234,Sibusiso Adams,1950-04-02,M,Midrand
+P001734,Wanda Nkosi,1976-01-03,Female,Pretoria
+P003127,Unathi Mokoena,1993-08-28,Female,Benoni
+P002710,Unathi Khumalo,1998-01-26,F,Benoni
+P000347,Pieter Mahlangu,23/11/1943,M,Johannesburg
+P002436, DUMISANI DLAMINI ,1978-04-25,M,Centurion
+P002643,Riaan Sithole,1957-08-06,M,Centurion
+P001444,Palesa Tshabalala,1986-09-28,Female,Midrand
+P000937,Dumisani Mahlangu,03/09/1990,M,Soweto
+P001557,Bongani Jacobs,1967-06-03,M,Roodepoort
+P001514,Mpho Mahlangu,1985-05-19,M,Krugersdorp
+P001618,Riaan Mabaso,1993-04-05,m,Centurion
+P001183,Pieter Zulu,1981-01-03,m,Centurion
+P002356, PALESA MOLEFE ,16/09/1973,F,Benoni
+P003176,Riaan Du Plessis,2020-06-04,M,Midrand
+P001421,Jabu Naidoo,1975-06-17,m,Roodepoort
+P000331,Wanda Mabaso,2020-08-27,F,Benoni
+P003063,Karabo Adams,02/05/2005,F,Krugersdorp
+P001860,Sipho Ndlovu,2021-08-09,m,Krugersdorp
+P002865,Emma Naidoo,1942-01-12,Female,Benoni
+P001497,Palesa Smith,1943-10-02,F,Benoni
+P002423,Farouk Mokoena,1956-04-22,Male,Benoni
+P003082,Zanele Adams,2017-06-27,f,Benoni
+P000860,Nomsa Dlamini,1972-10-08,F,Pretoria
+P001748,Karabo Tshabalala,1989-05-24,Female,Pretoria
+P000538,Bongani Smith,23-Jun-1989,Male,Roodepoort
+P001709,Yusuf Zulu,03-Apr-1961,m,Krugersdorp
+P002013,Mpho Williams,1993-01-09,M,Benoni
+P000694,Emma Govender,2020-01-17,Female,Krugersdorp
+P003157,Oliver Khumalo,1974-12-06,M,Krugersdorp
+P001955,Unathi Mabaso,2013-05-20,f,Roodepoort
+P001377,Zanele Tshabalala,1951-08-28,F,Roodepoort
+P002897,Sipho Mahlangu,1985-01-04,m,Roodepoort
+P002800,Ayesha Zulu,1990-03-12,f,Johannesburg
+P000063,Wanda Nkosi,1963-03-09,f,Roodepoort
+P000061,Hendrik Molefe,1941-02-21,Male,Midrand
+P002435,Karabo Smith,1957-05-20,F,Krugersdorp
+P002767,Nomsa Khumalo,1975-12-14,Female,Pretoria
+P002986,Bongani Williams,1958-11-17,M,Roodepoort
+P001314,Hendrik Van der Merwe,1965-01-06,m,Soweto
+P001570,Oliver Molefe,1982-06-08,m,Roodepoort
+P001941,Emma Ndlovu,1953-08-11,F,Centurion
+P000021,Palesa Mabaso,1959-09-04,Female,Johannesburg
+P002169,Gugu Mabaso,1982-12-10,F,Johannesburg
+P002276,Emma Govender,1990-11-01,f,Roodepoort
+P000195,Emma Smith,2023-04-17,F,Roodepoort
+P001164,Sibusiso Jacobs,1947-01-02,M,Pretoria
+P002463,Unathi Ndlovu,,Female,Roodepoort
+P000269,Tumi Naidoo,1981-06-09,F,Soweto
+P001489,Farouk Mokoena,1984-08-07,m,Krugersdorp
+P000069,Riaan Govender,17/12/1945,m,Midrand
+P001621,Chloe Nkosi,2014-10-16,Female,Soweto
+P002991, YUSUF SITHOLE ,1948-09-16,m,Krugersdorp
+P000664,Vusi Molefe,11/08/1968,M,Soweto
+P001588,Vusi Tshabalala,16/09/2020,M,Benoni
+P003143,Riaan Mabaso,24/12/1974,M,Krugersdorp
+P000721,Pieter Ndlovu,1962-03-06,M,Johannesburg
+P002713,Karabo Zulu,1952-05-11,F,Benoni
+P001531,Liam Ndlovu,26/06/1993,Male,Benoni
+P000022,Imaan Ndlovu,2018-03-21,f,Soweto
+P001944,Karabo Govender,26-Oct-1973,f,Krugersdorp
+P001935,Chloe Khumalo,1950-08-08,Female,Roodepoort
+P000849,Karabo Mahlangu,1950-05-02,F,Midrand
+P000251,Imaan Molefe,1940-06-09,F,Midrand
+P002557,Riaan Van der Merwe,1972-11-13,M,Midrand
+P001155,Naledi Jacobs,1973-04-26,Female,Johannesburg
+P002766,Thabo Jacobs,1968-10-19,m,Krugersdorp
+P001481,Palesa Govender,2006-01-24,f,Soweto
+P001663,Zanele Van der Merwe,1994-10-24,Female,Midrand
+P001369,Palesa Khumalo,1991-04-03,F,Krugersdorp
+P000498,Sipho Govender,02/01/1999,M,Pretoria
+P000810,Palesa Dlamini,1998-03-27,f,Johannesburg
+P002205,Sibusiso Nkosi,2004-01-17,m,Roodepoort
+P002889,Naledi Smith,,Female,Centurion
+P001134,Yusuf Ndlovu,1993-08-01,M,Roodepoort
+P001859,Imaan Williams,1972-12-22,F,Centurion
+P000114,Jabu Molefe,1988-06-25,m,Pretoria
+P001243,Megan Nkosi,1948-04-07,F,Roodepoort
+P002188,Gugu Tshabalala,1947-03-06,F,Soweto
+P000405,Hendrik Botha,13/05/1958,M,Roodepoort
+P003060,Anika Du Plessis,1984-12-01,F,Krugersdorp
+P003113,Tumi Govender,2004-08-06,F,Krugersdorp
+P000426,Lerato Sithole,1975-03-09,F,Krugersdorp
+P002635,Ayesha Williams,1985-08-15,F,Midrand
+P001704,Sipho Pillay,1970-04-14,Male,Krugersdorp
+P001288,Nomsa Jacobs,1943-01-07,F,Midrand
+P001989,Tumi Molefe,1991-11-10,F,Benoni
+P001662,Bongani Smith,1983-12-21,M,Johannesburg
+P001179,Riaan Nkosi,1998-03-27,M,Midrand
+P000695,Sibusiso Nkosi,1958-03-21,M,Benoni
+P001162,Dumisani Sithole,2017-03-12,M,Krugersdorp
+P001947,Johan Mokoena,2020-06-14,m,Midrand
+P003162,Zanele Jacobs,2006-09-11,f,Pretoria
+P002530,Yusuf Zulu,1973-10-05,M,Pretoria
+P000971,Riaan Smith,2018-03-17,m,Roodepoort
+P001791,Lerato Van der Merwe,1978-06-22,F,Midrand
+P001046,Lerato Tshabalala,1977-07-07,F,Pretoria
+P002295, JABU BOTHA ,1940-07-10,M,Benoni
+P001619,Imaan Govender,1987-06-07,F,Centurion
+P001142,Naledi Tshabalala,1959-08-23,Female,Centurion
+P002074,Lerato Khumalo,1984-01-18,Female,Krugersdorp
+P001768,Wanda Pillay,1988-07-26,Female,Soweto
+P001541,Gugu Smith,1958-03-04,F,Soweto
+P001910,Lerato Smith,05/11/1946,f,Johannesburg
+P001373,Sipho Khumalo,1978-09-16,M,Benoni
+P000716,Zinhle Pretorius,1964-01-24,Female,Benoni
+P003019,Emma Adams,2000-10-24,F,Soweto
+P000407,Farouk Van der Merwe,1986-05-26,M,Pretoria
+P000384,Sibusiso Botha,1964-04-22,Male,Midrand
+P001370, ZINHLE ADAMS ,20/02/1971,Female,Centurion
+P003093,Lerato Pretorius,08/04/1960,F,Roodepoort
+P000562, THABO MABASO ,1977-12-26,Male,Johannesburg
+P002360,Nomsa Mokoena,1964-09-27,F,Johannesburg
+P000431,Thabo Botha,22/02/1943,M,Benoni
+P000121,Pieter Mabaso,1978-12-25,M,Centurion
+P000289,Lerato Govender,2003-08-17,f,Midrand
+P000263,Palesa Williams,02/01/1943,f,Krugersdorp
+P000475,Dumisani Govender,1958-06-11,M,Johannesburg
+P000985, SIBUSISO VAN DER MERWE ,1986-02-12,M,Johannesburg
+P001999,Yusuf Khumalo,1979-02-17,M,Johannesburg
+P001089,Johan Pillay,1980-11-22,M,Pretoria
+P001264,Thabo Sithole,2016-02-28,M,Roodepoort
+P000469,Sibusiso Williams,1943-02-19,M,Benoni
+P001876,Riaan Du Plessis,1954-11-24,M,Benoni
+P002404,Anika Sithole,18/03/2018,f,Krugersdorp
+P003188,Hendrik Molefe,1978-11-03,M,Centurion
+P002469, EMMA MABASO ,1945-05-16,F,Pretoria
+P001732,Emma Botha,1952-10-12,f,Johannesburg
+P000391,Mpho Dlamini,1991-04-02,M,Johannesburg
+P001594,Kagiso Pretorius,23-Mar-1968,Male,Pretoria
+P000640,Palesa Pretorius,1969-06-24,F,Krugersdorp
+P000416,Sipho Van der Merwe,1965-04-24,M,Johannesburg
+P000479,Zinhle Du Plessis,22/08/2017,f,Midrand
+P000404,Farouk Williams,2017-04-01,m,Johannesburg
+P000010,Palesa Mabaso,23/06/1980,F,Krugersdorp
+P000454,Gugu Mabaso,1981-02-21,f,Roodepoort
+P001476,Palesa Molefe,21/03/1982,F,Soweto
+P001813,Chloe Smith,1976-02-12,Female,Krugersdorp
+P000771,Zanele Pretorius,2020-04-09,F,Krugersdorp
+P001635,Naledi Williams,1981-02-02,F,Roodepoort
+P001165,Anika Sithole,28/06/1989,F,Centurion
+P002390,Gugu Tshabalala,1947-01-24,Female,Johannesburg
+P002037,Farouk Molefe,1959-06-08,M,Johannesburg
+P002245,Hendrik Nkosi,1995-11-20,M,Benoni
+P000650,Naledi Botha,2001-05-11,Female,Roodepoort
+P001755,Sibusiso Smith,1968-10-27,M,Krugersdorp
+P001128,Jabu Naidoo,1999-11-03,M,Roodepoort
+P002866,Nomsa Sithole,1957-01-16,f,Johannesburg
+P000057,Thabo Smith,1974-06-26,m,Johannesburg
+P000190,Kagiso Adams,2002-12-18,M,Soweto
+P003167,Thabo Mahlangu,21/04/1946,M,Roodepoort
+P000546, ZINHLE JACOBS ,1983-07-13,F,Soweto
+P000295,Lerato Adams,27/03/1990,F,Benoni
+P002734,Nomsa Dlamini,2013-06-04,F,Midrand
+P000177,Megan Nkosi,2000-08-27,F,Johannesburg
+P000224,Riaan Molefe,1977-08-12,M,Pretoria
+P002167,Yusuf Williams,1945-06-05,M,Centurion
+P001509,Palesa Ndlovu,1993-10-17,f,Johannesburg
+P003017,Palesa Williams,2005-06-13,f,Centurion
+P002721,Johan Mahlangu,1999-08-09,M,Centurion
+P003116,Emma Mahlangu,1997-10-27,F,Soweto
+P002262,Zinhle Tshabalala,2006-04-11,Female,Midrand
+P002127,Johan Tshabalala,2024-02-06,m,Roodepoort
+P002482,Sipho Sithole,1961-02-05,Male,Centurion
+P002812,Unathi Jacobs,16/11/1969,F,Pretoria
+P000557,Imaan Botha,2018-06-03,F,Pretoria
+P001012,Zanele Sithole,1982-10-15,F,Pretoria
+P001614,Tumi Tshabalala,1991-10-18,Female,Centurion
+P000968,Pieter Zulu,2022-10-09,M,Benoni
+P000817,Thabo Mabaso,1962-09-01,M,Centurion
+P002503,Sipho Mabaso,1995-04-27,M,Centurion
+P002914,Liam Khumalo,1946-08-04,M,Roodepoort
+P000361,Imaan Pillay,2024-11-08,F,Johannesburg
+P000468,Megan Molefe,1997-07-13,F,Krugersdorp
+P002088,Riaan Ndlovu,2016-01-09,Male,Pretoria
+P002944,Lerato Dlamini,1976-06-21,f,Pretoria
+P002943,Sibusiso Govender,1970-07-28,m,Johannesburg
+P001283,Imaan Molefe,1943-10-15,F,Roodepoort
+P000084,Thabo Mahlangu,2018-02-07,M,Roodepoort
+P000039,Pieter Zulu,1940-03-06,Male,Pretoria
+P003030,Megan Williams,2017-12-03,F,Centurion
+P001200,Chloe Ndlovu,1951-09-18,f,Krugersdorp
+P002281,Nomsa Botha,27-Feb-1972,f,Roodepoort
+P001024,Wanda Van der Merwe,1995-03-22,F,Soweto
+P000984,Kagiso Pillay,2000-08-13,M,Midrand
+P002302,Nomsa Zulu,1947-09-02,Female,Roodepoort
+P001973,Bongani Mahlangu,1987-05-13,Male,Midrand
+P002141, ZINHLE WILLIAMS ,24/06/1995,F,Benoni
+P002506,Emma Mahlangu,19/05/1993,f,Soweto
+P000725,Mpho Molefe,28/01/2005,M,Centurion
+P002300,Farouk Naidoo,2019-09-24,m,Krugersdorp
+P001756,Bongani Zulu,1967-06-22,m,Johannesburg
+P001238,Riaan Jacobs,1977-05-22,m,Pretoria
+P000271,Palesa Van der Merwe,20/02/1968,F,Krugersdorp
+P001578,Sibusiso Adams,1959-02-07,Male,Centurion
+P000256,Tumi Du Plessis,1985-02-08,F,Roodepoort
+P000821,Hendrik Sithole,1951-04-15,m,Johannesburg
+P002183,Palesa Adams,11/05/1960,F,Soweto
+P000864,Nomsa Pillay,1952-09-16,F,Soweto
+P002916,Lerato Pretorius,1987-02-16,f,Centurion
+P002187,Liam Ndlovu,16/09/1979,m,Centurion
+P002837,Ayesha Ndlovu,2014-12-10,f,Johannesburg
+P000397,Kagiso Botha,1954-01-16,M,Roodepoort
+P000884,Imaan Molefe,2023-11-09,Female,Krugersdorp
+P001969,Johan Adams,2022-04-06,M,Soweto
+P002018, OLIVER MAHLANGU ,1997-01-25,Male,Centurion
+P000467,Mpho Botha,1964-12-19,M,Centurion
+P001749,Tumi Pretorius,1964-12-08,Female,Midrand
+P000399,Thabo Jacobs,1974-08-01,Male,Midrand
+P002335, CHLOE VAN DER MERWE ,1965-03-06,F,Benoni
+P002425,Emma Pillay,1989-12-08,F,Roodepoort
+P002567,Zanele Khumalo,1973-11-01,Female,Benoni
+P000704,Zinhle Govender,2002-08-09,F,Centurion
+P001918,Imaan Tshabalala,1981-11-28,F,Johannesburg
+P001339,Farouk Pretorius,1986-10-11,M,Soweto
+P000124, ANIKA KHUMALO ,09/02/2013,F,Pretoria
+P001477, LIAM NDLOVU ,1989-04-05,M,Krugersdorp
+P001152,Imaan Mahlangu,1954-11-06,F,Centurion
+P001468,Riaan Govender,2024-12-10,Male,Midrand
+P000502,Zanele Jacobs,18/05/2003,Female,Krugersdorp
+P000582,Yusuf Williams,1966-01-06,M,Centurion
+P002627,Lerato Mokoena,1969-12-07,F,Centurion
+P002909,Gugu Du Plessis,2020-05-27,f,Soweto
+P001226,Liam Du Plessis,1999-07-26,Male,Midrand
+P001129,Zinhle Pillay,2015-07-25,Female,Soweto
+P002286,Dumisani Van der Merwe,16/07/2019,Male,Benoni
+P000555, MEGAN DU PLESSIS ,2022-06-11,F,Centurion
+P002132,Chloe Khumalo,1980-05-10,F,Johannesburg
+P002341, AYESHA DU PLESSIS ,2015-05-16,F,Centurion
+P002153,Bongani Mokoena,2003-04-11,M,Benoni
+P000386, ZANELE PILLAY ,18/04/1963,F,Roodepoort
+P001274, KARABO ADAMS ,1972-08-25,f,Benoni
+P000813, PIETER ZULU ,10/06/2005,M,Pretoria
+P001806,Karabo Adams,1996-07-09,Female,Centurion
+P000634,Sibusiso Pillay,04/10/2005,Male,Krugersdorp
+P000225,Naledi Tshabalala,1943-01-20,Female,Soweto
+P000159,Zanele Smith,1997-09-17,F,Benoni
+P002722,Thabo Molefe,2017-03-13,M,Roodepoort
+P000793,Oliver Mokoena,13/01/1972,M,Benoni
+P002107,Nomsa Mahlangu,1945-09-18,f,Benoni
+P002494,Naledi Smith,01/11/1968,F,Johannesburg
+P001060,Megan Dlamini,1940-04-11,Female,Johannesburg
+P001900,Lerato Williams,2021-09-27,F,Soweto
+P000181,Johan Pretorius,1965-09-22,m,Pretoria
+P000180,Anika Dlamini,2022-11-02,F,Pretoria
+P001887,Unathi Adams,08/10/1957,F,Johannesburg
+P000696,Riaan Khumalo,08-May-2021,M,Krugersdorp
+P000505,Dumisani Pillay,2019-12-19,m,Pretoria
+P001121,Bongani Smith,1941-01-03,M,Roodepoort
+P001626,Gugu Molefe,1968-03-01,F,Midrand
+P000412,Johan Du Plessis,1983-02-07,m,Midrand
+P000262,Sipho Jacobs,1956-05-27,M,Centurion
+P000805,Zanele Ndlovu,16/09/2005,F,Roodepoort
+P002493,Megan Pillay,27/05/1995,Female,Pretoria
+P002441,Nomsa Pillay,,Female,Soweto
+P000834,Yusuf Zulu,21/08/2015,M,Pretoria
+P002835,Wanda Van der Merwe,2013-02-15,F,Krugersdorp
+P002386,Hendrik Botha,1953-05-06,M,Soweto
+P002652,Chloe Zulu,1953-12-03,Female,Pretoria
+P002979,Sibusiso Sithole,1978-05-27,M,Centurion
+P002870,Tumi Williams,1959-06-08,F,Soweto
+P002345, FAROUK WILLIAMS ,2000-07-10,M,Krugersdorp
+P001419,Mpho Van der Merwe,1960-09-28,M,Pretoria
+P000723,Yusuf Van der Merwe,1983-11-13,M,Johannesburg
+P000303,Imaan Botha,17-Oct-1947,Female,Krugersdorp
+P000804,Palesa Govender,2019-05-23,F,Soweto
+P000110,Unathi Dlamini,1943-10-05,F,Johannesburg
+P002632, OLIVER SITHOLE ,07/03/1967,M,Centurion
+P001997,Palesa Naidoo,1940-03-23,f,Midrand
+P001720,Farouk Pretorius,1988-05-12,M,Krugersdorp
+P002170,Hendrik Jacobs,1986-09-26,M,Pretoria
+P003198,Zanele Williams,1977-02-11,F,Soweto
+P003168,Farouk Dlamini,1967-08-23,M,Centurion
+P001667,Johan Sithole,08/06/1960,m,Pretoria
+P000692,Pieter Mabaso,1941-11-28,M,Benoni
+P000889,Farouk Van der Merwe,14/02/2004,m,Johannesburg
+P000109,Sipho Mabaso,2002-07-22,M,Midrand
+P000774,Sipho Botha,2023-03-19,M,Pretoria
+P000714,Naledi Van der Merwe,1949-04-07,F,Midrand
+P002618,Chloe Pretorius,1950-10-13,f,Centurion
+P001191,Farouk Dlamini,15/10/2021,M,Krugersdorp
+P002564,Unathi Van der Merwe,1975-05-27,f,Roodepoort
+P001977,Sibusiso Pretorius,2018-10-25,m,Pretoria
+P001815,Pieter Ndlovu,2023-12-19,M,Soweto
+P002907,Anika Tshabalala,1944-04-05,Female,Centurion
+P000735,Naledi Mabaso,1958-11-10,F,Midrand
+P001157,Wanda Pillay,2020-09-04,Female,Soweto
+P001205,Sipho Tshabalala,1951-09-05,M,Roodepoort
+P001803,Karabo Botha,1959-07-19,F,Benoni
+P000875,Kagiso Govender,2015-08-11,Male,Midrand
+P003192,Dumisani Williams,1983-10-21,M,Centurion
+P000029,Palesa Ndlovu,26/08/1984,F,Pretoria
+P002437,Zanele Mahlangu,25/08/1990,F,Pretoria
+P000787,Karabo Pillay,1995-10-17,f,Soweto
+P000729,Sipho Van der Merwe,1950-08-27,M,Benoni
+P001023,Liam Mahlangu,1940-04-22,m,Krugersdorp
+P000648,Gugu Nkosi,1969-03-09,f,Johannesburg
+P000266,Chloe Dlamini,1970-12-08,F,Roodepoort
+P002046,Mpho Mabaso,2005-02-20,M,Pretoria
+P000554,Naledi Dlamini,1997-10-18,F,Krugersdorp
+P000851,Sibusiso Mahlangu,1955-02-17,m,Krugersdorp
+P001220,Anika Govender,2020-12-25,Female,Midrand
+P000669,Chloe Pretorius,1992-03-08,f,Benoni
+P002750,Unathi Nkosi,1981-05-12,f,Krugersdorp
+P000917,Emma Molefe,2016-12-04,F,Soweto
+P000820,Jabu Tshabalala,2012-03-23,M,Roodepoort
+P002667,Pieter Tshabalala,1999-02-25,Male,Krugersdorp
+P001239,Mpho Ndlovu,2004-02-10,M,Pretoria
+P000818,Bongani Khumalo,08/09/1998,m,Soweto
+P001814,Gugu Pillay,28/09/1970,F,Soweto
+P002717,Anika Govender,21/06/2013,F,Pretoria
+P002420,Kagiso Botha,1995-08-16,Male,Roodepoort
+P000668,Pieter Govender,1946-01-10,M,Pretoria
+P000073,Anika Zulu,1951-11-17,F,Roodepoort
+P001652,Sibusiso Pretorius,1947-09-24,M,Centurion
+P000977,Yusuf Du Plessis,2017-11-17,M,Midrand
+P000649,Liam Botha,16/03/2015,m,Soweto
+P001653,Johan Adams,2012-06-06,Male,Benoni
+P002401,Palesa Ndlovu,2019-09-23,F,Roodepoort
+P001187,Bongani Tshabalala,1984-01-10,Male,Benoni
+P000833,Chloe Du Plessis,04/03/1975,f,Centurion
+P000904,Zanele Mokoena,02/08/1974,Female,Johannesburg
+P000899,Pieter Mabaso,1943-07-15,m,Krugersdorp
+P001137, MEGAN DLAMINI ,1988-10-04,F,Johannesburg
+P000274,Wanda Van der Merwe,05/09/1997,f,Roodepoort
+P000272,Johan Williams,21-Jan-1989,m,Soweto
+P002994,Chloe Mokoena,18/01/1967,f,Soweto
+P001799,Palesa Botha,1993-11-20,Female,Krugersdorp
+P000935,Hendrik Ndlovu,24/11/1991,M,Krugersdorp
+P000027,Dumisani Pillay,08/11/1982,M,Benoni
+P000844,Sipho Sithole,22/04/1992,M,Centurion
+P003148,Johan Pretorius,2012-02-01,m,Centurion
+P000593,Liam Ndlovu,2017-07-21,M,Pretoria
+P000829,Tumi Du Plessis,10/08/1955,F,Centurion
+P002637,Karabo Molefe,06-Oct-1978,F,Johannesburg
+P001375,Mpho Botha,1971-08-28,m,Pretoria
+P001553,Hendrik Pretorius,08-Jul-1940,M,Midrand
+P001645,Chloe Khumalo,1941-10-20,F,Krugersdorp
+P002861, NOMSA TSHABALALA ,10/08/1950,f,Pretoria
+P001818,Bongani Van der Merwe,04/11/2016,M,Centurion
+P001450,Sibusiso Molefe,2017-10-21,M,Midrand
+P000513,Anika Khumalo,21/10/1948,f,Johannesburg
+P001466, TUMI ADAMS ,27/01/2018,F,Centurion
+P002878,Chloe Govender,1994-12-23,f,Pretoria
+P001295,Naledi Botha,1956-10-15,f,Midrand
+P002329,Unathi Ndlovu,2017-01-07,F,Johannesburg
+P000690,Riaan Mokoena,1947-04-12,M,Benoni
+P002490,Palesa Zulu,10/01/1991,F,Roodepoort
+P001482,Megan Naidoo,15/07/1969,Female,Centurion
+P000210,Palesa Du Plessis,23/11/2018,Female,Roodepoort
+P002419,Pieter Khumalo,2017-03-04,M,Midrand
+P001345,Zinhle Du Plessis,1994-08-11,F,Krugersdorp
+P000439,Zanele Mokoena,12/12/2020,Female,Krugersdorp
+P000996,Palesa Williams,1974-03-05,f,Centurion
+P002971,Naledi Naidoo,1952-11-06,F,Centurion
+P002362,Palesa Tshabalala,1990-07-15,F,Pretoria
+P002309,Zanele Naidoo,1997-09-17,F,Johannesburg
+P002654,Unathi Smith,13/09/1943,Female,Pretoria
+P002605,Karabo Du Plessis,01-Mar-1994,F,Benoni
+P003109,Karabo Zulu,1942-12-02,F,Pretoria
+P001275,Nomsa Sithole,1947-01-21,F,Pretoria
+P001069,Ayesha Govender,14/06/1947,Female,Krugersdorp
+P001388,Imaan Mabaso,17/07/1958,F,Johannesburg
+P000095, MPHO VAN DER MERWE ,19-May-2003,Male,Centurion
+P002365,Lerato Mahlangu,20-Nov-1964,Female,Pretoria
+P000632,Kagiso Nkosi,14/01/1952,M,Roodepoort
+P000092,Ayesha Sithole,14/08/1982,F,Centurion
+P000948,Liam Smith,1976-12-22,M,Johannesburg
+P002301,Vusi Mahlangu,1953-07-01,M,Benoni
+P000657,Karabo Khumalo,17/04/1943,F,Krugersdorp
+P001257,Nomsa Jacobs,2012-01-07,F,Midrand
+P000089,Riaan Jacobs,1956-03-16,M,Roodepoort
+P000907,Jabu Pillay,1955-04-05,m,Johannesburg
+P002014,Palesa Nkosi,24/07/1955,Female,Johannesburg
+P001866,Chloe Williams,2021-02-12,F,Midrand
+P001750,Tumi Mahlangu,1993-01-14,F,Krugersdorp
+P000892,Unathi Zulu,1952-01-28,Female,Krugersdorp
+P002231,Farouk Molefe,2005-09-19,Male,Soweto
+P000187,Naledi Nkosi,2015-05-25,F,Soweto
+P001067,Megan Molefe,1981-10-01,F,Midrand
+P003111,Anika Pillay,1982-05-28,F,Benoni
+P001928,Johan Adams,1988-12-06,M,Pretoria
+P002910,Bongani Pillay,27/11/1958,Male,Johannesburg
+P001178,Pieter Botha,1942-04-28,Male,Centurion
+P001515,Lerato Ndlovu,1964-08-23,F,Pretoria
+P003161,Lerato Pillay,1963-11-07,F,Pretoria
+P002746,Bongani Naidoo,2019-04-02,M,Centurion
+P002166,Bongani Ndlovu,1964-08-21,M,Midrand
+P002112,Nomsa Khumalo,1963-08-09,F,Roodepoort
+P002532,Karabo Naidoo,1954-10-21,Female,Pretoria
+P000139,Unathi Naidoo,1940-07-06,F,Pretoria
+P002424,Anika Adams,2015-02-06,Female,Soweto
+P003147, ANIKA GOVENDER ,1993-03-21,F,Roodepoort
+P000707,Zinhle Ndlovu,1940-01-28,Female,Benoni
+P000693,Kagiso Du Plessis,1961-03-01,m,Soweto
+P001366,Chloe Pretorius,1959-12-04,F,Benoni
+P002246,Sibusiso Mahlangu,1971-12-13,M,Soweto
+P001077,Pieter Botha,1986-11-01,M,Pretoria
+P001773,Chloe Van der Merwe,2018-09-09,F,Krugersdorp
+P002571,Hendrik Sithole,1951-10-09,M,Centurion
+P001671,Nomsa Dlamini,1967-09-03,f,Midrand
+P002760,Lerato Pillay,1994-10-18,F,Krugersdorp
+P002426,Sibusiso Govender,1944-06-23,Male,Centurion
+P001925,Anika Mokoena,23/10/1955,f,Krugersdorp
+P001727,Kagiso Jacobs,1988-06-10,M,Johannesburg
+P000351,Thabo Ndlovu,,M,Soweto
+P002839,Ayesha Zulu,1953-11-21,F,Pretoria
+P001068,Farouk Pillay,1941-02-06,M,Midrand
+P001457,Megan Molefe,20/11/1999,f,Pretoria
+P002576,Anika Naidoo,1983-07-04,f,Midrand
+P001478,Emma Nkosi,16/09/1999,Female,Pretoria
+P002855,Jabu Nkosi,26/12/1941,Male,Pretoria
+P001912,Lerato Williams,26/04/1954,F,Soweto
+P002949,Palesa Du Plessis,1955-12-20,f,Roodepoort
+P002692,Karabo Mabaso,02-Oct-1980,F,Roodepoort
+P000398,Oliver Van der Merwe,1977-11-22,m,Roodepoort
+P000952,Imaan Sithole,1945-06-14,Female,Midrand
+P003028,Oliver Pretorius,27/07/1943,m,Krugersdorp
+P002358,Sipho Molefe,1948-03-24,Male,Pretoria
+P001473,Palesa Jacobs,1990-07-25,f,Midrand
+P001681,Nomsa Du Plessis,2004-01-27,F,Midrand
+P000609,Emma Pillay,1943-04-21,F,Benoni
+P002299,Thabo Du Plessis,1943-04-25,M,Soweto
+P001432,Johan Mahlangu,2017-08-23,M,Krugersdorp
+P001409,Vusi Van der Merwe,1945-10-05,m,Benoni
+P002150,Sipho Dlamini,1945-06-14,M,Midrand
+P003119,Bongani Zulu,1952-04-10,Male,Pretoria
+P000708,Thabo Tshabalala,21/09/1960,Male,Midrand
+P001714,Gugu Dlamini,2022-12-09,F,Benoni
+P000923,Ayesha Mokoena,2001-10-20,F,Roodepoort
+P002032,Emma Naidoo,1973-02-17,F,Soweto
+P001585,Wanda Ndlovu,1957-10-14,F,Benoni
+P002370,Anika Jacobs,1965-04-28,f,Roodepoort
+P000883,Mpho Govender,1981-01-17,M,Pretoria
+P001029,Unathi Botha,2002-12-07,F,Benoni
+P001028,Wanda Du Plessis,1950-08-18,Female,Roodepoort
+P002212,Tumi Adams,1975-03-12,Female,Johannesburg
+P002764,Imaan Pretorius,1993-11-11,f,Johannesburg
+P002642,Pieter Botha,10-Jun-1959,M,Centurion
+P001034,Vusi Mokoena,27/12/1943,M,Centurion
+P002580,Zanele Tshabalala,1964-04-27,F,Pretoria
+P000484,Jabu Khumalo,1961-08-08,Male,Midrand
+P001642,Emma Du Plessis,1955-07-12,F,Benoni
+P002002,Anika Van der Merwe,1956-04-15,f,Midrand
+P002135,Riaan Smith,2012-05-23,M,Pretoria
+P002391,Gugu Adams,1994-10-17,f,Midrand
+P002630,Emma Mabaso,2022-01-26,F,Benoni
+P002338,Sibusiso Williams,1962-05-08,M,Benoni
+P000228,Liam Molefe,1966-05-14,Male,Roodepoort
+P002689,Ayesha Mahlangu,1984-02-20,F,Centurion
+P001222,Imaan Sithole,1940-12-09,F,Johannesburg
+P002645,Riaan Tshabalala,2001-06-25,Male,Pretoria
+P002799,Anika Nkosi,2005-08-28,Female,Centurion
+P000202,Kagiso Williams,1969-11-06,M,Benoni
+P002421,Sipho Mokoena,1946-02-05,Male,Centurion
+P000142,Zanele Pretorius,2020-03-03,F,Krugersdorp
+P002451, KAGISO SMITH ,1962-08-27,m,Krugersdorp
+P002683,Thabo Jacobs,2003-10-11,m,Krugersdorp
+P002823,Thabo Smith,11-Oct-1951,M,Soweto
+P000642,Vusi Du Plessis,1993-11-03,Male,Krugersdorp
+P000345,Mpho Sithole,1973-10-15,m,Centurion
+P002529,Imaan Nkosi,1940-09-01,F,Soweto
+P002985,Chloe Dlamini,02/06/1952,F,Johannesburg
+P002584,Kagiso Botha,14/12/1948,M,Soweto
+P001057,Wanda Nkosi,2014-12-15,f,Benoni
+P002352,Bongani Botha,1967-02-01,Male,Krugersdorp
+P001356,Karabo Van der Merwe,2005-11-18,f,Benoni
+P000654,Wanda Pillay,2024-12-15,F,Pretoria
+P001836,Ayesha Khumalo,2004-04-23,F,Centurion
+P002216,Unathi Pillay,1970-07-16,F,Midrand
+P000731,Unathi Williams,1988-05-04,F,Roodepoort
+P002851,Dumisani Williams,1995-05-10,M,Soweto
+P001571,Bongani Sithole,1985-05-14,M,Pretoria
+P002486,Zinhle Jacobs,2001-09-23,f,Midrand
+P000318,Riaan Nkosi,1971-06-07,Male,Johannesburg
+P000478,Karabo Khumalo,1995-09-09,F,Midrand
+P002491,Palesa Mahlangu,21/07/1991,F,Midrand
+P000960,Zanele Jacobs,1968-10-25,f,Midrand
+P002349,Wanda Zulu,1984-01-02,F,Midrand
+P001596,Chloe Govender,20/11/1945,F,Krugersdorp
+P002053,Ayesha Dlamini,11/04/1978,Female,Johannesburg
+P001344,Anika Van der Merwe,1983-08-26,f,Krugersdorp
+P000992,Pieter Mahlangu,26-Aug-1975,Male,Roodepoort
+P001952,Karabo Van der Merwe,2015-08-01,Female,Krugersdorp
+P001436,Zanele Du Plessis,05/03/1945,Female,Roodepoort
+P002874,Liam Jacobs,1940-05-17,m,Soweto
+P002682,Zinhle Van der Merwe,26-Oct-2006,Female,Krugersdorp
+P003024,Karabo Tshabalala,1944-09-18,f,Johannesburg
+P000522,Wanda Mabaso,1985-07-28,f,Johannesburg
+P000514,Mpho Du Plessis,1951-11-23,M,Midrand
+P001199,Johan Sithole,1954-12-15,m,Krugersdorp
+P002830,Wanda Naidoo,2024-10-26,F,Soweto
+P000949,Nomsa Nkosi,09-Jul-1965,F,Roodepoort
+P001449,Unathi Mabaso,22-Nov-1992,F,Roodepoort
+P000572,Zanele Du Plessis,2017-07-04,F,Midrand
+P000302,Karabo Naidoo,1995-04-02,F,Roodepoort
+P001584,Johan Williams,1991-06-13,m,Centurion
+P000221,Zanele Smith,1996-11-04,F,Benoni
+P000240,Unathi Nkosi,2014-11-01,F,Johannesburg
+P000213,Ayesha Zulu,1992-08-10,F,Soweto
+P002762, VUSI NAIDOO ,2019-07-21,M,Benoni
+P000304, PIETER MAHLANGU ,1996-02-17,m,Benoni
+P001715,Farouk Tshabalala,2020-10-05,m,Benoni
+P002660,Sibusiso Naidoo,05-May-1994,M,Roodepoort
+P000697,Bongani Pillay,2024-06-23,M,Roodepoort
+P001101,Gugu Jacobs,2006-01-21,F,Johannesburg
+P001462,Tumi Mokoena,28/03/1982,f,Pretoria
+P002828,Vusi Pillay,26/08/1980,M,Soweto
+P000925,Thabo Williams,1967-07-25,Male,Benoni
+P001983,Gugu Jacobs,1995-10-13,Female,Benoni
+P000474,Unathi Du Plessis,1947-09-23,F,Midrand
+P000683,Palesa Botha,2012-01-08,F,Pretoria
+P002449,Thabo Pillay,1961-03-09,Male,Roodepoort
+P000196,Farouk Jacobs,1959-12-05,M,Soweto
+P002636,Yusuf Ndlovu,23/08/1947,M,Krugersdorp
+P001593, KARABO GOVENDER ,2004-02-04,F,Centurion
+P002223,Riaan Dlamini,1976-12-10,M,Johannesburg
+P000757,Mpho Smith,2020-03-12,M,Midrand
+P000963,Chloe Botha,1943-04-16,F,Centurion
+P002952,Yusuf Tshabalala,2003-03-06,M,Roodepoort
+P002547,Gugu Smith,1988-11-03,F,Benoni
+P001622,Pieter Govender,1949-02-09,m,Midrand
+P002931,Chloe Mahlangu,2004-03-08,F,Roodepoort
+P001901,Sibusiso Mahlangu,1991-04-20,Male,Johannesburg
+P001341,Unathi Ndlovu,1952-07-09,F,Soweto
+P000488,Pieter Mahlangu,1980-12-18,M,Roodepoort
+P002149,Zanele Adams,1957-01-05,f,Midrand
+P000967,Emma Pillay,,Female,Midrand
+P001543,Thabo Mahlangu,2004-10-27,M,Roodepoort
+P002512,Anika Nkosi,1986-11-20,Female,Benoni
+P001850,Megan Mokoena,27/09/1993,F,Midrand
+P002834,Nomsa Khumalo,1959-09-14,F,Krugersdorp
+P000691,Karabo Jacobs,1993-04-11,F,Midrand
+P003121,Imaan Molefe,2019-07-20,F,Centurion
+P001384,Vusi Van der Merwe,27/11/1957,M,Pretoria
+P000044,Gugu Molefe,1980-02-22,F,Pretoria
+P003146,Farouk Pretorius,1998-11-20,M,Centurion
+P001723,Gugu Tshabalala,1974-06-10,f,Benoni
+P003164,Jabu Nkosi,11/03/1988,m,Krugersdorp
+P001010,Chloe Williams,1962-03-15,F,Benoni
+P003008,Nomsa Mabaso,2023-02-05,f,Krugersdorp
+P001122,Thabo Mokoena,08/06/1952,M,Centurion
+P001640, OLIVER DLAMINI ,1945-01-03,Male,Centurion
+P000807,Nomsa Van der Merwe,1987-02-12,Female,Soweto
+P002862,Karabo Sithole,22/03/2004,Female,Pretoria
+P002162,Dumisani Smith,1973-07-03,Male,Midrand
+P003091,Zanele Van der Merwe,2019-12-18,F,Pretoria
+P000845,Kagiso Botha,17/09/1971,m,Soweto
+P002875,Pieter Dlamini,27/07/1995,M,Midrand
+P001399,Naledi Naidoo,25-Oct-1950,F,Soweto
+P001644,Lerato Pillay,14/05/2023,Female,Midrand
+P001581,Oliver Tshabalala,1972-07-13,M,Benoni
+P002553,Gugu Jacobs,1958-04-05,Female,Centurion
+P001050,Nomsa Zulu,1954-06-14,F,Midrand
+P001488,Nomsa Molefe,1967-12-26,F,Pretoria
+P000002,Anika Pillay,1951-07-14,F,Pretoria
+P000440,Tumi Jacobs,1983-11-22,F,Johannesburg
+P002599,Pieter Pretorius,2023-11-05,m,Roodepoort
+P002043,Emma Naidoo,1969-11-16,F,Krugersdorp
+P000015,Imaan Molefe,28-Jul-1957,F,Soweto
+P000581,Anika Dlamini,2022-02-17,F,Roodepoort
+P002447,Wanda Jacobs,1989-11-11,F,Krugersdorp
+P002099,Sibusiso Pillay,05/06/2018,M,Centurion
+P002801,Johan Ndlovu,1943-08-16,M,Johannesburg
+P001258,Nomsa Tshabalala,08/04/1992,f,Johannesburg
+P002729,Wanda Khumalo,15/12/1987,F,Benoni
+P002199,Farouk Pillay,1993-12-28,M,Roodepoort
+P001298,Liam Khumalo,1992-09-16,M,Soweto
+P003115,Anika Mahlangu,2006-10-25,F,Midrand
+P002049,Zanele Pillay,10/10/1997,F,Midrand
+P002903,Wanda Williams,1948-01-05,F,Johannesburg
+P002317,Kagiso Khumalo,1993-11-21,M,Centurion
+P000376,Anika Van der Merwe,1960-05-20,F,Centurion
+P001827,Pieter Ndlovu,2015-09-10,M,Soweto
+P000173,Wanda Mokoena,1999-02-24,F,Centurion
+P000777,Ayesha Tshabalala,2018-04-21,f,Roodepoort
+P000319, JABU SITHOLE ,2019-05-18,M,Benoni
+P000858,Pieter Govender,1951-01-01,M,Centurion
+P001100,Liam Pretorius,2017-04-13,m,Midrand
+P000673,Hendrik Govender,01-Apr-2017,M,Krugersdorp
+P002827,Lerato Dlamini,1970-08-04,F,Johannesburg
+P000651,Imaan Van der Merwe,23/01/2021,F,Soweto
+P002849,Megan Tshabalala,24/08/1997,F,Centurion
+P000355,Yusuf Smith,1969-10-16,m,Benoni
+P002593,Wanda Zulu,2021-04-06,Female,Krugersdorp
+P002095,Jabu Pretorius,1944-06-23,M,Johannesburg
+P000308,Gugu Jacobs,28/03/1985,F,Soweto
+P002739,Hendrik Pillay,09/02/1963,M,Roodepoort
+P001607,Megan Molefe,1984-09-10,Female,Johannesburg
+P002712,Bongani Naidoo,15-Jan-2022,m,Soweto
+P000955,Zinhle Khumalo,1969-07-17,f,Johannesburg
+P001471,Jabu Mokoena,1981-12-12,Male,Krugersdorp
+P000819,Palesa Botha,1943-03-11,Female,Pretoria
+P000534,Farouk Mahlangu,2016-11-25,Male,Johannesburg
+P001537,Unathi Mahlangu,1977-10-01,F,Pretoria
+P002064,Mpho Sithole,27/05/1992,m,Midrand
+P002515,Zinhle Van der Merwe,2023-04-06,F,Centurion
+P002791,Unathi Pretorius,1965-10-14,Female,Krugersdorp
+P002376,Gugu Mahlangu,1978-11-28,F,Centurion
+P000500,Johan Jacobs,1986-03-22,m,Johannesburg
+P001027,Tumi Jacobs,2013-02-19,F,Centurion
+P001802,Gugu Du Plessis,1972-09-04,f,Krugersdorp
+P001528,Farouk Molefe,1987-02-18,Male,Pretoria
+P000686, SIBUSISO MOLEFE ,2006-02-16,M,Johannesburg
+P000415,Emma Mabaso,1946-07-15,F,Roodepoort
+P002577,Lerato Dlamini,1990-10-09,Female,Midrand
+P001981,Farouk Pretorius,1965-02-11,m,Johannesburg
+P000339,Tumi Jacobs,1986-02-11,F,Benoni
+P002012, THABO DLAMINI ,1952-10-26,M,Benoni
+P001675,Megan Pillay,1980-10-20,F,Soweto
+P001848,Pieter Zulu,1988-06-08,M,Centurion
+P003045,Wanda Govender,2005-06-22,F,Roodepoort
+P001037,Liam Pillay,2021-02-15,M,Pretoria
+P002033,Wanda Jacobs,1979-08-12,f,Centurion
+P002204, THABO DLAMINI ,1971-12-26,M,Johannesburg
+P002372,Tumi Mahlangu,1952-01-25,Female,Roodepoort
+P002427,Sibusiso Molefe,1970-09-17,M,Benoni
+P001439,Imaan Sithole,1953-10-03,Female,Soweto
+P000217,Mpho Adams,2017-03-17,M,Johannesburg
+P001047,Chloe Nkosi,15/05/1956,f,Johannesburg
+P000070,Farouk Botha,1942-11-19,Male,Johannesburg
+P001021,Gugu Nkosi,1940-04-02,F,Centurion
+P000745,Mpho Pretorius,1960-06-04,M,Pretoria
+P001282,Farouk Sithole,1943-07-04,M,Soweto
+P001015,Mpho Jacobs,12/02/2023,M,Midrand
+P000973,Gugu Jacobs,1942-02-11,F,Centurion
+P003101,Sipho Mokoena,1959-09-28,M,Pretoria
+P001914,Nomsa Khumalo,1996-11-16,F,Krugersdorp
+P001460, UNATHI JACOBS ,2004-08-22,f,Midrand
+P003144, ANIKA WILLIAMS ,2003-06-03,Female,Pretoria
+P000008,Wanda Mahlangu,2019-06-24,F,Pretoria
+P003181,Wanda Nkosi,2005-10-04,Female,Soweto
+P001556,Naledi Mokoena,2005-11-22,f,Roodepoort
+P000447,Karabo Sithole,1945-11-15,F,Soweto
+P002047,Emma Zulu,1970-06-28,Female,Johannesburg
+P000906,Zanele Williams,2023-01-19,f,Midrand
+P000472,Johan Du Plessis,1955-02-08,m,Johannesburg
+P000965,Thabo Govender,1945-10-05,M,Krugersdorp
+P001087,Pieter Govender,2014-11-22,M,Centurion
+P001102, PALESA MOLEFE ,1948-12-10,F,Krugersdorp
+P001767,Nomsa Smith,2020-11-22,F,Centurion
+P000453,Oliver Ndlovu,1988-04-27,M,Pretoria
+P001974,Naledi Smith,1980-02-23,F,Krugersdorp
+P002843,Wanda Van der Merwe,2005-08-22,f,Johannesburg
+P002100,Lerato Ndlovu,2004-08-26,Female,Centurion
+P001329,Lerato Pillay,1989-06-21,Female,Krugersdorp
+P000957,Oliver Van der Merwe,2006-10-05,M,Roodepoort
+P000402,Naledi Khumalo,20/10/1956,F,Midrand
+P001456,Zinhle Mokoena,1975-05-24,F,Johannesburg
+P002751,Ayesha Pretorius,16/10/1983,F,Benoni
+P001117,Wanda Jacobs,16/02/2005,Female,Pretoria
+P001783,Gugu Mabaso,1959-10-08,F,Roodepoort
+P001868,Liam Du Plessis,1999-09-11,m,Johannesburg
+P001352,Dumisani Ndlovu,1981-05-20,Male,Krugersdorp
+P002958,Zanele Mabaso,1947-10-26,F,Roodepoort
+P002263,Lerato Du Plessis,1976-02-26,F,Krugersdorp
+P000763,Anika Molefe,2013-06-21,Female,Roodepoort
+P002676,Sibusiso Zulu,1958-08-07,m,Roodepoort
+P001302,Imaan Jacobs,1986-03-05,F,Soweto
+P001219,Hendrik Botha,1942-03-21,m,Soweto
+P001232,Unathi Naidoo,1940-12-09,F,Pretoria
+P002948,Lerato Tshabalala,15-Jun-2022,f,Pretoria
+P000806, NOMSA MABASO ,28/06/1989,F,Roodepoort
+P000445,Hendrik Mokoena,1968-12-03,M,Johannesburg
+P000123,Zinhle Sithole,02/11/1948,F,Soweto
+P000905,Anika Van der Merwe,1948-06-11,F,Benoni
+P001124,Tumi Sithole,,F,Benoni
+P001948,Nomsa Mabaso,1974-04-11,F,Benoni
+P001698,Zinhle Jacobs,1947-09-03,f,Benoni
+P000726,Bongani Jacobs,1992-06-16,m,Benoni
+P001414,Pieter Tshabalala,1999-07-28,M,Midrand
+P002626,Sipho Pretorius,1987-02-18,M,Soweto
+P001873,Pieter Botha,16-Jan-1940,m,Johannesburg
+P000584,Gugu Naidoo,1952-02-24,F,Pretoria
+P001307,Yusuf Khumalo,15/11/1978,M,Johannesburg
+P001786,Nomsa Naidoo,2014-09-10,F,Krugersdorp
+P002705,Vusi Naidoo,1972-01-25,Male,Benoni
+P000226,Ayesha Dlamini,2001-08-25,F,Centurion
+P000372,Chloe Adams,12/05/2014,F,Midrand
+P001362,Ayesha Zulu,1960-07-19,Female,Centurion
+P000362,Karabo Van der Merwe,2013-04-21,F,Midrand
+P000539,Zanele Tshabalala,1981-08-13,Female,Roodepoort
+P003134,Bongani Sithole,14-Jan-1987,M,Benoni
+P001207,Wanda Mahlangu,2022-10-03,Female,Midrand
+P002487,Bongani Mokoena,1949-04-10,m,Pretoria
+P002699,Palesa Pillay,1982-02-28,f,Krugersdorp
+P000491,Zanele Dlamini,2017-11-13,Female,Soweto
+P001189, KAGISO SITHOLE ,,M,Benoni
+P000594,Sipho Adams,17/04/1960,m,Centurion
+P000284,Naledi Govender,2006-07-27,F,Soweto
+P000024,Bongani Govender,2023-05-16,M,Johannesburg
+P002346,Thabo Nkosi,20/02/1945,Male,Pretoria
+P000116,Tumi Dlamini,1992-04-26,F,Benoni
+P001548,Zinhle Sithole,1956-05-26,F,Pretoria
+P003001,Vusi Adams,1999-10-05,M,Krugersdorp
+P001144,Ayesha Zulu,24/09/1962,F,Soweto
+P001054, ZANELE MABASO ,1963-08-10,F,Midrand
+P000643,Riaan Jacobs,1985-06-23,M,Midrand
+P000769,Palesa Jacobs,2020-11-10,Female,Centurion
+P000332,Nomsa Van der Merwe,1941-11-25,f,Centurion
+P001505,Naledi Mahlangu,1968-08-19,f,Pretoria
+P000580,Megan Pretorius,04/06/2005,f,Johannesburg
+P002840,Zanele Mokoena,2013-06-16,F,Pretoria
+P002853,Wanda Williams,03/11/1957,F,Midrand
+P000621,Mpho Tshabalala,02/12/2017,m,Midrand
+P000958,Liam Pretorius,2000-02-16,M,Centurion
+P001465,Naledi Naidoo,1948-03-08,F,Pretoria
+P002368,Pieter Mabaso,1995-06-26,M,Pretoria
+P002448, CHLOE VAN DER MERWE ,23/05/1953,F,Benoni
+P000255,Lerato Pretorius,1972-10-25,f,Krugersdorp
+P003177,Liam Tshabalala,08-Apr-1972,m,Benoni
+P000223,Lerato Mokoena,1961-09-20,f,Soweto
+P001467,Palesa Pretorius,2005-02-15,Female,Johannesburg
+P000160,Ayesha Ndlovu,1988-06-19,F,Soweto
+P003190,Bongani Dlamini,1949-03-15,M,Soweto
+P001968,Naledi Dlamini,2014-11-10,F,Pretoria
+P000602,Zanele Williams,1962-08-24,F,Soweto
+P001031,Naledi Nkosi,1991-05-10,F,Benoni
+P001404,Bongani Mabaso,1990-10-25,M,Krugersdorp
+P002017,Gugu Khumalo,13/09/2020,F,Benoni
+P001577,Emma Naidoo,2005-08-12,F,Pretoria
+P001392, DUMISANI MOLEFE ,1980-07-14,M,Johannesburg
+P001829,Palesa Pillay,1979-07-03,f,Krugersdorp
+P000574, VUSI ZULU ,1970-12-21,M,Midrand
+P001389,Karabo Ndlovu,1957-10-02,f,Benoni
+P000885,Chloe Naidoo,1980-02-23,F,Centurion
+P002867,Dumisani Jacobs,11-Jun-2006,M,Krugersdorp
+P000232,Kagiso Nkosi,1946-07-10,Male,Johannesburg
+P002068,Ayesha Ndlovu,1974-02-14,F,Krugersdorp
+P000712,Imaan Nkosi,1982-05-13,F,Soweto
+P000135,Anika Molefe,2019-09-16,F,Pretoria
+P002622,Vusi Sithole,2001-12-27,M,Midrand
+P002374,Gugu Govender,1979-07-24,f,Soweto
+P001583, MEGAN NDLOVU ,2000-02-06,f,Roodepoort
+P001113,Liam Williams,,M,Soweto
+P003088,Sibusiso Jacobs,1948-07-05,M,Pretoria
+P000037,Palesa Williams,02/03/1993,F,Benoni
+P000706,Nomsa Ndlovu,1985-12-14,Female,Benoni
+P003155,Unathi Mokoena,2024-04-11,F,Krugersdorp
+P002134,Chloe Tshabalala,13-Aug-1972,F,Soweto
+P001435,Lerato Mahlangu,2016-09-17,Female,Benoni
+P001180,Nomsa Molefe,1976-10-09,F,Midrand
+P003051,Unathi Pillay,01/10/1995,F,Soweto
+P000485,Sibusiso Naidoo,2015-09-04,M,Centurion
+P001623,Zinhle Van der Merwe,2002-09-10,F,Centurion
+P003072,Sibusiso Tshabalala,2000-02-20,M,Pretoria
+P003195,Riaan Zulu,2012-10-13,M,Benoni
+P002031,Liam Sithole,2004-12-13,m,Johannesburg
+P001712,Wanda Pillay,1969-01-28,F,Midrand
+P002154,Zanele Mokoena,2000-03-06,F,Krugersdorp
+P000738,Kagiso Adams,21/03/1963,M,Midrand
+P001451,Palesa Mahlangu,20/07/2016,F,Benoni
+P001022,Pieter Mokoena,25-Sep-1988,M,Benoni
+P001492,Mpho Pretorius,2017-05-14,M,Centurion
+P002563,Zanele Khumalo,01/11/2021,F,Midrand
+P001443,Palesa Pillay,1992-07-12,F,Krugersdorp
+P002052,Imaan Williams,1942-02-12,f,Centurion
+P001013,Riaan Nkosi,1959-06-11,M,Pretoria
+P002328,Gugu Smith,1995-11-05,Female,Soweto
+P002016,Farouk Jacobs,2015-01-01,M,Midrand
+P000068,Vusi Van der Merwe,1989-06-24,M,Roodepoort
+P001655,Mpho Van der Merwe,1960-11-16,M,Midrand
+P002351,Ayesha Govender,08/11/1954,f,Krugersdorp
+P002054,Palesa Nkosi,1958-06-10,Female,Krugersdorp
+P000783,Jabu Mahlangu,2005-09-13,M,Benoni
+P001423,Anika Nkosi,1952-12-27,f,Soweto
+P000446,Naledi Molefe,17/04/1945,F,Soweto
+P001360,Riaan Tshabalala,23/09/1949,m,Benoni
+P000381,Vusi Botha,07-Oct-1984,M,Soweto
+P000448,Liam Sithole,1974-07-14,m,Benoni
+P002983,Lerato Tshabalala,,f,Benoni
+P001758,Sibusiso Naidoo,1976-05-16,M,Centurion
+P000970,Pieter Zulu,1945-07-23,M,Krugersdorp
+P002522,Imaan Tshabalala,21/06/1969,Female,Johannesburg
+P000591,Nomsa Pillay,1992-09-01,F,Soweto
+P001049,Farouk Naidoo,1966-02-21,M,Centurion
+P000258,Palesa Pretorius,1977-06-19,F,Midrand
+P001153,Imaan Zulu,1986-09-03,F,Benoni
+P003123,Mpho Govender,12/02/1999,M,Pretoria
+P002951,Zinhle Adams,10-Jun-2006,Female,Centurion
+P001030,Emma Pillay,2014-09-14,F,Centurion
+P001355,Unathi Khumalo,05/06/1986,f,Johannesburg
+P001383,Yusuf Jacobs,1999-03-04,m,Pretoria
+P000879,Megan Botha,2023-07-19,F,Centurion
+P001072,Kagiso Mahlangu,1949-02-04,M,Pretoria
+P002430,Anika Ndlovu,1973-01-08,F,Centurion
+P001408,Megan Govender,2017-09-25,F,Centurion
+P002934,Gugu Van der Merwe,12/08/1972,f,Benoni
+P000277,Jabu Naidoo,1967-09-16,M,Roodepoort
+P000206,Zanele Du Plessis,1965-09-12,Female,Krugersdorp
+P001305,Ayesha Naidoo,1993-12-28,f,Roodepoort
+P000104, LERATO KHUMALO ,2022-05-02,F,Krugersdorp
+P000101,Karabo Govender,1954-02-03,F,Centurion
+P002752,Megan Khumalo,01/01/1977,Female,Roodepoort
+P002915,Farouk Dlamini,1950-08-20,Male,Centurion
+P001606,Zanele Du Plessis,08/11/1973,F,Pretoria
+P000716,Zinhle Pretorius,1964-01-24,Female,Benoni
+P002211,Palesa Jacobs,1961-05-11,F,Midrand
+P001311,Jabu Williams,1968-03-03,Male,Krugersdorp
+P002378,Liam Mabaso,11/10/1978,M,Midrand
+P000924,Thabo Smith,1992-12-26,M,Krugersdorp
+P000058,Vusi Pillay,2020-04-17,M,Krugersdorp
+P001580,Karabo Pillay,1976-12-06,F,Pretoria
+P001546,Gugu Mahlangu,26/11/2003,f,Soweto
+P001832,Nomsa Khumalo,1944-01-05,f,Midrand
+P001201,Nomsa Mabaso,07/03/2000,f,Centurion
+P002457, GUGU DU PLESSIS ,1955-08-09,F,Midrand
+P001209,Lerato Govender,1999-09-18,F,Roodepoort
+P002402,Tumi Smith,1962-09-14,F,Johannesburg
+P001441,Kagiso Dlamini,1995-07-24,M,Midrand
+P000107,Vusi Khumalo,2004-02-07,M,Roodepoort
+P000737,Zinhle Botha,1944-04-15,Female,Roodepoort
+P002004,Anika Mokoena,1958-07-01,F,Midrand
+P003055,Pieter Williams,1948-06-03,M,Roodepoort
+P002072,Chloe Zulu,1983-01-05,F,Soweto
+P002274,Chloe Du Plessis,1975-09-02,f,Benoni
+P002342,Imaan Govender,2016-06-01,Female,Benoni
+P002873,Vusi Jacobs,12/01/2022,M,Soweto
+P001847,Palesa Pillay,1948-02-04,F,Soweto
+P002966,Zanele Nkosi,13-Mar-2013,F,Benoni
+P001331,Naledi Mahlangu,2015-11-11,F,Roodepoort
+P002198, THABO PILLAY ,2021-12-20,M,Johannesburg
+P001793,Zinhle Williams,12/11/2013,Female,Soweto
+P001254,Megan Jacobs,18-Jun-1979,f,Midrand
+P001522,Thabo Sithole,1995-05-11,m,Pretoria
+P001075,Chloe Williams,1983-11-15,f,Roodepoort
+P002672,Vusi Smith,1999-06-15,M,Johannesburg
+P000346,Megan Botha,22/02/1956,f,Roodepoort
+P001980,Sipho Dlamini,1958-04-02,m,Roodepoort
+P000516,Yusuf Mahlangu,1961-07-13,Male,Pretoria
+P002471,Pieter Adams,05/06/1984,m,Midrand
+P002461,Riaan Adams,1971-03-07,Male,Roodepoort
+P002772,Imaan Jacobs,1957-02-07,F,Johannesburg
+P001844,Imaan Williams,1969-08-27,F,Roodepoort
+P001855,Gugu Jacobs,1990-01-20,f,Roodepoort
+P001348,Emma Ndlovu,26/02/2006,f,Benoni
+P002297,Thabo Adams,2012-02-07,Male,Soweto
+P001430,Nomsa Du Plessis,15/07/1984,F,Centurion
+P002040,Unathi Jacobs,1984-07-23,F,Roodepoort
+P000760,Palesa Pillay,1940-04-27,F,Pretoria
+P002480,Zanele Mahlangu,1997-07-11,f,Pretoria
+P000155,Nomsa Mabaso,2024-05-06,F,Roodepoort
+P001464,Sibusiso Pillay,04/05/1958,m,Centurion
+P001064,Liam Ndlovu,10/01/1999,M,Johannesburg
+P001097,Imaan Govender,1984-08-17,F,Soweto
+P002379,Unathi Zulu,19-Jul-2017,F,Centurion
+P000672,Ayesha Khumalo,1965-12-26,F,Krugersdorp
+P000887,Naledi Adams,1997-08-26,F,Midrand
+P001943,Jabu Pillay,1980-02-26,m,Centurion
+P000911,Zanele Khumalo,1942-11-28,F,Roodepoort
+P001857,Liam Zulu,1962-09-05,m,Soweto
+P003099,Zinhle Smith,17/05/1975,F,Krugersdorp
+P001111,Naledi Jacobs,1979-05-27,F,Krugersdorp
+P001839,Unathi Botha,1984-01-10,f,Benoni
+P002176,Farouk Ndlovu,1992-09-15,M,Centurion
+P000682,Mpho Pillay,11/12/1967,M,Pretoria
+P002202,Johan Nkosi,28/10/1991,M,Pretoria
+P001726,Yusuf Mokoena,19/01/1975,M,Roodepoort
+P000943,Lerato Smith,16-Jun-1967,F,Roodepoort
+P001656,Imaan Govender,1945-06-18,F,Johannesburg
+P001018,Pieter Botha,09/08/1986,M,Roodepoort
+P002773,Naledi Du Plessis,1963-09-23,Female,Soweto
+P002898,Hendrik Du Plessis,1976-02-17,Male,Roodepoort
+P000242,Bongani Dlamini,24/08/2015,m,Soweto
+P000679, KARABO VAN DER MERWE ,1981-07-14,F,Centurion
+P001003, LIAM MAHLANGU ,07/12/1952,M,Roodepoort
+P000772,Wanda Mahlangu,2003-10-26,F,Pretoria
+P002749,Pieter Nkosi,09/02/1976,Male,Midrand
+P000168,Sibusiso Mabaso,1984-10-21,M,Krugersdorp
+P001247,Riaan Adams,1945-10-04,m,Midrand
+P001601,Wanda Pretorius,2021-11-26,F,Roodepoort
+P003125,Zanele Nkosi,1967-05-19,F,Centurion
+P000873,Hendrik Williams,26/06/1962,M,Krugersdorp
+P002954,Johan Botha,1984-02-22,M,Midrand
+P000222,Zinhle Williams,02/09/2003,F,Midrand
+P001120,Emma Van der Merwe,2002-02-07,F,Johannesburg
+P002736,Naledi Pretorius,1980-08-11,f,Johannesburg
+P002927,Dumisani Sithole,2004-05-03,M,Centurion
+P000118,Nomsa Smith,1945-05-24,F,Roodepoort
+P001821,Emma Du Plessis,1994-08-21,Female,Soweto
+P002280,Unathi Mahlangu,1992-04-26,F,Roodepoort
+P000728,Bongani Du Plessis,11/10/1973,Male,Krugersdorp
+P000796,Liam Naidoo,1970-04-16,M,Johannesburg
+P003122,Palesa Du Plessis,2005-06-27,f,Midrand
+P002296,Zinhle Molefe,1968-04-02,f,Centurion
+P003049,Imaan Du Plessis,1975-11-11,F,Soweto
+P002655,Unathi Ndlovu,1955-06-01,Female,Soweto
+P002614,Riaan Botha,1979-03-04,M,Pretoria
+P001098,Anika Ndlovu,1942-11-18,F,Roodepoort
+P000013,Zinhle Dlamini,04/10/2014,Female,Centurion
+P001908,Lerato Smith,,F,Midrand
+P001678,Riaan Du Plessis,2024-01-16,M,Benoni
+P000991,Ayesha Govender,1979-09-20,f,Roodepoort
+P000535,Oliver Zulu,1950-11-21,Male,Soweto
+P001890,Chloe Mahlangu,1973-03-08,F,Soweto
+P002815,Emma Khumalo,1942-09-11,F,Pretoria
+P002060,Karabo Zulu,1982-04-22,F,Johannesburg
+P002561,Oliver Zulu,17/09/1991,M,Benoni
+P001510,Thabo Molefe,1993-04-17,M,Centurion
+P001159,Palesa Sithole,1987-09-26,F,Soweto
+P002842,Sibusiso Van der Merwe,1950-09-18,Male,Benoni
+P002059,Karabo Pillay,1998-06-01,F,Soweto
+P002159,Lerato Tshabalala,25/01/2015,F,Midrand
+P002001,Gugu Smith,1973-01-10,F,Soweto
+P000794,Pieter Tshabalala,11/06/1954,M,Johannesburg
+P002977,Thabo Mahlangu,2021-05-18,M,Benoni
+P002027,Gugu Ndlovu,08/11/2020,F,Roodepoort
+P001271,Zanele Pretorius,1950-09-07,Female,Krugersdorp
+P000607,Chloe Van der Merwe,1985-06-18,f,Soweto
+P001939,Karabo Pillay,1947-04-14,F,Johannesburg
+P000571, SIBUSISO ZULU ,11/06/1949,m,Centurion
+P000134,Bongani Mabaso,1992-11-12,M,Roodepoort
+P002905,Tumi Botha,1947-01-21,Female,Centurion
+P000869,Kagiso Mokoena,2016-11-26,M,Krugersdorp
+P003018,Emma Molefe,1949-12-24,F,Krugersdorp
+P000182,Anika Adams,1944-01-28,F,Roodepoort
+P000214, UNATHI TSHABALALA ,09/11/1988,F,Midrand
+P000993,Wanda Van der Merwe,1961-10-07,F,Centurion
+P002673,Dumisani Botha,2015-03-24,M,Soweto
+P002988,Kagiso Pretorius,1962-06-16,m,Benoni
+P003166,Chloe Pillay,1977-01-01,F,Centurion
+P000385,Gugu Du Plessis,1993-06-17,F,Krugersdorp
+P000759,Thabo Dlamini,2003-07-15,Male,Centurion
+P001833, FAROUK KHUMALO ,1962-01-05,Male,Soweto
+P000830,Pieter Sithole,26/05/1978,Male,Midrand
+P001613,Hendrik Williams,2021-12-23,M,Pretoria
+P002273,Kagiso Pretorius,1987-06-22,m,Midrand
+P000149,Bongani Nkosi,1997-09-15,M,Johannesburg
+P001937,Dumisani Mabaso,2018-05-10,M,Krugersdorp
+P003012,Thabo Jacobs,1960-11-14,M,Midrand
+P000626,Liam Dlamini,1998-05-08,M,Benoni
+P002996,Thabo Naidoo,1985-09-01,Male,Soweto
+P001522,Thabo Sithole,1995-05-11,m,Pretoria
+P002123,Palesa Pillay,1959-08-07,F,Centurion
+P002668, JABU MOKOENA ,1940-03-11,M,Pretoria
+P002624, PIETER TSHABALALA ,2023-06-05,m,Krugersdorp
+P002524,Zinhle Ndlovu,1998-08-26,F,Benoni
+P002218,Vusi Mahlangu,1969-03-02,Male,Soweto
+P000122,Megan Khumalo,03/10/1986,F,Benoni
+P000910,Bongani Van der Merwe,1975-05-20,m,Soweto
+P003194,Kagiso Adams,2001-07-03,M,Krugersdorp
+P001648,Hendrik Ndlovu,1964-09-11,Male,Johannesburg
+P001056,Mpho Jacobs,1958-04-08,Male,Pretoria
+P002219,Zanele Sithole,03/08/1963,Female,Centurion
+P002080,Vusi Naidoo,1971-05-06,m,Pretoria
+P001420,Emma Pretorius,19/02/2002,F,Soweto
+P001194,Thabo Tshabalala,1958-06-17,m,Krugersdorp
+P001168,Ayesha Smith,1945-11-18,f,Benoni
+P000138,Mpho Adams,1993-07-01,M,Centurion
+P000032,Tumi Williams,1982-02-26,F,Benoni
+P000334,Naledi Williams,1946-04-13,F,Johannesburg
+P001351,Chloe Pillay,1970-12-28,f,Johannesburg
+P000586,Emma Govender,25/12/2022,Female,Benoni
+P002172,Sipho Pillay,1994-05-21,Male,Roodepoort
+P001429,Emma Jacobs,1964-07-26,Female,Johannesburg
+P000231,Johan Dlamini,21/10/1956,M,Benoni
+P001563,Yusuf Van der Merwe,1996-08-17,m,Soweto
+P002504,Pieter Khumalo,1970-06-09,Male,Centurion
+P002514,Chloe Dlamini,2004-02-02,F,Johannesburg
+P001502,Imaan Adams,1953-04-14,Female,Roodepoort
+P001440,Imaan Botha,2023-02-16,F,Centurion
+P003158,Chloe Smith,1971-08-26,Female,Centurion
+P003200,Ayesha Zulu,1992-06-08,F,Johannesburg
+P002714,Thabo Khumalo,1946-11-20,m,Krugersdorp
+P001163,Liam Zulu,1962-06-03,M,Centurion
+P000250,Oliver Mabaso,1971-07-13,m,Centurion
+P001442,Nomsa Smith,28/11/1993,Female,Johannesburg
+P001245,Zinhle Pillay,2024-10-02,f,Roodepoort
+P001879,Ayesha Mokoena,02/11/2012,Female,Pretoria
+P001693,Dumisani Van der Merwe,14/04/1995,M,Midrand
+P001739, JOHAN WILLIAMS ,1940-05-12,M,Midrand
+P000227,Mpho Jacobs,28/02/1983,Male,Krugersdorp
+P002945,Chloe Du Plessis,1978-08-22,F,Roodepoort
+P002501,Palesa Naidoo,2022-02-06,F,Centurion
+P001516,Lerato Naidoo,2023-09-02,f,Johannesburg
+P000736,Yusuf Dlamini,27-May-1971,M,Krugersdorp
+P000776,Wanda Mokoena,1975-03-15,f,Johannesburg
+P000316,Karabo Mokoena,2003-07-15,F,Roodepoort
+P001586,Sibusiso Zulu,1982-11-12,M,Benoni
+P000577,Naledi Pretorius,1940-01-15,f,Centurion
+P000919,Imaan Pretorius,2018-05-16,Female,Pretoria
+P002405,Bongani Jacobs,1993-01-21,M,Roodepoort
+P001058,Megan Adams,01/04/2018,F,Midrand
+P001951,Kagiso Mokoena,1969-07-03,M,Krugersdorp
+P000246, SIBUSISO ZULU ,1947-06-12,M,Midrand
+P001212,Naledi Mokoena,,F,Centurion
+P000388,Johan Molefe,1954-12-17,M,Pretoria
+P003059,Unathi Pillay,16/01/1948,Female,Benoni
+P001437,Sibusiso Tshabalala,1977-08-06,m,Pretoria
+P000951,Wanda Zulu,1994-05-03,Female,Roodepoort
+P002975,Zanele Khumalo,2001-08-09,F,Benoni
+P000644,Kagiso Adams,1960-07-12,M,Roodepoort
+P000003,Naledi Du Plessis,1955-04-21,F,Benoni
+P002311,Hendrik Pretorius,1963-04-19,M,Roodepoort
+P002882,Emma Dlamini,01/07/1989,F,Benoni
+P002422,Nomsa Pillay,08/07/1967,F,Krugersdorp
+P001627,Ayesha Ndlovu,1940-06-20,F,Midrand
+P002545,Dumisani Jacobs,10/03/2004,M,Midrand
+P001328,Anika Molefe,1975-10-22,F,Krugersdorp
+P001959,Emma Khumalo,1944-06-25,F,Roodepoort
+P002045,Riaan Molefe,1975-08-05,Male,Benoni
+P002267,Naledi Govender,1997-10-06,Female,Krugersdorp
+P000548,Megan Nkosi,2013-07-03,F,Centurion
+P003084,Megan Mokoena,1989-11-03,Female,Pretoria
+P000424,Liam Pillay,1959-11-20,m,Roodepoort
+P001620,Lerato Naidoo,2019-03-24,F,Johannesburg
+P002591,Zanele Mabaso,2015-10-07,f,Johannesburg
+P002178,Sibusiso Sithole,1982-09-27,m,Soweto
+P000563,Imaan Sithole,24/11/2012,F,Soweto
+P003179,Gugu Smith,1980-10-17,Female,Pretoria
+P001354,Oliver Williams,1989-08-13,Male,Centurion
+P002644,Sibusiso Jacobs,1968-10-13,Male,Krugersdorp
+P001751,Thabo Sithole,1957-08-16,M,Krugersdorp
+P000370,Nomsa Nkosi,07/08/2018,F,Soweto
+P000863,Liam Mahlangu,15-May-1942,M,Roodepoort
+P001549,Farouk Dlamini,2023-04-25,M,Johannesburg
+P001761,Zinhle Jacobs,1986-10-19,f,Benoni
+P002645,Riaan Tshabalala,2001-06-25,Male,Pretoria
+P001740,Emma Tshabalala,2022-11-26,Female,Soweto
+P001605,Dumisani Pretorius,1953-10-01,Male,Roodepoort
+P001126,Unathi Mokoena,1988-10-21,Female,Johannesburg
+P003186,Wanda Adams,1975-04-15,F,Soweto
+P002796,Megan Pretorius,2018-02-05,f,Benoni
+P000847,Emma Van der Merwe,14/05/1956,F,Benoni
+P003139,Jabu Khumalo,1972-04-02,m,Midrand
+P002818,Wanda Mabaso,2005-02-05,F,Centurion
+P000881,Oliver Van der Merwe,2002-09-05,Male,Krugersdorp
+P000974,Zinhle Tshabalala,16/02/2012,F,Centurion
+P002588,Oliver Williams,13/11/2001,M,Midrand
+P001002,Kagiso Pretorius,1979-05-28,M,Soweto
+P000176,Liam Khumalo,2023-04-06,M,Benoni
+P002024,Karabo Mokoena,1989-02-28,F,Krugersdorp
+P002813,Gugu Khumalo,1957-12-17,F,Johannesburg
+P001334,Lerato Naidoo,1949-11-01,f,Benoni
+P000152,Megan Botha,2023-06-25,F,Johannesburg
+P002707, ANIKA SITHOLE ,15/07/1961,F,Soweto
+P002079,Megan Naidoo,1960-11-23,F,Johannesburg
+P001886,Emma Adams,1953-08-20,F,Benoni
+P002619,Wanda Ndlovu,1961-02-05,f,Benoni
+P001313,Sipho Pretorius,1969-06-11,M,Roodepoort
+P000837,Chloe Mahlangu,2001-02-21,Female,Midrand
+P001261,Johan Pillay,1958-10-19,M,Midrand
+P000136,Johan Adams,1959-11-18,M,Midrand
+P000652,Naledi Van der Merwe,1964-10-18,F,Benoni
+P002779,Thabo Tshabalala,1974-09-25,M,Pretoria
+P002956,Oliver Naidoo,1987-06-23,M,Krugersdorp
+P001962,Tumi Mokoena,1965-07-20,F,Midrand
+P001733,Sibusiso Du Plessis,1983-04-28,m,Krugersdorp
+P000592,Anika Sithole,1970-06-26,F,Midrand
+P002254,Karabo Smith,1971-01-10,F,Johannesburg
+P002479,Sibusiso Mokoena,1984-08-25,M,Roodepoort
+P001251,Megan Govender,2023-03-07,Female,Johannesburg
+P000410,Wanda Pretorius,1966-01-28,f,Krugersdorp
+P000018,Yusuf Mabaso,1980-03-23,M,Johannesburg
+P002161,Kagiso Williams,1940-04-01,M,Soweto
+P002197,Ayesha Botha,1981-12-18,Female,Pretoria
+P001637,Megan Jacobs,23/11/1973,F,Midrand
+P000792,Zanele Smith,1987-09-04,f,Krugersdorp
+P002194,Imaan Botha,22/08/1963,F,Roodepoort
+P003054,Karabo Molefe,1995-06-03,F,Benoni
+P001703,Megan Khumalo,1967-04-06,Female,Centurion
+P001403,Yusuf Adams,1953-03-21,Male,Centurion
+P002069,Hendrik Mahlangu,2019-07-15,M,Roodepoort
+P001324,Vusi Van der Merwe,1976-07-13,m,Soweto
+P002336,Zinhle Mokoena,2002-02-12,F,Johannesburg
+P002973,Zanele Jacobs,16/08/1976,F,Krugersdorp
+P000689,Palesa Naidoo,1977-09-26,f,Centurion
+P001552,Liam Botha,2024-10-13,m,Soweto
+P003120,Pieter Smith,2003-02-17,M,Johannesburg
+P000747,Palesa Du Plessis,1976-08-21,f,Soweto
+P000040,Zinhle Naidoo,18/09/2006,Female,Johannesburg
+P002535,Zanele Mokoena,1945-02-14,f,Krugersdorp
+P002809,Chloe Dlamini,1964-06-22,Female,Benoni
+P002481,Bongani Du Plessis,1992-05-01,M,Soweto
+P000597,Jabu Pretorius,1961-12-24,M,Centurion
+P002253,Kagiso Pretorius,2018-12-07,M,Roodepoort
+P000613,Naledi Naidoo,1969-07-15,f,Centurion
+P002083,Palesa Sithole,2002-09-06,F,Johannesburg
+P002082,Megan Smith,1976-06-10,f,Benoni
+P002709,Zinhle Mokoena,1964-05-15,F,Pretoria
+P000112,Oliver Ndlovu,1999-01-10,M,Soweto
+P002483,Ayesha Botha,2019-07-06,F,Centurion
+P000709,Farouk Jacobs,1991-06-19,m,Midrand
+P000515,Karabo Dlamini,2003-03-09,F,Krugersdorp
+P001398,Tumi Botha,1989-01-27,F,Krugersdorp
+P001004,Tumi Ndlovu,1945-02-20,F,Midrand
+P000218,Imaan Mabaso,1949-11-10,f,Pretoria
+P000987,Yusuf Naidoo,2018-07-08,M,Centurion
+P001893,Naledi Nkosi,1994-09-12,F,Pretoria
+P000466,Imaan Ndlovu,1977-07-14,f,Centurion
+P000755,Riaan Naidoo,1948-10-27,Male,Roodepoort
+P002742,Zanele Pretorius,2021-03-23,F,Roodepoort
+P000145,Dumisani Dlamini,1965-08-06,M,Benoni
+P000392,Pieter Molefe,04/05/1998,M,Pretoria
+P001759,Jabu Govender,1989-10-28,Male,Johannesburg
+P000245,Jabu Mahlangu,2021-02-13,Male,Midrand
+P001229, EMMA NDLOVU ,1996-05-14,Female,Krugersdorp
+P002857,Sibusiso Zulu,1947-01-22,m,Centurion
+P000527,Imaan Ndlovu,1971-08-19,F,Pretoria
+P001263,Anika Mokoena,05/05/1951,F,Midrand
+P002137,Sipho Smith,2012-11-08,m,Soweto
+P001909, THABO PILLAY ,1997-12-01,Male,Roodepoort
+P000207,Mpho Govender,2005-01-21,Male,Soweto
+P000848,Liam Govender,1942-07-15,M,Centurion
+P002200,Ayesha Govender,1944-05-05,Female,Benoni
+P002227,Palesa Sithole,1994-05-06,F,Midrand
+P001237,Sipho Mabaso,1980-09-19,M,Benoni
+P001294,Riaan Mabaso,1965-08-11,M,Soweto
+P001977,Sibusiso Pretorius,2018-10-25,m,Pretoria
+P001780,Zanele Mabaso,2019-06-13,F,Midrand
+P001085,Imaan Pretorius,07/05/1988,f,Pretoria
+P001248,Zinhle Khumalo,2002-04-13,F,Benoni
+P003126,Gugu Zulu,1956-04-20,f,Roodepoort
+P000034,Ayesha Sithole,2000-11-12,f,Midrand
+P002117,Megan Jacobs,1967-03-16,F,Johannesburg
+P002738,Liam Govender,1943-10-12,M,Soweto
+P003078,Zinhle Khumalo,06/09/1953,F,Krugersdorp
+P000768,Thabo Pillay,1951-04-15,M,Benoni
+P000099,Wanda Botha,27-Feb-2022,Female,Johannesburg
+P001525,Dumisani Ndlovu,2021-07-11,M,Johannesburg
+P002879,Pieter Zulu,2024-05-16,m,Krugersdorp
+P002147,Nomsa Dlamini,2015-07-08,f,Midrand
+P002523,Riaan Naidoo,1988-06-01,M,Johannesburg
+P002847,Ayesha Mokoena,1970-10-24,Female,Pretoria
+P002893,Vusi Du Plessis,2022-11-25,M,Johannesburg
+P002753,Karabo Mokoena,1963-09-27,F,Krugersdorp
+P002061,Farouk Pillay,1968-05-03,M,Johannesburg
+P000269,Tumi Naidoo,1981-06-09,F,Soweto
+P002275,Mpho Nkosi,1981-11-17,M,Soweto
+P000492,Johan Mahlangu,17/09/2022,Male,Krugersdorp
+P002829,Zanele Khumalo,2005-02-18,f,Johannesburg
+P002781,Naledi Tshabalala,15-Jun-1959,f,Centurion
+P002266,Anika Naidoo,1950-08-02,f,Benoni
+P000267,Megan Adams,1943-01-09,f,Krugersdorp
+P000060,Pieter Pretorius,1983-04-27,m,Soweto
+P000588,Naledi Mokoena,1957-07-26,F,Roodepoort
+P001998,Kagiso Ndlovu,1989-09-10,M,Soweto
+P000382,Anika Dlamini,1959-07-20,Female,Soweto
+P001633,Wanda Pillay,06/11/1967,f,Pretoria
+P001896,Palesa Mahlangu,2000-03-07,Female,Centurion
+P000903,Sibusiso Mokoena,1984-03-26,m,Roodepoort
+P001148,Unathi Zulu,2024-06-02,F,Centurion
+P003039,Riaan Khumalo,1957-04-04,Male,Soweto
+P001916,Bongani Pillay,07/10/1948,M,Centurion
+P002242,Naledi Nkosi,1949-03-23,Female,Benoni
+P002289,Zanele Du Plessis,1943-12-16,f,Soweto
+P002413,Yusuf Smith,1999-11-02,m,Johannesburg
+P002428,Thabo Khumalo,1963-04-22,Male,Soweto
+P002470,Anika Mokoena,1960-06-09,F,Krugersdorp
+P001971,Johan Botha,1958-10-15,Male,Pretoria
+P001382,Sipho Nkosi,1986-02-27,m,Midrand
+P002484,Lerato Williams,09/03/1969,Female,Soweto
+P002890,Sibusiso Govender,1958-03-17,M,Midrand
+P000282,Anika Botha,1962-04-20,F,Krugersdorp
+P002466,Karabo Jacobs,1987-02-19,F,Benoni
+P000855,Hendrik Pillay,1961-07-05,m,Pretoria
+P002788,Riaan Pillay,1941-01-11,M,Roodepoort
+P002511,Nomsa Khumalo,2006-06-23,f,Soweto
+P003189,Oliver Dlamini,1970-11-23,M,Pretoria
+P000330,Megan Govender,06-Mar-1955,Female,Pretoria
+P000028,Lerato Nkosi,2006-08-12,f,Roodepoort
+P002581,Pieter Smith,2020-06-12,M,Soweto
+P000436,Wanda Khumalo,1971-03-11,F,Johannesburg
+P001550, ANIKA MABASO ,2020-07-01,Female,Johannesburg
+P002003,Jabu Govender,1967-02-06,M,Krugersdorp
+P001093,Vusi Pillay,1996-04-14,M,Pretoria
+P001395,Hendrik Molefe,1951-05-20,Male,Krugersdorp
+P001894,Riaan Smith,1946-08-16,M,Centurion
+P002347,Vusi Mokoena,1941-09-10,M,Pretoria
+P000038, YUSUF GOVENDER ,1956-09-05,M,Johannesburg
+P001330,Wanda Zulu,19-Aug-1961,F,Soweto
+P000080,Anika Van der Merwe,1966-02-19,F,Roodepoort
+P001676,Tumi Sithole,1971-12-04,F,Roodepoort
+P002794,Sibusiso Mabaso,1997-12-25,m,Benoni
+P000909,Tumi Tshabalala,1963-06-23,f,Midrand
+P002177,Anika Zulu,1969-10-28,f,Krugersdorp
+P000816,Sipho Du Plessis,1953-02-20,M,Midrand
+P003032, THABO SITHOLE ,1990-12-22,Male,Soweto
+P001639,Karabo Mabaso,01/12/1943,F,Johannesburg
+P001026,Thabo Adams,19/06/1990,M,Krugersdorp
+P001801,Lerato Tshabalala,1971-08-19,F,Krugersdorp
+P002130,Chloe Van der Merwe,1954-08-26,F,Pretoria
+P000888, WANDA NKOSI ,1997-02-03,F,Johannesburg
+P001123,Kagiso Pillay,2006-01-04,M,Midrand
+P001738,Chloe Zulu,2014-06-03,F,Benoni
+P001276,Kagiso Adams,1950-02-17,M,Soweto
+P000797,Zanele Pillay,1951-09-15,F,Centurion
+P000383,Ayesha Mahlangu,1993-06-16,F,Soweto
+P002444,Mpho Tshabalala,1961-09-12,M,Midrand
+P000865,Karabo Ndlovu,2020-05-24,Female,Centurion
+P002876,Chloe Khumalo,16/05/1968,Female,Centurion
+P002257,Nomsa Sithole,1948-04-13,Female,Pretoria
+P001898, NALEDI TSHABALALA ,1970-11-28,F,Roodepoort
+P001453, SIPHO ZULU ,25/08/1940,M,Soweto
+P001080,Nomsa Van der Merwe,1973-06-11,Female,Johannesburg
+P001867,Kagiso Govender,2002-02-24,m,Johannesburg
+P001972,Jabu Zulu,1994-04-11,Male,Krugersdorp
+P002249,Ayesha Sithole,1960-02-11,f,Krugersdorp
+P001643,Zanele Pretorius,14/09/1942,f,Krugersdorp
+P002316,Johan Ndlovu,1964-05-12,M,Centurion
+P000275,Karabo Jacobs,1943-05-19,F,Midrand
+P000241,Zanele Van der Merwe,1951-04-28,F,Krugersdorp
+P002475,Nomsa Smith,1988-09-02,F,Midrand
+P000703,Karabo Mokoena,1980-02-17,f,Benoni
+P001517,Gugu Adams,2004-02-23,F,Benoni
+P001924,Karabo Dlamini,1963-01-15,Female,Soweto
+P000297,Nomsa Pretorius,1995-10-26,F,Johannesburg
+P002086,Ayesha Adams,02/04/1974,f,Soweto
+P000825,Palesa Govender,17/08/1987,F,Krugersdorp
+P000739,Zinhle Pillay,08/03/1961,F,Roodepoort
+P002569,Oliver Williams,04/05/2022,M,Krugersdorp
+P000622,Wanda Khumalo,1998-12-03,Female,Johannesburg
+P000301, SIPHO MABASO ,1974-11-18,M,Pretoria
+P002718,Gugu Pillay,1990-11-24,F,Pretoria
+P001412,Palesa Mabaso,1972-03-05,Female,Johannesburg
+P003029,Thabo Sithole,1969-09-08,M,Johannesburg
+P000533,Yusuf Dlamini,1958-04-19,M,Benoni
+P002118,Hendrik Molefe,1977-10-02,M,Soweto
+P003038,Gugu Mahlangu,1982-05-23,F,Benoni
+P003137,Imaan Mokoena,09/11/1966,F,Centurion
+P002700,Ayesha Dlamini,1989-07-24,Female,Johannesburg
+P002998,Yusuf Williams,17-Feb-1942,Male,Johannesburg
+P000047,Yusuf Pretorius,1960-12-14,M,Soweto
+P000936,Wanda Ndlovu,1999-03-06,F,Midrand
+P002418,Sibusiso Nkosi,10/02/1940,M,Johannesburg
+P002035,Johan Pretorius,1991-02-06,Male,Centurion
+P000701,Farouk Khumalo,1983-07-25,m,Centurion
+P001949,Liam Adams,05-Aug-1958,M,Johannesburg
+P001480,Yusuf Molefe,11/07/1992,Male,Soweto
+P003017,Palesa Williams,2005-06-13,f,Centurion
+P000778,Gugu Nkosi,1988-02-22,Female,Midrand
+P002925,Hendrik Mokoena,2019-05-09,Male,Krugersdorp
+P001993,Gugu Du Plessis,1964-02-25,F,Krugersdorp
+P001919,Mpho Khumalo,1972-08-10,M,Benoni
+P000342,Ayesha Sithole,18/05/1965,F,Krugersdorp
+P001744,Dumisani Jacobs,2000-06-18,m,Centurion
+P000434,Emma Du Plessis,16/05/1975,f,Midrand
+P000443, FAROUK TSHABALALA ,1994-01-06,M,Midrand
+P002980,Ayesha Jacobs,1961-06-12,f,Krugersdorp
+P000128,Johan Pretorius,2021-04-11,M,Roodepoort
+P000199,Oliver Williams,1953-05-07,M,Johannesburg
+P002156,Yusuf Smith,28/11/1975,M,Johannesburg
+P002787,Zinhle Smith,12/07/2020,F,Soweto
+P000681,Liam Zulu,1946-09-15,m,Krugersdorp
+P001713,Sibusiso Smith,1970-01-20,M,Benoni
+P001630,Lerato Govender,2020-04-03,F,Benoni
+P001378,Emma Williams,26/04/1942,F,Midrand
+P000566,Nomsa Jacobs,2000-08-03,F,Krugersdorp
+P001169,Tumi Govender,2023-07-11,Female,Roodepoort
+P003169,Emma Pillay,13-Apr-2003,F,Roodepoort
+P001062,Wanda Van der Merwe,1942-11-24,F,Johannesburg
+P001359,Palesa Khumalo,1973-10-24,Female,Benoni
+P000236,Hendrik Mahlangu,23/09/1979,Male,Midrand
+P000744,Zanele Sithole,12/10/1974,f,Krugersdorp
+P000944,Dumisani Mahlangu,,M,Krugersdorp
+P002458,Liam Ndlovu,2022-08-18,Male,Benoni
+P001033,Zanele Williams,1976-07-02,f,Soweto
+P002269,Zinhle Adams,18/01/1948,F,Midrand
+P001405,Sipho Du Plessis,1971-06-13,m,Krugersdorp
+P002894,Dumisani Botha,1949-10-12,M,Pretoria
+P002955,Sibusiso Jacobs,1954-08-15,m,Soweto
+P001000,Thabo Mokoena,02-Oct-1954,Male,Roodepoort
+P002234,Sibusiso Jacobs,2000-04-22,M,Johannesburg
+P001320,Pieter Tshabalala,1982-09-08,m,Benoni
+P000358,Anika Ndlovu,1968-05-17,F,Benoni
+P002115,Emma Khumalo,07/05/1978,F,Krugersdorp
+P002913,Ayesha Mahlangu,1968-02-24,f,Midrand
+P002062,Anika Sithole,2019-09-20,Female,Centurion
+P000005,Dumisani Ndlovu,19/02/1963,M,Pretoria
+P002696,Ayesha Sithole,2001-07-20,Female,Benoni
+P002355, KAGISO MAHLANGU ,13/02/1974,M,Midrand
+P002610,Unathi Pretorius,06/05/2021,Female,Soweto
+P000023,Zinhle Mahlangu,2002-08-16,F,Pretoria
+P001936,Karabo Jacobs,1953-11-03,F,Krugersdorp
+P001146,Palesa Tshabalala,,f,Benoni
+P002056,Megan Zulu,1955-06-16,Female,Benoni
+P001059,Mpho Adams,1992-06-07,M,Centurion
+P000449,Ayesha Adams,1989-07-26,F,Johannesburg
+P002163,Tumi Van der Merwe,1959-08-15,F,Roodepoort
+P002616,Pieter Khumalo,1995-05-07,M,Benoni
+P002155,Tumi Ndlovu,07/09/2014,F,Soweto
+P002434,Megan Ndlovu,09/09/1982,F,Midrand
+P002859,Oliver Williams,2005-08-10,m,Johannesburg
+P000630,Riaan Mokoena,1947-03-08,m,Pretoria
+P002393,Nomsa Pretorius,2022-02-21,f,Roodepoort
+P002388,Zinhle Jacobs,1964-06-21,f,Soweto
+P002912,Yusuf Ndlovu,1975-09-07,m,Roodepoort
+P001523,Wanda Govender,1976-01-09,f,Soweto
+P001326,Anika Pillay,1998-06-01,F,Soweto
+P002990,Zinhle Mabaso,2017-10-25,F,Pretoria
+P001458,Zinhle Mabaso,1985-06-16,F,Midrand
+P002950,Anika Smith,2000-06-03,F,Pretoria
+P000655,Emma Du Plessis,1995-03-01,F,Centurion
+P002662,Palesa Dlamini,27/08/1946,F,Soweto
+P000186,Johan Du Plessis,1967-12-28,M,Roodepoort
+P000421,Nomsa Dlamini,11/01/1941,f,Benoni
+P001250,Yusuf Khumalo,07/05/1973,M,Krugersdorp
+P000317,Anika Jacobs,1988-10-08,F,Soweto
+P000890,Unathi Pretorius,16/11/1979,F,Johannesburg
+P002039,Jabu Van der Merwe,2002-01-03,m,Roodepoort
+P003172,Palesa Jacobs,13/10/1966,Female,Pretoria
+P002946,Zanele Jacobs,2023-03-17,F,Centurion
+P001357,Yusuf Adams,1972-02-28,M,Krugersdorp
+P001161,Megan Govender,11-Jan-1966,f,Midrand
+P000540,Emma Mabaso,04/05/2000,F,Krugersdorp
+P001284,Unathi Van der Merwe,1990-02-27,F,Pretoria
+P001575, OLIVER VAN DER MERWE ,1982-07-01,Male,Johannesburg
+P000528,Pieter Smith,13-Nov-2005,M,Benoni
+P001210,Yusuf Tshabalala,2016-08-03,Male,Midrand
+P002777,Mpho Tshabalala,01/12/1961,M,Pretoria
+P000866,Farouk Molefe,1975-10-20,m,Krugersdorp
+P001278,Thabo Botha,1988-07-24,M,Benoni
+P002549,Nomsa Dlamini,2004-11-22,F,Johannesburg
+P001041,Megan Adams,2012-04-18,F,Krugersdorp
+P001461,Yusuf Mahlangu,2014-10-02,m,Pretoria
+P001883, MEGAN WILLIAMS ,19/08/1991,F,Soweto
+P002592,Zanele Molefe,1963-01-10,f,Krugersdorp
+P001368,Jabu Pretorius,2003-07-27,M,Soweto
+P002586,Yusuf Dlamini,1998-05-27,m,Pretoria
+P000294, GUGU PILLAY ,2014-09-19,Female,Midrand
+P001722,Johan Pretorius,08-Jun-1973,m,Benoni
+P000359, WANDA GOVENDER ,2004-12-23,f,Johannesburg
+P002044, AYESHA WILLIAMS ,05-Dec-1978,F,Centurion
+P002270,Nomsa Mokoena,2017-04-02,F,Roodepoort
+P000619,Zinhle Tshabalala,2005-01-21,F,Johannesburg
+P000752,Lerato Govender,1975-06-19,f,Benoni
+P003160,Lerato Adams,2000-06-05,f,Benoni
+P002845,Emma Botha,2020-05-20,F,Soweto
+P002730,Liam Molefe,04/05/2022,M,Benoni
+P000627, PALESA MOKOENA ,19/01/2023,F,Centurion
+P001185,Palesa Naidoo,2023-09-16,f,Krugersdorp
+P001315,Ayesha Zulu,1981-11-25,F,Midrand
+P001804,Megan Molefe,1994-02-20,F,Krugersdorp
+P003086,Nomsa Smith,1971-10-09,f,Krugersdorp
+P002371,Sibusiso Adams,2005-03-08,M,Soweto
+P001970,Farouk Pretorius,1981-08-02,Male,Centurion
+P002412,Vusi Pillay,1981-01-25,M,Johannesburg
+P002961,Karabo Jacobs,2019-03-14,f,Benoni
+P001985,Imaan Pretorius,1993-01-13,f,Benoni
+P001397,Riaan Naidoo,02/04/1945,M,Midrand
+P000645,Dumisani Ndlovu,1971-12-19,m,Roodepoort
+P000133,Imaan Dlamini,1958-01-07,f,Centurion
+P001507,Riaan Naidoo,1981-10-26,M,Pretoria
+P001938,Emma Govender,1980-02-15,F,Soweto
+P002748,Gugu Tshabalala,2003-05-23,F,Roodepoort
+P002824,Megan Williams,18/12/1972,F,Benoni
+P002456,Pieter Dlamini,16/01/1978,M,Benoni
+P001196,Megan Van der Merwe,2019-10-04,Female,Pretoria
+P002992,Oliver Govender,1968-01-16,m,Benoni
+P000558,Naledi Ndlovu,1992-04-22,F,Soweto
+P002310,Tumi Mabaso,1951-09-22,f,Soweto
+P001646, LIAM PILLAY ,2001-07-17,M,Midrand
+P001402,Zanele Jacobs,2014-09-16,Female,Johannesburg
+P002324,Oliver Van der Merwe,06-Sep-2014,M,Benoni
+P000871,Oliver Govender,1976-07-22,M,Benoni
+P003069,Riaan Van der Merwe,1978-08-21,Male,Roodepoort
+P001718,Dumisani Pillay,17/12/1965,m,Soweto
+P000761,Sipho Pillay,1994-06-16,M,Johannesburg
+P000831,Wanda Molefe,14/11/1952,F,Benoni
+P000912, WANDA SITHOLE ,1952-12-10,F,Midrand
+P000441,Megan Mabaso,1941-01-05,F,Centurion
+P001837,Palesa Botha,1962-10-13,F,Soweto
+P002438,Palesa Mahlangu,1992-07-01,F,Centurion
+P001424,Gugu Nkosi,1948-07-03,F,Centurion
+P001401,Ayesha Ndlovu,1987-07-23,f,Pretoria
+P002051, EMMA TSHABALALA ,2024-08-17,f,Krugersdorp
+P001719, OLIVER ZULU ,1996-12-23,M,Krugersdorp
+P002292,Farouk Mahlangu,1997-09-04,Male,Centurion
+P001878,Sibusiso Williams,03/03/1988,M,Krugersdorp
+P002716,Zinhle Govender,1990-01-16,f,Krugersdorp
+P001114,Oliver Nkosi,1963-03-09,M,Krugersdorp
+P002780,Sipho Botha,13/02/1956,m,Pretoria
+P001975,Wanda Ndlovu,1948-01-05,F,Roodepoort
+P002474,Pieter Mahlangu,02-Jun-1996,M,Midrand
+P001685,Imaan Van der Merwe,1966-12-09,F,Soweto
+P002319,Dumisani Du Plessis,18/08/1944,M,Midrand
+P000587,Anika Nkosi,1966-12-25,F,Johannesburg
+P001076,Gugu Zulu,18/04/1978,Female,Roodepoort
+P000291,Dumisani Smith,1943-01-04,M,Johannesburg
+P001303,Nomsa Naidoo,1970-02-10,F,Centurion
+P003083, AYESHA VAN DER MERWE ,11-Feb-2023,f,Midrand
+P001536,Unathi Botha,18/01/2012,F,Pretoria
+P001115, KAGISO PILLAY ,2018-03-08,Male,Centurion
+P000458,Pieter Smith,1994-02-14,M,Benoni
+P001216,Lerato Jacobs,1965-06-20,Female,Pretoria
+P001717,Yusuf Sithole,1986-04-24,m,Midrand
+P002113,Gugu Pretorius,01/02/2019,f,Roodepoort
+P001911,Mpho Jacobs,23/05/1993,M,Soweto
+P001107,Gugu Zulu,2003-10-05,f,Roodepoort
+P002573,Chloe Naidoo,2024-02-14,F,Soweto
+P000166,Gugu Van der Merwe,26/01/1957,f,Krugersdorp
+P002340,Emma Williams,06-Jul-1982,f,Pretoria
+P002769,Johan Ndlovu,2013-06-01,M,Soweto
+P002158,Gugu Du Plessis,18/12/2018,F,Midrand
+P001957,Oliver Mabaso,1995-01-15,M,Midrand
+P002542,Ayesha Pretorius,2015-09-18,Female,Midrand
+P001861,Ayesha Dlamini,09-Oct-1988,Female,Roodepoort
+P000564,Kagiso Dlamini,10/06/1980,M,Midrand
+P001364,Palesa Tshabalala,11-Nov-1949,F,Midrand
+P001323,Yusuf Adams,1941-06-06,M,Krugersdorp
+P002363,Johan Pillay,1984-05-18,Male,Soweto
+P002566,Karabo Govender,2003-12-03,f,Benoni
+P001592,Anika Naidoo,1954-06-26,F,Midrand
+P002409,Sibusiso Pillay,09/02/1993,M,Midrand
+P001065,Riaan Naidoo,2019-01-17,M,Krugersdorp
+P002359,Bongani Govender,11/06/1985,M,Midrand
+P000646,Naledi Khumalo,1948-10-15,F,Johannesburg
+P002383,Gugu Naidoo,2015-08-20,F,Pretoria
+P001160,Dumisani Ndlovu,03/08/1949,M,Krugersdorp
+P001730, HENDRIK PILLAY ,1962-10-26,Male,Pretoria
+P000798,Kagiso Jacobs,08/01/1986,M,Benoni
+P001005,Chloe Adams,1974-04-21,F,Roodepoort
+P000853,Hendrik Naidoo,25/09/1990,Male,Johannesburg
+P001240,Liam Williams,2021-10-13,M,Midrand
+P001404,Bongani Mabaso,1990-10-25,M,Krugersdorp
+P000395,Nomsa Mabaso,12/02/1985,F,Pretoria
+P002982,Farouk Ndlovu,1940-05-23,M,Pretoria
+P001227,Yusuf Govender,1991-10-16,M,Centurion
+P002989, UNATHI MOKOENA ,04/07/1963,f,Soweto
+P001686,Gugu Williams,1973-12-28,Female,Midrand
+P000413,Unathi Botha,1999-06-25,F,Krugersdorp
+P000076,Karabo Mabaso,24/11/2016,F,Midrand
+P001213,Nomsa Botha,1955-04-12,f,Krugersdorp
+P001241,Hendrik Mokoena,10/05/1996,M,Pretoria
+P000006, ZINHLE TSHABALALA ,1947-10-07,f,Benoni
+P001406,Sibusiso Mahlangu,1940-02-20,Male,Benoni
+P000293,Sibusiso Zulu,1945-05-04,M,Roodepoort
+P000026,Bongani Ndlovu,1973-09-12,M,Centurion
+P000185,Riaan Govender,01-Jul-1943,M,Pretoria
+P002243,Vusi Williams,27-Sep-2017,M,Johannesburg
+P002919,Palesa Nkosi,1993-01-28,F,Johannesburg
+P002395,Sibusiso Williams,1942-09-11,M,Roodepoort
+P000814,Gugu Tshabalala,2022-04-18,F,Krugersdorp
+P001731,Karabo Nkosi,10/04/1983,F,Roodepoort
+P000088,Ayesha Adams,1992-08-20,f,Roodepoort
+P000156,Emma Du Plessis,1972-09-16,Female,Roodepoort
+P002450,Megan Mahlangu,2015-08-16,Female,Johannesburg
+P000143,Sipho Zulu,05/05/1965,Male,Soweto
+P001987,Anika Molefe,1971-05-14,F,Soweto
+P003095,Emma Smith,1945-03-11,f,Krugersdorp
+P002555,Tumi Du Plessis,1985-07-28,F,Soweto
+P001582,Ayesha Williams,08/04/1990,F,Krugersdorp
+P002757,Ayesha Nkosi,1971-02-01,f,Midrand
+P002798,Zanele Williams,16/05/1992,F,Centurion
+P002703,Liam Molefe,2016-11-06,Male,Soweto
+P003180,Megan Nkosi,2001-04-09,F,Krugersdorp
+P002085,Hendrik Pretorius,1951-04-26,M,Benoni
+P000014,Zinhle Botha,1971-07-13,F,Midrand
+P000452,Lerato Zulu,1980-08-19,f,Krugersdorp
+P000390,Vusi Botha,1961-04-19,M,Midrand
+P002911,Gugu Mahlangu,1988-08-02,Female,Midrand
+P002228,Yusuf Nkosi,1959-02-02,Male,Soweto
+P000508,Liam Naidoo,03/04/1947,M,Johannesburg
+P001628,Dumisani Molefe,2001-02-11,Male,Krugersdorp
+P002634,Zinhle Williams,2002-12-18,F,Centurion
+P001490,Lerato Molefe,1943-12-23,F,Centurion
+P000216,Pieter Mahlangu,12-Nov-1950,M,Benoni
+P003067,Hendrik Van der Merwe,1951-10-17,Male,Johannesburg
+P002819,Sibusiso Pillay,1946-04-05,M,Krugersdorp
+P000229,Vusi Pretorius,1977-06-27,Male,Soweto
+P001008,Naledi Mokoena,1980-03-01,F,Midrand
+P000705,Anika Ndlovu,08/03/2004,F,Benoni
+P002731,Chloe Jacobs,2003-11-26,f,Pretoria
+P002192,Kagiso Tshabalala,1967-08-16,M,Roodepoort
+P000895,Yusuf Mabaso,14-Dec-2019,M,Johannesburg
+P002114,Naledi Van der Merwe,2021-03-18,Female,Centurion
+P000435,Jabu Mahlangu,1974-03-27,m,Pretoria
+P000524,Bongani Pretorius,27/07/2012,m,Roodepoort
+P000989,Thabo Naidoo,1948-06-28,M,Roodepoort
+P002315,Nomsa Govender,1986-09-02,F,Midrand
+P002901,Palesa Williams,1997-04-02,Female,Midrand
+P000754,Yusuf Jacobs,24/10/2016,Male,Benoni
+P001218,Imaan Van der Merwe,1991-10-24,F,Centurion
+P002582,Gugu Adams,1950-01-18,F,Roodepoort
+P000086,Farouk Smith,2016-11-05,M,Benoni
+P000964,Johan Tshabalala,1994-04-24,M,Pretoria
+P000711, LERATO NDLOVU ,1975-06-17,Female,Soweto
+P000419,Liam Mokoena,,M,Johannesburg
+P000542,Oliver Ndlovu,1992-02-09,M,Benoni
+P000521,Jabu Williams,2000-07-14,M,Midrand
+P000786, HENDRIK SITHOLE ,01/12/1986,M,Johannesburg
+P002392,Sibusiso Tshabalala,2017-02-16,M,Centurion
+P001182, HENDRIK DLAMINI ,1977-10-21,m,Pretoria
+P002007,Wanda Botha,2004-05-03,F,Midrand
+P000366,Karabo Nkosi,1966-02-23,f,Soweto
+P002786,Vusi Nkosi,1965-01-17,M,Centurion
+P002648,Thabo Nkosi,2024-09-12,Male,Benoni
+P000553,Wanda Adams,1981-04-01,f,Midrand
+P002129, PIETER PILLAY ,1980-04-19,M,Pretoria
+P001956,Wanda Tshabalala,1972-04-20,F,Krugersdorp
+P000144,Bongani Adams,2018-02-23,M,Centurion
+P001154,Johan Tshabalala,1948-01-12,M,Midrand
+P001244,Liam Botha,1959-02-17,Male,Midrand
+P000541, AYESHA SMITH ,1960-06-02,F,Krugersdorp
+P002513,Imaan Mabaso,1989-12-18,F,Midrand
+P001872,Kagiso Van der Merwe,1948-12-24,Male,Johannesburg
+P002505,Megan Williams,1986-05-01,f,Soweto
+P000544,Kagiso Mabaso,1973-04-03,M,Benoni
+P001945,Jabu Mahlangu,2000-03-19,M,Midrand
+P002293,Oliver Adams,1994-08-08,M,Roodepoort
+P000628,Zinhle Sithole,1973-10-15,F,Benoni
+P000790,Palesa Smith,06/12/1963,f,Johannesburg
+P000094,Yusuf Khumalo,1992-07-14,M,Benoni
+P000192,Chloe Pretorius,17-Sep-1994,Female,Centurion
+P002922,Mpho Smith,26-Jan-1987,m,Benoni
+P001318,Imaan Govender,2012-04-18,F,Midrand
+P001304,Vusi Molefe,1971-01-25,m,Centurion
+P002646,Thabo Van der Merwe,2005-03-11,m,Johannesburg
+P002026,Gugu Dlamini,12/06/1979,f,Benoni
+P000732,Zinhle Mahlangu,2017-02-02,F,Centurion
+P002403,Wanda Govender,2024-06-14,F,Johannesburg
+P000536,Naledi Sithole,16/10/1960,F,Soweto
+P002838,Lerato Botha,05/12/1972,f,Centurion
+P000663,Unathi Zulu,1948-10-13,f,Pretoria
+P002520,Palesa Govender,2005-08-12,F,Midrand
+P003107,Anika Pillay,2019-06-07,F,Benoni
+P001696,Thabo Dlamini,2001-08-20,Male,Soweto
+P003007,Megan Govender,2024-08-24,f,Krugersdorp
+P002369,Ayesha Zulu,27-Jul-2022,F,Krugersdorp
+P000184,Palesa Jacobs,2016-01-23,f,Krugersdorp
+P002640,Emma Molefe,2005-11-13,F,Midrand
+P002217, BONGANI TSHABALALA ,02/08/1984,m,Krugersdorp
+P002241,Gugu Pretorius,09/08/1965,Female,Midrand
+P000249, THABO VAN DER MERWE ,1982-10-24,M,Roodepoort
+P002408,Dumisani Adams,2012-06-24,M,Soweto
+P001268,Unathi Adams,05-Sep-1986,F,Krugersdorp
+P003151,Vusi Mahlangu,2019-08-13,M,Midrand
+P001391,Zanele Pretorius,1962-04-26,F,Pretoria
+P000264,Oliver Naidoo,1948-10-21,M,Pretoria
+P000800,Vusi Williams,1978-05-16,m,Johannesburg
+P001856,Anika Jacobs,04/12/1967,F,Johannesburg
+P002778,Megan Mabaso,1991-06-04,F,Pretoria
+P000208,Oliver Govender,,m,Pretoria
+P003193,Farouk Mabaso,1973-11-28,M,Roodepoort
+P002617,Anika Du Plessis,2016-09-24,Female,Benoni
+P002226,Liam Nkosi,2004-03-18,Male,Johannesburg
+P002429,Imaan Pretorius,1955-11-16,f,Soweto
+P003090,Lerato Mahlangu,1943-06-07,Female,Pretoria
+P002021,Zinhle Tshabalala,05/05/2021,f,Johannesburg
+P000495,Emma Van der Merwe,1952-01-12,F,Roodepoort
+P001917,Hendrik Pillay,1969-03-13,M,Benoni
+P000882,Nomsa Mabaso,1964-02-23,F,Benoni
+P000756,Unathi Mabaso,02/01/1942,f,Benoni
+P002327,Bongani Van der Merwe,12/10/1941,M,Midrand
+P003068,Naledi Smith,13/10/1985,F,Midrand
+P002568,Jabu Sithole,07/09/1996,Male,Soweto
+P001135,Nomsa Ndlovu,01/07/2019,F,Centurion
+P002071,Oliver Ndlovu,01/07/1989,M,Pretoria
+P000662,Vusi Govender,23/11/1986,m,Roodepoort
+P002075,Yusuf Smith,10-Aug-2000,m,Johannesburg
+P001519,Kagiso Smith,19/04/1984,M,Midrand
+P000852,Emma Jacobs,1995-04-13,Female,Krugersdorp
+P002036,Chloe Khumalo,1996-06-03,F,Krugersdorp
+P000661,Dumisani Jacobs,2015-08-01,M,Pretoria
+P002941, LERATO MABASO ,1970-10-06,f,Midrand
+P002171,Anika Van der Merwe,19/06/2001,F,Krugersdorp
+P001221,Bongani Pillay,1973-08-07,M,Krugersdorp
+P000325,Bongani Govender,2005-07-21,M,Roodepoort
+P000741,Riaan Zulu,1996-04-04,m,Soweto
+P002776,Sibusiso Govender,1982-04-23,M,Centurion
+P000147,Liam Naidoo,1944-11-27,M,Benoni
+P000309,Lerato Mokoena,1967-05-02,F,Pretoria
+P003199,Vusi Mahlangu,1948-05-06,m,Soweto
+P000378,Megan Molefe,1944-10-28,Female,Midrand
+P003108,Hendrik Mahlangu,2024-08-11,M,Midrand
+P002932,Tumi Zulu,1965-05-07,F,Pretoria
+P001495,Ayesha Adams,02-Jul-1997,F,Midrand
+P002936,Anika Molefe,1994-03-13,F,Soweto
+P001842,Zanele Sithole,1971-11-28,F,Roodepoort
+P002288,Farouk Mahlangu,23-Dec-1942,M,Midrand
+P001186,Yusuf Sithole,23/07/1944,M,Johannesburg
+P001783,Gugu Mabaso,1959-10-08,F,Roodepoort
+P002397,Nomsa Williams,1955-10-18,F,Krugersdorp
+P000734,Liam Pretorius,21/08/1975,M,Krugersdorp
+P000811,Sipho Zulu,1981-11-13,m,Krugersdorp
+P000542,Oliver Ndlovu,1992-02-09,M,Benoni
+P001493,Unathi Pillay,2023-05-27,Female,Centurion
+P001800,Thabo Zulu,19-Sep-1994,M,Krugersdorp
+P002921,Farouk Adams,2020-11-21,M,Johannesburg
+P000785,Emma Pillay,1951-06-24,f,Benoni
+P000975,Wanda Zulu,18/03/1966,F,Midrand
+P003145,Dumisani Molefe,12/06/1979,M,Midrand
+P000169,Thabo Pretorius,1945-01-18,M,Midrand
+P003046,Nomsa Sithole,2002-12-07,F,Pretoria
+P002724,Jabu Pillay,18-Apr-1952,Male,Midrand
+P000674,Liam Tshabalala,1981-06-06,M,Centurion
+P001772,Bongani Du Plessis,1940-08-28,M,Roodepoort
+P001371,Jabu Jacobs,1968-08-08,M,Roodepoort
+P001875,Hendrik Williams,2014-04-23,M,Midrand
+P003005,Tumi Nkosi,15/05/1947,F,Benoni
+P002978,Yusuf Zulu,05/12/1983,M,Johannesburg
+P000934,Naledi Botha,2018-04-04,F,Krugersdorp
+P002497,Karabo Pillay,1944-10-22,F,Pretoria
+P001446,Oliver Mabaso,1968-04-19,M,Midrand
+P001706,Imaan Dlamini,22-Apr-2012,F,Roodepoort
+P001118,Liam Dlamini,1955-07-04,m,Centurion
+P000174,Imaan Dlamini,1944-02-11,f,Roodepoort
+P000335,Chloe Jacobs,1945-03-19,F,Johannesburg
+P000432,Unathi Pretorius,1969-10-13,Female,Centurion
+P002541,Zanele Van der Merwe,1949-06-22,F,Johannesburg
+P001394,Hendrik Van der Merwe,1959-11-27,m,Pretoria
+P001679,Emma Mabaso,1947-05-09,F,Soweto
+P002373, HENDRIK NAIDOO ,12/02/1988,M,Roodepoort
+P003140,Oliver Zulu,1986-07-17,M,Krugersdorp
+P001631,Vusi Botha,1956-10-21,Male,Pretoria
+P002201, PALESA MOLEFE ,2006-05-14,F,Krugersdorp
+P003064,Wanda Smith,2016-02-19,F,Pretoria
+P003187,Naledi Ndlovu,1961-11-06,Female,Soweto
+P000066,Johan Van der Merwe,1951-05-27,M,Benoni
+P003034,Riaan Dlamini,02-Jun-1945,m,Soweto
+P002844,Ayesha Khumalo,03-Sep-1966,f,Pretoria
+P000227,Mpho Jacobs,28/02/1983,Male,Krugersdorp
+P001428,Chloe Van der Merwe,04-Jun-1944,F,Pretoria
+P000614,Naledi Botha,2019-04-11,F,Centurion
+P000918,Anika Naidoo,13/05/2001,F,Krugersdorp
+P001336,Pieter Nkosi,1956-08-20,Male,Roodepoort
+P001682,Chloe Pretorius,1942-05-09,f,Roodepoort
+P000365,Pieter Mabaso,1994-03-22,M,Krugersdorp
+P001214,Megan Botha,2013-08-25,F,Midrand
+P000916,Mpho Van der Merwe,1984-08-18,M,Benoni
+P001211,Mpho Sithole,2014-01-11,m,Johannesburg
+P000684,Karabo Zulu,,Female,Benoni
+P000247,Riaan Zulu,2017-11-06,M,Benoni
+P001629,Wanda Govender,12/03/2020,F,Roodepoort
+P002089,Oliver Khumalo,1989-04-22,M,Soweto
+P001448,Zanele Dlamini,1981-06-17,f,Benoni
+P003136,Zinhle Nkosi,1987-09-20,F,Soweto
+P000373,Liam Pretorius,2016-12-20,M,Midrand
+P000374, PALESA SMITH ,1969-06-05,F,Centurion
+P002109,Kagiso Nkosi,1950-01-21,M,Benoni
+P002715,Emma Pretorius,1985-12-25,f,Roodepoort
+P000702,Karabo Mokoena,2021-07-10,Female,Centurion
+P000389,Zanele Adams,2004-09-17,Female,Pretoria
+P001173,Jabu Naidoo,1994-07-03,m,Krugersdorp
+P000603,Emma Ndlovu,1989-04-04,f,Soweto
+P002558,Vusi Molefe,1960-01-20,M,Centurion
+P003081,Johan Mahlangu,1967-04-02,Male,Centurion
+P002820,Chloe Sithole,1969-10-26,f,Krugersdorp
+P000638,Nomsa Tshabalala,1941-08-16,F,Midrand
+P002967,Palesa Smith,11/09/1942,f,Centurion
+P000243,Johan Mahlangu,1958-12-25,M,Krugersdorp
+P002139,Gugu Molefe,1958-01-27,f,Centurion
+P003037,Ayesha Botha,1994-12-15,F,Pretoria
+P000364,Pieter Du Plessis,05/05/2023,m,Centurion
+P000782,Wanda Ndlovu,2013-11-23,Female,Krugersdorp
+P001835,Riaan Botha,2003-10-11,m,Johannesburg
+P002445,Thabo Dlamini,2020-09-24,m,Centurion
+P000722,Thabo Williams,1944-08-18,m,Krugersdorp
+P000105,Riaan Ndlovu,1950-05-08,Male,Centurion
+P001711,Anika Khumalo,09/05/2023,F,Midrand
+P001699,Johan Zulu,1974-08-15,Male,Pretoria
+P001616,Mpho Nkosi,1949-02-05,M,Midrand
+P002602,Lerato Smith,2000-10-17,f,Soweto
+P003015,Karabo Du Plessis,1976-03-02,Female,Pretoria
+P001086,Unathi Govender,1988-07-04,F,Midrand
+P000828,Gugu Ndlovu,24/11/1965,Female,Pretoria
+P001747,Hendrik Molefe,1994-03-19,m,Benoni
+P001572,Sibusiso Williams,1998-12-17,Male,Roodepoort
+P002965,Hendrik Sithole,1950-09-07,M,Roodepoort
+P000051,Imaan Pretorius,1956-07-28,f,Midrand
+P000483,Ayesha Botha,02/02/2022,F,Krugersdorp
+P003185,Emma Williams,1999-08-13,F,Johannesburg
+P000687,Mpho Tshabalala,12-Apr-1966,M,Pretoria
+P002589,Palesa Nkosi,2023-02-04,F,Centurion
+P000097,Riaan Zulu,1942-03-02,m,Krugersdorp
+P001547,Jabu Mokoena,10/09/1969,M,Benoni
+P000298, UNATHI TSHABALALA ,1985-04-28,F,Johannesburg
+P001090,Anika Naidoo,1943-11-04,F,Soweto
+P002793,Johan Pillay,2013-07-16,M,Pretoria
+P002440,Thabo Sithole,1958-08-06,M,Benoni
+P003079,Palesa Pillay,08/09/1996,Female,Johannesburg
+P000157,Chloe Pretorius,1987-01-07,F,Midrand
+P000878,Oliver Smith,,Male,Centurion
+P002782,Liam Nkosi,13/02/1952,m,Benoni
+P001927,Naledi Nkosi,1991-05-08,F,Benoni
+P000093,Palesa Smith,1951-06-08,Female,Centurion
+P001808,Farouk Adams,07/11/1954,M,Soweto
+P002502,Ayesha Van der Merwe,1978-08-01,F,Centurion
+P001145,Imaan Molefe,1968-08-19,Female,Roodepoort
+P002010,Palesa Botha,2021-03-22,F,Midrand
+P001052, GUGU TSHABALALA ,2003-02-03,F,Soweto
+P001967, GUGU DLAMINI ,1953-01-19,f,Centurion
+P000380,Oliver Mahlangu,2014-12-06,M,Johannesburg
+P002725,Imaan Mokoena,1965-12-28,F,Benoni
+P000126, HENDRIK DU PLESSIS ,1955-05-10,M,Roodepoort
+P000336,Hendrik Zulu,20/07/1978,M,Pretoria
+P002543,Jabu Tshabalala,1951-05-16,M,Centurion
+P000270,Lerato Williams,22/03/1970,F,Centurion
+P001854,Dumisani Williams,1944-09-14,Male,Roodepoort
+P001176,Palesa Zulu,1996-12-03,F,Soweto
+P000493,Vusi Smith,2003-02-07,M,Roodepoort
+P003027,Emma Mahlangu,2006-10-19,F,Pretoria
+P002653,Naledi Botha,21-Aug-1945,f,Midrand
+P000933,Jabu Ndlovu,17/03/1988,Male,Pretoria
+P000163,Sipho Van der Merwe,1993-09-12,M,Krugersdorp
+P001206, GUGU MABASO ,1979-04-15,F,Pretoria
+P002892,Unathi Williams,1976-06-14,f,Soweto
+P001083,Tumi Govender,07/11/2020,F,Pretoria
+P001539,Oliver Dlamini,2013-05-22,M,Benoni
+P002097,Ayesha Du Plessis,2012-07-02,F,Midrand
+P002688, LERATO WILLIAMS ,06-Jan-2022,F,Soweto
+P001565,Yusuf Khumalo,1949-03-25,M,Centurion
+P002131,Zinhle Williams,1990-10-16,f,Midrand
+P002841,Anika Khumalo,22/09/1958,Female,Roodepoort
+P002625,Wanda Ndlovu,2024-09-19,f,Benoni
+P003057,Bongani Dlamini,2013-10-26,M,Soweto
+P000962,Oliver Williams,1945-05-21,M,Krugersdorp
+P000016,Chloe Van der Merwe,1969-03-03,F,Centurion
+P002885,Zanele Van der Merwe,1968-10-27,F,Benoni
+P000841,Zinhle Nkosi,1953-08-23,F,Centurion
+P000561,Emma Smith,26/04/1996,F,Centurion
+P003044,Karabo Pretorius,1981-01-06,Female,Soweto
+P001363,Imaan Jacobs,1944-02-10,F,Midrand
+P001036,Nomsa Mahlangu,1983-06-23,F,Midrand
+P000096,Sibusiso Molefe,2018-07-21,Male,Roodepoort
+P001865,Sipho Nkosi,16/07/1974,M,Pretoria
+P000444,Zinhle Botha,12/09/1954,F,Soweto
+P002190,Gugu Mahlangu,1995-09-13,F,Roodepoort
+P003014,Megan Jacobs,1953-04-27,F,Soweto
+P001595,Palesa Smith,10/06/1969,F,Centurion
+P001882,Wanda Sithole,1953-10-13,F,Centurion
+P002970,Dumisani Dlamini,1958-11-15,M,Pretoria
+P000503,Mpho Khumalo,1945-09-09,M,Roodepoort
+P000598,Dumisani Adams,1951-12-28,M,Roodepoort
+P000287,Sibusiso Govender,1940-06-17,Male,Pretoria
+P002895,Vusi Govender,2023-07-21,M,Soweto
+P001852,Zinhle Pretorius,10/03/2000,f,Centurion
+P000978,Vusi Du Plessis,01-Oct-1974,M,Benoni
+P000585,Nomsa Khumalo,1977-03-16,F,Johannesburg
+P001285,Lerato Pretorius,24-Jul-1975,F,Johannesburg
+P000994,Zinhle Pretorius,1979-07-28,f,Midrand
+P000042,Hendrik Williams,2005-04-23,m,Krugersdorp
+P000078,Zanele Sithole,15/08/1999,f,Centurion
+P002972,Johan Smith,1964-06-22,M,Soweto
+P002784,Unathi Govender,12/04/2015,Female,Benoni
+P000183,Nomsa Molefe,1966-05-11,F,Roodepoort
+P002102,Ayesha Mabaso,2017-02-20,f,Centurion
+P002785, ANIKA VAN DER MERWE ,1946-03-27,f,Centurion
+P001763,Thabo Ndlovu,1971-12-21,M,Krugersdorp
+P000425,Wanda Sithole,1944-11-10,Female,Roodepoort
+P001092,Sipho Mahlangu,1960-11-18,M,Centurion
+P002230,Unathi Dlamini,04/09/2016,f,Roodepoort
+P001820,Megan Mokoena,06/08/1981,F,Krugersdorp
+P001665,Lerato Pillay,1996-08-10,F,Benoni
+P000956,Zinhle Van der Merwe,1975-06-04,F,Midrand
+P001521,Imaan Smith,1975-10-28,f,Midrand
+P003058,Liam Molefe,20/08/2022,M,Pretoria
+P001202,Unathi Pretorius,2003-07-01,F,Centurion
+P000161,Naledi Mahlangu,1962-10-24,Female,Roodepoort
+P000671,Bongani Mabaso,1989-08-08,Male,Roodepoort
+P000219,Pieter Khumalo,1963-08-12,m,Benoni
+P002570,Mpho Nkosi,2006-03-21,M,Pretoria
+P000363,Gugu Nkosi,23/04/2001,F,Krugersdorp
+P001877,Liam Pillay,1978-09-28,m,Johannesburg
+P002726,Palesa Van der Merwe,1955-06-19,F,Pretoria
+P002666,Naledi Adams,1950-12-08,Female,Soweto
+P002073,Sipho Mabaso,2006-09-22,M,Benoni
+P002472,Farouk Pretorius,1981-12-08,M,Roodepoort
+P000141,Mpho Govender,20/10/1951,Male,Midrand
+P000740,Anika Adams,1960-10-10,F,Benoni
+P002590,Sibusiso Zulu,2019-06-17,M,Centurion
+P001610,Unathi Mabaso,26/06/1966,f,Benoni
+P000175,Dumisani Botha,10/05/2006,M,Johannesburg
+P000172,Zinhle Sithole,1946-12-26,F,Johannesburg
+P002041,Bongani Pretorius,1994-11-21,M,Pretoria
+P002656,Mpho Khumalo,20-Feb-1955,M,Benoni
+P002215,Chloe Pillay,2022-07-08,F,Pretoria
+P000750,Zanele Pillay,2005-09-22,F,Pretoria
+P001063,Liam Du Plessis,2023-11-15,m,Roodepoort
+P001834,Imaan Zulu,02/05/1955,F,Krugersdorp
+P002852,Megan Govender,2002-08-24,Female,Benoni
+P001447,Sipho Mahlangu,2022-11-21,Male,Benoni
+P001104,Anika Molefe,1954-04-16,F,Roodepoort
+P000637,Johan Dlamini,1972-11-27,m,Krugersdorp
+P001520,Liam Molefe,1967-07-15,M,Soweto
+P000990,Sipho Williams,2004-06-27,M,Pretoria
+P002888,Anika Pretorius,1951-11-25,F,Pretoria
+P001669,Lerato Zulu,1968-04-21,f,Johannesburg
+P002583,Mpho Naidoo,27/08/1988,m,Soweto
+P001303,Nomsa Naidoo,1970-02-10,F,Centurion
+P002332,Yusuf Mabaso,1984-10-16,M,Roodepoort
+P002899,Megan Botha,1997-01-09,f,Krugersdorp
+P000203,Oliver Adams,08-Jul-1952,M,Midrand
+P001174,Nomsa Pillay,2014-11-25,Female,Centurion
+P001851,Tumi Mabaso,1951-04-28,F,Johannesburg
+P002431,Ayesha Pillay,1980-04-18,F,Roodepoort
+P001073,Sipho Khumalo,1951-12-23,Male,Johannesburg
+P000087,Tumi Sithole,1987-07-01,F,Centurion
+P002207,Gugu Sithole,1983-01-16,f,Midrand
+P001840,Naledi Molefe,1995-03-28,F,Midrand
+P001574,Hendrik Pretorius,24-Jan-1969,Male,Roodepoort
+P001177,Palesa Mahlangu,28/02/2018,f,Soweto
+P000106,Oliver Khumalo,1993-06-22,M,Johannesburg
+P002704,Liam Williams,1946-07-26,M,Centurion
+P001705,Emma Mokoena,1974-07-14,F,Soweto
+P000456,Megan Mokoena,1986-09-07,f,Soweto
+P001795,Riaan Van der Merwe,21/11/2024,M,Roodepoort
+P001708,Emma Molefe,17-Mar-1963,f,Soweto
+P001088,Pieter Pretorius,06/04/1966,M,Pretoria
+P002011,Emma Dlamini,1989-10-04,F,Pretoria
+P003040,Imaan Dlamini,2016-10-24,F,Midrand
+P000517,Farouk Pillay,25/05/2024,M,Centurion
+P000253,Johan Sithole,2003-06-18,M,Krugersdorp
+P002382,Mpho Du Plessis,2022-06-17,Male,Soweto
+P002519,Tumi Mabaso,06/12/1997,F,Johannesburg
+P001838,Ayesha Tshabalala,1991-09-06,F,Pretoria
+P002923,Johan Zulu,1995-10-07,m,Johannesburg
+P001784,Farouk Williams,1994-04-18,M,Soweto
+P001259,Karabo Smith,1966-12-25,F,Centurion
+P003105,Hendrik Van der Merwe,1976-01-16,M,Pretoria
+P000179,Palesa Van der Merwe,2013-10-06,F,Johannesburg
+P002856,Sipho Nkosi,01/10/1964,M,Pretoria
+P002272, SIBUSISO MOLEFE ,19-Jul-2023,M,Krugersdorp
+P002415,Lerato Williams,1966-03-12,f,Pretoria
+P002307,Riaan Govender,1990-11-10,M,Midrand
+P000504,Megan Pillay,24/04/1956,F,Pretoria
+P002414,Anika Dlamini,09-Sep-1970,F,Midrand
+P002091,Zinhle Adams,17/01/1997,F,Pretoria
+P002287,Zanele Khumalo,1989-12-02,F,Krugersdorp
+P002005,Anika Dlamini,1957-07-15,f,Centurion
+P001103,Yusuf Pillay,1987-04-09,M,Centurion
+P000496,Nomsa Ndlovu,2019-08-08,F,Midrand
+P001032,Jabu Du Plessis,24/10/1989,m,Midrand
+P001823,Dumisani Khumalo,2021-11-22,m,Soweto
+P001849,Yusuf Sithole,2021-12-05,M,Soweto
+P000980,Imaan Ndlovu,1990-03-14,F,Roodepoort
+P002526,Zinhle Nkosi,2019-11-23,F,Johannesburg
+P000719,Emma Ndlovu,2021-06-22,F,Pretoria
+P000531,Oliver Williams,2022-02-18,M,Roodepoort
+P001564,Gugu Mokoena,1985-11-10,F,Centurion
+P001262, ANIKA KHUMALO ,24/09/2012,F,Centurion
+P000809,Sibusiso Ndlovu,2015-11-18,Male,Benoni
+P002008,Dumisani Molefe,13/08/1991,M,Midrand
+P001332,Sipho Ndlovu,03-May-2000,Male,Midrand
+P000197,Zanele Mokoena,2015-05-24,F,Pretoria
+P002733,Nomsa Du Plessis,05/08/1965,f,Midrand
+P000341,Lerato Jacobs,1995-01-09,F,Midrand
+P002063,Hendrik Nkosi,05/05/2000,M,Benoni
+P002066,Palesa Zulu,1992-08-14,F,Roodepoort
+P001828,Johan Sithole,16-Sep-1982,m,Benoni
+P000959,Emma Sithole,07/08/2002,F,Pretoria
+P000487,Chloe Williams,2023-03-02,F,Roodepoort
+P000824, JABU PRETORIUS ,05/04/2005,M,Johannesburg
+P002670,Nomsa Smith,1958-09-02,F,Pretoria
+P001270,Emma Tshabalala,1968-05-26,f,Krugersdorp
+P001078,Vusi Mokoena,1956-01-06,M,Johannesburg
+P000870,Tumi Pretorius,1993-01-07,F,Benoni
+P000476,Nomsa Pretorius,2006-05-03,F,Roodepoort
+P000418,Thabo Khumalo,1941-11-11,m,Soweto
+P002330,Hendrik Mokoena,1986-09-12,M,Johannesburg
+P002763,Jabu Molefe,1997-07-10,M,Pretoria
+P001591,Karabo Jacobs,24/09/1956,Female,Benoni
+P001479,Sibusiso Govender,28/12/1945,M,Benoni
+P001061,Tumi Govender,25/01/1953,F,Benoni
+P000311,Mpho Van der Merwe,1959-07-11,M,Centurion
+P002533,Chloe Sithole,1960-12-09,Female,Johannesburg
+P001255,Nomsa Van der Merwe,1988-09-04,F,Krugersdorp
+P002237,Unathi Williams,09/06/1998,f,Midrand
+P000972,Zanele Govender,2022-06-19,Female,Midrand
+P001019,Yusuf Mahlangu,02/01/1995,M,Midrand
+P000624,Zinhle Pillay,12-Jan-1961,Female,Pretoria
+P001724,Thabo Williams,1969-05-09,M,Midrand
+P000075,Naledi Mabaso,2001-11-10,F,Centurion
+P001988,Thabo Mabaso,15/11/2022,Male,Roodepoort
+P002795,Unathi Pretorius,1967-02-18,F,Johannesburg
+P000927, PALESA PRETORIUS ,1998-11-14,Female,Pretoria
+P001393,Naledi Nkosi,1984-10-11,F,Roodepoort
+P001230,Karabo Mabaso,2019-03-02,F,Benoni
+P003043,Dumisani Du Plessis,2013-09-07,m,Benoni
+P003117,Liam Khumalo,1995-01-05,m,Johannesburg
+P000529,Mpho Mahlangu,10/05/2019,m,Benoni
+P001746,Nomsa Molefe,2013-04-12,F,Krugersdorp
+P002055,Mpho Jacobs,2004-10-10,M,Roodepoort
+P001149,Karabo Mahlangu,2000-03-22,F,Pretoria
+P000612,Tumi Naidoo,2023-08-03,F,Krugersdorp
+P003175,Zinhle Mokoena,26/02/1975,F,Soweto
+P001819, YUSUF NAIDOO ,13/12/1987,M,Pretoria
+P000321,Zanele Molefe,1948-09-08,F,Soweto
+P001246,Palesa Pillay,2019-01-04,F,Midrand
+P000164,Mpho Mahlangu,1942-01-01,M,Pretoria
+P000550,Sipho Adams,2004-02-10,M,Benoni
+P002686,Lerato Govender,1993-09-02,f,Johannesburg
+P000801,Chloe Mabaso,2015-10-20,F,Krugersdorp
+P003102,Emma Du Plessis,2005-11-10,f,Pretoria
+P001690,Pieter Nkosi,2018-07-03,M,Benoni
+P001267,Naledi Zulu,1943-04-09,f,Soweto
+P002232,Wanda Pretorius,19/10/1969,F,Midrand
+P001603,Johan Pillay,1976-01-06,M,Pretoria
+P000401,Yusuf Botha,1997-07-08,Male,Soweto
+P000606,Jabu Nkosi,03/01/1968,Male,Roodepoort
+P003183,Naledi Mokoena,1941-07-25,F,Pretoria
+P001253,Emma Zulu,2017-05-12,F,Roodepoort
+P002871,Wanda Molefe,1999-06-28,Female,Johannesburg
+P001996,Gugu Pretorius,2017-01-12,F,Benoni
+P002609,Johan Mabaso,09/04/1984,M,Soweto
+P002152,Johan Pillay,17/05/1981,M,Roodepoort
+P002664,Johan Nkosi,1969-04-26,M,Benoni
+P002366,Zinhle Smith,1946-05-28,F,Pretoria
+P000667,Anika Van der Merwe,1983-07-17,F,Benoni
+P001139,Anika Smith,23/04/1961,F,Krugersdorp
+P002702,Gugu Williams,2013-12-26,Female,Johannesburg
+P001376,Wanda Molefe,,F,Pretoria
+P002125,Sibusiso Naidoo,1949-06-15,Male,Pretoria
+P002146,Gugu Van der Merwe,1940-05-11,F,Soweto
+P002968,Imaan Van der Merwe,1954-01-21,F,Roodepoort
+P001787,Thabo Sithole,2023-05-09,Male,Centurion
+P000238,Oliver Williams,23-Oct-1993,M,Pretoria
+P002222,Zinhle Williams,1971-05-05,F,Benoni
+P001132,Anika Tshabalala,08/06/1988,F,Krugersdorp
+P002203,Anika Zulu,12/08/2004,F,Pretoria
+P001741,Emma Dlamini,1952-06-23,f,Soweto
+P001694,Tumi Williams,1992-07-18,F,Johannesburg
+P001204,Anika Botha,1976-03-07,F,Centurion
+P002221, WANDA WILLIAMS ,1944-03-25,F,Soweto
+P002803,Jabu Dlamini,2022-02-18,M,Roodepoort
+P000111,Anika Mokoena,1980-12-04,F,Soweto
+P001198,Riaan Williams,18/02/2004,m,Midrand
+P002268,Nomsa Govender,05/04/1961,Female,Krugersdorp
+P001367, SIBUSISO DU PLESSIS ,1985-01-25,m,Soweto
+P002846, DUMISANI SMITH ,1970-03-27,Male,Johannesburg
+P001452,Zinhle Williams,27-Aug-1941,F,Krugersdorp
+P000727,Thabo Du Plessis,1967-11-26,M,Soweto
+P002938,Ayesha Mokoena,04/03/2015,F,Benoni
+P002050,Bongani Molefe,1943-02-13,M,Roodepoort
+P000886,Dumisani Zulu,1956-04-05,M,Soweto
+P001372,Zinhle Botha,1965-12-15,F,Benoni
+P002255,Unathi Jacobs,1947-11-03,f,Pretoria
+P000802,Wanda Botha,1953-05-25,f,Roodepoort
+P002446,Bongani Pillay,1943-12-09,m,Johannesburg
+P000119,Thabo Pillay,03-Nov-2024,M,Pretoria
+P000874, BONGANI MOKOENA ,1963-09-22,m,Pretoria
+P001984,Karabo Jacobs,1975-10-18,F,Pretoria
+P001084,Zanele Mokoena,1978-02-25,F,Krugersdorp
+P002740,Imaan Ndlovu,1958-09-15,F,Benoni
+P001361,Mpho Pillay,2021-10-14,M,Benoni
+P001651,Lerato Pillay,1982-09-22,f,Roodepoort
+P000471,Jabu Sithole,1991-09-02,m,Soweto
+P000940,Mpho Sithole,1978-04-24,M,Krugersdorp
+P000579,Zanele Mokoena,2024-02-25,Female,Midrand
+P000244,Sipho Nkosi,1972-01-23,Male,Johannesburg
+P000931,Johan Khumalo,1947-06-10,Male,Centurion
+P002659,Johan Zulu,1990-12-12,M,Midrand
+P003070,Tumi Mokoena,1981-09-22,f,Krugersdorp
+P000827,Pieter Molefe,1991-03-17,M,Midrand
+P001281,Chloe Botha,2017-01-20,f,Pretoria
+P002206,Bongani Smith,2024-06-02,Male,Centurion
+P002756,Karabo Mabaso,09/03/1941,F,Benoni
+P002291,Ayesha Jacobs,1997-01-11,f,Roodepoort
+P001309,Vusi Jacobs,19-Apr-1972,m,Soweto
+P002826,Bongani Khumalo,02/12/1984,M,Soweto
+P002814,Ayesha Mahlangu,19/04/1982,Female,Soweto
+P001540,Anika Pillay,1971-08-11,Female,Centurion
+P002863,Chloe Khumalo,17/11/1975,Female,Pretoria
+P002492,Imaan Pretorius,1967-09-14,F,Centurion
+P000942,Riaan Adams,1980-08-07,M,Centurion
+P000549,Ayesha Van der Merwe,1975-11-26,F,Centurion
+P001654,Imaan Mokoena,05/03/2012,F,Roodepoort
+P001224,Vusi Van der Merwe,1997-02-06,M,Roodepoort
+P002947,Ayesha Botha,1950-12-25,F,Midrand
+P002239,Oliver Govender,2005-10-21,M,Soweto
+P000896,Riaan Tshabalala,2024-05-02,M,Roodepoort
+P001045,Sipho Van der Merwe,2020-09-28,Male,Krugersdorp
+P001321,Oliver Dlamini,14/05/2017,m,Centurion
+P002394,Pieter Mahlangu,1968-09-13,M,Pretoria
+P000279,Pieter Adams,1947-12-10,M,Johannesburg
+P002687,Zanele Smith,2002-05-22,f,Centurion
+P000337,Tumi Zulu,1968-07-10,f,Johannesburg
+P001287,Mpho Mabaso,1942-02-04,M,Pretoria
+P003022,Sibusiso Williams,1979-08-06,M,Roodepoort
+P002771,Sipho Smith,1955-12-05,Male,Pretoria
+P000473,Wanda Dlamini,19/04/2024,F,Centurion
+P003021,Vusi Du Plessis,2018-09-28,M,Roodepoort
+P001343,Karabo Nkosi,1944-05-15,F,Soweto
+P001011,Gugu Pretorius,1957-09-11,f,Soweto
+P000601,Sibusiso Mokoena,2005-12-09,m,Pretoria
+P001006,Thabo Pillay,2013-09-06,Male,Soweto
+P002258,Naledi Mahlangu,1998-12-08,F,Krugersdorp
+P002489,Jabu Ndlovu,1997-07-16,M,Krugersdorp
+P001567,Bongani Govender,1997-05-19,M,Soweto
+P000211,Tumi Williams,2018-09-08,f,Centurion
+P002974,Thabo Van der Merwe,1947-12-02,M,Soweto
+P001513,Palesa Adams,1945-06-18,F,Benoni
+P001150,Tumi Sithole,1999-08-05,f,Johannesburg
+P000789,Unathi Williams,1956-06-28,F,Roodepoort
+P002400,Chloe Jacobs,1963-08-15,f,Pretoria
+P002578, VUSI DLAMINI ,1940-10-23,M,Roodepoort
+P000148,Jabu Du Plessis,1979-11-14,Male,Centurion
+P000762,Emma Botha,1944-10-06,Female,Roodepoort
+P002015,Oliver Dlamini,1996-07-19,Male,Johannesburg
+P000979,Anika Molefe,1994-11-14,F,Centurion
+P002680,Kagiso Nkosi,2014-05-28,m,Benoni
+P000030,Zinhle Mabaso,1965-06-07,F,Johannesburg
+P002398,Unathi Naidoo,1978-07-07,F,Centurion
+P001702,Tumi Adams,1978-04-06,f,Soweto
+P000876,Jabu Mahlangu,28/06/2024,M,Pretoria
+P002872,Zanele Jacobs,2013-01-28,Female,Benoni
+P002265,Palesa Govender,1990-09-07,F,Krugersdorp
+P001119,Mpho Naidoo,1946-06-28,M,Krugersdorp
+P002802,Karabo Tshabalala,1976-05-16,F,Midrand
+P000127, BONGANI PILLAY ,1965-08-08,M,Centurion
+P001070,Unathi Khumalo,1940-04-11,F,Krugersdorp
+P000170,Emma Van der Merwe,1953-01-20,F,Benoni
+P000406,Kagiso Khumalo,1957-12-02,m,Benoni
+P003163,Ayesha Adams,1945-11-14,f,Krugersdorp
+P001692,Jabu Zulu,1944-06-28,Male,Soweto
+P002621,Hendrik Du Plessis,04/03/1975,M,Benoni
+P001079,Imaan Tshabalala,1966-08-01,F,Centurion
+P001542,Bongani Dlamini,1991-09-03,Male,Centurion
+P002034,Sibusiso Botha,05/11/1977,M,Benoni
+P000641,Imaan Naidoo,1968-11-07,F,Johannesburg
+P001387,Riaan Govender,1969-12-03,m,Pretoria
+P000742,Vusi Govender,1969-11-15,Male,Centurion
+P002723, ZANELE SITHOLE ,1963-08-28,f,Johannesburg
+P000186,Johan Du Plessis,1967-12-28,M,Roodepoort
+P002396,Dumisani Govender,02-Mar-2017,M,Centurion
+P000162,Sipho Pillay,1980-12-01,M,Midrand
+P003075,Gugu Govender,1951-07-27,F,Pretoria
+P001043,Gugu Mokoena,15/08/2024,F,Roodepoort
+P001337,Anika Mabaso,2023-01-25,F,Roodepoort
+P000239,Zinhle Molefe,2021-11-05,F,Pretoria
+P001020,Kagiso Tshabalala,1951-03-08,m,Midrand
+P000795,Gugu Mahlangu,1942-10-22,F,Pretoria
+P001913,Nomsa Pretorius,1947-01-14,f,Benoni
+P000954,Zinhle Ndlovu,18/03/1970,Female,Krugersdorp
+P000838,Sipho Khumalo,1952-01-27,M,Centurion
+P003096,Karabo Molefe,2013-10-10,F,Centurion
+P002508,Farouk Pretorius,1968-10-13,M,Krugersdorp
+P002110,Unathi Botha,2022-01-26,F,Soweto
+P002521,Imaan Williams,1970-11-14,F,Pretoria
+P002252,Chloe Tshabalala,1959-06-09,F,Krugersdorp
+P000509,Johan Williams,11/05/1962,M,Midrand
+P002119,Chloe Dlamini,1971-12-07,F,Krugersdorp
+P001874,Zanele Dlamini,27/03/1964,Female,Soweto
+P001953,Palesa Van der Merwe,13/05/1994,F,Johannesburg
+P000260,Megan Mabaso,1943-06-09,f,Johannesburg
+P001071,Liam Pretorius,1979-01-28,Male,Centurion
+P000439,Zanele Mokoena,12/12/2020,Female,Krugersdorp
+P002565,Emma Ndlovu,23/09/1986,F,Pretoria
+P000840,Unathi Naidoo,1987-04-26,Female,Centurion
+P002638, KARABO JACOBS ,1983-09-02,F,Pretoria
+P001353,Thabo Mahlangu,1953-05-08,m,Johannesburg
+P000428,Yusuf Khumalo,1955-01-18,m,Midrand
+P001576,Liam Tshabalala,1942-05-04,M,Benoni
+P001700,Zanele Williams,2012-10-13,F,Johannesburg
+P000043,Emma Williams,18-May-2006,F,Midrand
+P002306,Yusuf Williams,04/08/2016,M,Pretoria
+P003131,Farouk Botha,1998-10-19,m,Centurion
+P000832,Ayesha Jacobs,1992-03-17,Female,Centurion
+P000353,Naledi Pretorius,22/12/1968,F,Johannesburg
+P003174,Pieter Tshabalala,2023-11-07,Male,Pretoria
+P000361,Imaan Pillay,2024-11-08,F,Johannesburg
+P002122,Liam Du Plessis,1992-06-07,m,Soweto
+P002758,Mpho Mahlangu,2019-11-07,Male,Benoni
+P002081,Thabo Nkosi,04/06/1982,m,Centurion
+P002663,Pieter Pretorius,1949-09-11,M,Johannesburg
+P001992,Unathi Tshabalala,1944-08-16,Female,Roodepoort
+P000188,Palesa Govender,1963-08-19,Female,Roodepoort
+P001634,Pieter Zulu,1949-02-23,M,Soweto
+P000315, TUMI GOVENDER ,1985-05-12,Female,Benoni
+P001236,Ayesha Smith,1945-02-15,F,Midrand
+P001007,Chloe Dlamini,15/10/1993,Female,Soweto
+P000011,Anika Dlamini,1951-05-16,F,Roodepoort
+P001688,Bongani Pretorius,1998-07-09,M,Benoni
+P002175,Chloe Tshabalala,2006-11-28,F,Centurion
+P001233,Nomsa Govender,1964-12-23,Female,Pretoria
+P001680,Bongani Botha,1955-02-25,m,Johannesburg
+P000854,Tumi Mabaso,15-Mar-1965,F,Roodepoort
+P001774,Oliver Naidoo,2021-03-01,M,Centurion
+P000417, PIETER NKOSI ,2021-06-24,m,Centurion
+P000556,Thabo Pillay,1966-05-27,M,Midrand
+P001963,Bongani Molefe,1941-02-03,m,Soweto
+P000408,Farouk Ndlovu,1986-09-28,m,Benoni
+P002940,Yusuf Zulu,2021-04-11,M,Soweto
+P002536,Zanele Adams,09/11/1942,F,Krugersdorp
+P001826,Liam Naidoo,1944-09-23,M,Benoni
+P000268,Karabo Du Plessis,2024-01-07,Female,Krugersdorp
+P002406,Oliver Pillay,1951-12-26,M,Centurion
+P002737,Johan Smith,1950-09-11,m,Midrand
+P002191,Wanda Mabaso,16-Aug-1967,F,Johannesburg
+P000212,Vusi Adams,2013-11-07,M,Centurion
+P002601,Mpho Pretorius,1941-10-23,M,Benoni
+P001582,Ayesha Williams,08/04/1990,F,Krugersdorp
+P000780,Palesa Govender,1983-03-12,F,Centurion
+P002811,Liam Zulu,2019-04-03,M,Roodepoort
+P000254, NALEDI TSHABALALA ,1969-05-20,F,Benoni
+P001721,Lerato Smith,18/12/1975,F,Pretoria
+P002806,Naledi Mokoena,2020-05-05,f,Soweto
+P002344,Riaan Khumalo,2000-01-16,Male,Pretoria
+P002331,Zanele Mokoena,11/12/1970,F,Roodepoort
+P003097,Sibusiso Naidoo,1992-12-21,M,Pretoria
+P001140, PALESA NKOSI ,1958-03-28,F,Pretoria
+P001171,Riaan Khumalo,10/03/2017,Male,Soweto
+P003077,Zanele Smith,2000-10-18,Female,Krugersdorp
+P000947,Hendrik Govender,2014-02-10,M,Benoni
+P001558,Kagiso Pillay,1958-01-21,M,Pretoria
+P000046,Oliver Zulu,1968-12-04,M,Midrand
+P001463,Zanele Van der Merwe,1996-02-15,F,Soweto
+P000950,Palesa Naidoo,1974-03-07,F,Soweto
+P000248,Karabo Smith,11/10/1974,F,Johannesburg
+P001649,Tumi Khumalo,1963-08-25,Female,Soweto
+P000065,Megan Adams,1950-08-09,Female,Centurion
+P002416,Thabo Naidoo,1950-10-11,m,Pretoria
+P002606,Unathi Mahlangu,24/07/1976,F,Midrand
+P003061,Wanda Du Plessis,1986-03-20,f,Pretoria
+P002671,Emma Pretorius,1971-05-23,F,Johannesburg
+P002741,Zanele Tshabalala,11/08/1988,f,Krugersdorp
+P001545,Yusuf Botha,1998-11-18,M,Krugersdorp
+P002104,Ayesha Ndlovu,04-Sep-1949,f,Johannesburg
+P001138,Naledi Ndlovu,1942-10-05,f,Pretoria
+P001870,Karabo Dlamini,2004-06-06,F,Centurion
+P003006,Zinhle Khumalo,1942-09-04,F,Midrand
+P000409,Mpho Pillay,1981-08-17,M,Centurion
+P002196,Liam Molefe,1949-07-01,M,Benoni
+P001598,Thabo Van der Merwe,1983-06-19,m,Pretoria
+P002439,Farouk Molefe,1954-11-10,M,Midrand
+P002323,Yusuf Sithole,2003-12-03,M,Pretoria
+P002807,Unathi Botha,2012-04-27,F,Johannesburg
+P000098,Gugu Naidoo,2020-08-15,f,Centurion
+P002151,Unathi Adams,1998-02-12,F,Pretoria
+P002930,Oliver Pillay,1946-06-11,m,Midrand
+P000296,Mpho Jacobs,1944-07-02,m,Benoni
+P001624,Sibusiso Williams,24/06/1955,M,Roodepoort
+P000344, YUSUF KHUMALO ,1966-05-16,Male,Centurion
+P001327,Imaan Du Plessis,05/08/1969,F,Soweto
+P002639,Ayesha Jacobs,17-Jan-1985,f,Roodepoort
+P000433,Gugu Ndlovu,2023-07-08,F,Centurion
+P003170,Zanele Mokoena,1976-03-26,F,Benoni
+P002065,Wanda Botha,1975-07-27,F,Soweto
+P000775,Imaan Ndlovu,1968-10-24,F,Midrand
+P002694,Lerato Jacobs,1977-08-12,f,Pretoria
+P002495,Hendrik Williams,1986-05-23,M,Roodepoort
+P000922,Pieter Mahlangu,17/07/1979,m,Soweto
+P001810,Nomsa Pillay,1955-02-14,F,Centurion
+P002235,Jabu Williams,1992-01-05,m,Benoni
+P001707,Riaan Du Plessis,1979-07-18,M,Soweto
+P002442,Tumi Tshabalala,2005-01-04,Female,Centurion
+P001518,Naledi Mabaso,1999-02-01,f,Krugersdorp
+P001127,Ayesha Nkosi,2000-01-23,F,Roodepoort
+P001379,Emma Mabaso,2021-12-04,f,Johannesburg
+P002516,Chloe Ndlovu,1946-05-26,Female,Pretoria
+P000150,Wanda Mokoena,25/08/1970,f,Krugersdorp
+P003173,Thabo Du Plessis,1956-12-25,M,Centurion
+P001217,Jabu Govender,1986-02-12,Male,Soweto
+P001816, NALEDI JACOBS ,1953-01-10,F,Johannesburg
+P002020,Karabo Williams,1967-08-13,F,Benoni
+P003197,Jabu Nkosi,1960-09-18,M,Centurion
+P001976,Gugu Zulu,2020-05-08,F,Benoni
+P002361,Nomsa Nkosi,1957-01-10,Female,Benoni
+P000480,Sipho Jacobs,1965-08-23,M,Johannesburg
+P003072,Sibusiso Tshabalala,2000-02-20,M,Pretoria
+P001001,Zinhle Sithole,,Female,Soweto
+P002896,Zinhle Dlamini,2017-10-20,Female,Roodepoort
+P000647,Lerato Mokoena,1974-01-03,Female,Pretoria
+P002460,Hendrik Mabaso,03/11/1992,Male,Benoni
+P001272,Johan Ndlovu,2021-08-21,M,Pretoria
+P003156,Thabo Tshabalala,28/06/1962,Male,Benoni
+P002517,Karabo Dlamini,1958-04-14,F,Centurion
+P001455,Unathi Mahlangu,1977-12-04,F,Centurion
+P001647,Liam Naidoo,1958-05-06,m,Johannesburg
+P000900,Thabo Van der Merwe,10/12/1945,M,Soweto
+P002728,Palesa Dlamini,26/02/1965,F,Pretoria
+P000547,Yusuf Molefe,,M,Roodepoort
+P000064,Karabo Khumalo,1981-04-02,Female,Soweto
+P001416,Mpho Smith,1951-12-21,M,Krugersdorp
+P000403,Oliver Ndlovu,1982-10-15,Male,Soweto
+P000132,Zanele Adams,1973-11-01,Female,Soweto
+P002324,Oliver Van der Merwe,06-Sep-2014,M,Benoni
+P000489,Oliver Dlamini,1959-11-08,M,Soweto
+P002836,Chloe Adams,1946-10-17,F,Midrand
+P000631,Gugu Van der Merwe,1992-05-19,F,Roodepoort
+P001888,Unathi Dlamini,1999-06-21,F,Midrand
+P000235, ZANELE ADAMS ,2012-07-25,F,Johannesburg
+P002465,Emma Ndlovu,1985-04-09,F,Roodepoort
+P002507,Palesa Nkosi,1962-03-23,f,Krugersdorp
+P000710,Ayesha Nkosi,04/05/1963,F,Soweto
+P000595,Anika Adams,25/12/2006,F,Centurion
+P000310,Wanda Ndlovu,1947-09-13,F,Pretoria
+P001472,Megan Pillay,26/09/2023,Female,Roodepoort
+P001496,Dumisani Mabaso,02/08/1995,M,Midrand
+P001223,Vusi Zulu,17/12/1954,M,Roodepoort
+P000636,Imaan Adams,1988-03-28,F,Centurion
+P002613,Bongani Botha,1999-12-13,m,Johannesburg
+P000850, MPHO MOKOENA ,2013-05-01,M,Benoni
+P003065,Karabo Sithole,2022-12-10,F,Pretoria
+P000167,Hendrik Nkosi,13/05/2022,M,Johannesburg
+P002579,Pieter Mokoena,1992-10-11,Male,Johannesburg
+P001889,Nomsa Williams,14/10/2018,F,Centurion
+P003118,Imaan Sithole,28/02/1946,F,Krugersdorp
+P000283,Emma Du Plessis,1957-10-22,F,Roodepoort
+P001789,Mpho Zulu,2024-09-13,Male,Roodepoort
+P001807, MEGAN PRETORIUS ,12-Sep-1987,F,Johannesburg
+P000072, THABO WILLIAMS ,1971-08-09,M,Pretoria
+P000220, KARABO KHUMALO ,1951-11-18,F,Krugersdorp
+P001524,Zanele Jacobs,23/05/1978,Female,Midrand
+P001966, NALEDI VAN DER MERWE ,2004-06-14,F,Soweto
+P001499,Chloe Sithole,1999-03-01,Female,Benoni
+P001193,Gugu Smith,1987-09-27,Female,Krugersdorp
+P001612,Kagiso Smith,1947-02-04,M,Soweto
+P001433,Unathi Molefe,1991-12-16,Female,Pretoria
+P000835,Kagiso Sithole,02/08/2015,m,Benoni
+P002473,Unathi Mabaso,1968-09-15,F,Pretoria
+P000678,Naledi Mokoena,1971-11-26,F,Midrand
+P000356,Jabu Dlamini,1940-02-27,Male,Johannesburg
+P003149,Bongani Govender,18/01/1988,M,Centurion
+P001486,Farouk Van der Merwe,2022-05-08,Male,Johannesburg
+P002920,Zanele Govender,1968-02-02,F,Johannesburg
+P002120,Dumisani Mokoena,1962-06-14,M,Benoni
+P001769,Tumi Jacobs,2000-01-25,f,Roodepoort
+P002539,Zanele Pillay,1941-04-26,Female,Krugersdorp
+P001208,Johan Van der Merwe,1963-07-06,M,Pretoria
+P001921,Karabo Pretorius,25/01/2017,f,Centurion
+P003106,Riaan Sithole,1941-06-09,M,Johannesburg
+P002250,Ayesha Mokoena,25-Oct-1948,F,Johannesburg
+P001785, KAGISO DLAMINI ,1987-06-10,Male,Roodepoort
+P001891,Pieter Van der Merwe,1991-08-12,m,Benoni
+P001380,Farouk Nkosi,13/11/2022,M,Pretoria
+P002101,Ayesha Adams,1973-05-19,Female,Midrand
+P002765,Chloe Smith,19/02/2012,F,Centurion
+P002322,Farouk Molefe,1989-01-28,M,Benoni
+P000031,Oliver Khumalo,1950-11-04,Male,Krugersdorp
+P003132,Lerato Zulu,1981-04-16,f,Roodepoort
+P000611,Vusi Williams,1970-05-01,M,Krugersdorp
+P003026,Emma Pretorius,21-Jun-2000,Female,Benoni
+P001677,Zanele Molefe,2006-03-08,F,Benoni
+P002499,Dumisani Jacobs,1976-01-14,m,Roodepoort
+P001140, PALESA NKOSI ,1958-03-28,F,Pretoria
+P000314,Kagiso Pretorius,1993-05-28,m,Krugersdorp
+P001358,Hendrik Mokoena,1940-06-23,Male,Johannesburg
+P002790,Ayesha Smith,1955-01-16,f,Roodepoort
+P001249,Yusuf Khumalo,1962-01-11,M,Krugersdorp
+P002775,Mpho Zulu,1989-07-26,M,Roodepoort
+P002711,Chloe Molefe,2020-01-05,f,Roodepoort
+P002560,Wanda Jacobs,1982-02-23,Female,Krugersdorp
+P002028,Liam Pretorius,1964-02-06,M,Krugersdorp
+P002701,Sibusiso Nkosi,1964-12-21,M,Midrand
+P001133,Naledi Mahlangu,1967-09-09,Female,Krugersdorp
+P001017,Yusuf Pretorius,23/12/1985,M,Soweto
+P002877,Hendrik Williams,1972-05-25,M,Benoni
+P001636,Dumisani Naidoo,1959-11-27,M,Krugersdorp
+P000420,Liam Zulu,1951-11-20,M,Benoni
+P000158,Imaan Naidoo,06/07/1981,F,Johannesburg
+P001396,Zinhle Du Plessis,1946-05-26,F,Roodepoort
+P002697,Johan Mabaso,1996-03-05,Male,Johannesburg
+P002684, JOHAN ZULU ,1958-10-21,Male,Krugersdorp
+P002572,Naledi Du Plessis,01/07/2019,F,Johannesburg
+P001184,Emma Adams,08/01/1964,F,Midrand
+P000102,Karabo Williams,1940-01-18,f,Roodepoort
+P001995,Oliver Mabaso,2006-07-06,M,Johannesburg
+P000842,Tumi Pillay,1989-07-21,F,Roodepoort
+P002858, KAGISO MAHLANGU ,1953-08-02,m,Roodepoort
+P002193, LERATO VAN DER MERWE ,27/02/1956,Female,Centurion
+P001136,Gugu Mokoena,2020-08-12,F,Pretoria
+P000233, OLIVER MABASO ,1947-09-18,m,Midrand
+P002953,Lerato Tshabalala,2015-06-14,F,Centurion
+P002745,Emma Sithole,1943-08-22,F,Soweto
+P002811,Liam Zulu,2019-04-03,M,Roodepoort
+P000288,Oliver Du Plessis,2017-12-28,m,Johannesburg
+P002817,Anika Mabaso,15-Jan-2002,f,Centurion
+P002548,Liam Adams,1992-03-12,Male,Pretoria
+P002214,Liam Mabaso,2005-03-22,m,Roodepoort
+P000733,Megan Govender,2024-06-07,F,Benoni
+P003085,Oliver Jacobs,1975-07-14,Male,Krugersdorp
+P000396,Dumisani Williams,12/05/2015,M,Johannesburg
+P002354,Vusi Khumalo,10/05/2021,M,Roodepoort
+P002596,Yusuf Mabaso,2024-09-06,M,Pretoria
+P003036,Palesa Sithole,1944-04-25,F,Midrand
+P001766, ZINHLE PRETORIUS ,08-Apr-1951,F,Soweto
+P003074,Karabo Pillay,23/02/1969,F,Krugersdorp
+P001280, EMMA PRETORIUS ,22/04/1954,F,Johannesburg
+P001779,Imaan Williams,1947-11-07,F,Roodepoort
+P000455,Vusi Du Plessis,1984-09-19,M,Centurion
+P000499,Mpho Botha,1993-10-27,m,Soweto
+P001290,Unathi Williams,1982-11-15,Female,Pretoria
+P003124,Imaan Mabaso,28/08/1979,F,Pretoria
+P000059,Oliver Govender,2018-11-16,m,Roodepoort
+P000680,Chloe Jacobs,28/06/1947,F,Midrand
+P002552,Sibusiso Mabaso,01/12/1953,M,Johannesburg
+P002247,Yusuf Pretorius,16/05/1945,M,Roodepoort
+P003153,Dumisani Van der Merwe,1958-02-05,M,Pretoria
+P001225,Imaan Pillay,1991-01-03,f,Johannesburg
+P001390,Zanele Williams,2016-02-13,F,Johannesburg
+P000312,Vusi Smith,2006-02-24,M,Midrand
+P002525,Gugu Williams,08/05/1957,F,Benoni
+P002987,Vusi Mabaso,2012-11-05,M,Krugersdorp
+P001292,Naledi Pretorius,27/04/1979,F,Soweto
+P001386, AYESHA MOKOENA ,17/04/2016,F,Roodepoort
+P002136,Palesa Botha,1995-01-11,F,Soweto
+P001425,Jabu Khumalo,1946-03-01,M,Roodepoort
+P002611,Wanda Van der Merwe,2001-07-06,F,Roodepoort
+P002691,Nomsa Jacobs,1988-03-10,F,Pretoria
+P001825,Jabu Tshabalala,2015-11-28,m,Midrand
+P000083,Liam Naidoo,1993-06-13,M,Soweto
+P000670,Zanele Botha,1971-08-18,f,Roodepoort
+P002367,Farouk Dlamini,1964-07-16,M,Pretoria
+P000501,Hendrik Naidoo,2001-05-05,M,Pretoria
+P002432,Yusuf Zulu,2005-02-04,M,Pretoria
+P001569,Sibusiso Du Plessis,1945-04-26,M,Pretoria
+P002093,Imaan Naidoo,1996-04-05,Female,Centurion
+P002025,Megan Pillay,1971-02-14,Female,Midrand
+P000753,Dumisani Mokoena,1963-01-19,M,Centurion
+P002864,Chloe Zulu,24/06/1990,Female,Roodepoort
+P000265,Oliver Mokoena,1951-11-17,m,Krugersdorp
+P002160,Mpho Govender,1988-07-22,M,Johannesburg
+P000305,Karabo Williams,1951-12-18,F,Centurion
+P000323,Johan Mokoena,1983-12-17,Male,Soweto
+P000510,Johan Pillay,2018-07-02,M,Midrand
+P001385,Vusi Van der Merwe,17/01/1995,M,Benoni
+P001590,Naledi Smith,28/06/1948,F,Benoni
+P000998,Jabu Sithole,1951-04-04,M,Krugersdorp
+P003073,Yusuf Smith,1984-02-17,Male,Centurion
+P003196,Yusuf Pretorius,1953-05-01,Male,Soweto
+P001922,Palesa Nkosi,24/10/1941,F,Krugersdorp
+P000430,Mpho Pretorius,1996-08-07,m,Krugersdorp
+P002233,Jabu Dlamini,2015-12-05,Male,Pretoria
+P000427,Farouk Pretorius,2017-03-21,m,Pretoria
+P002500,Jabu Zulu,09/07/2022,Male,Johannesburg
+P001782,Jabu Sithole,2012-11-09,M,Benoni
+P000867,Pieter Sithole,18-Mar-1966,M,Johannesburg
+P000348,Emma Tshabalala,11/04/1962,F,Pretoria
+P000946,Bongani Molefe,1964-10-05,m,Roodepoort
+P000560,Jabu Khumalo,1954-07-06,M,Pretoria
+P000049,Karabo Govender,1982-09-20,F,Pretoria
+P002184,Sipho Tshabalala,1951-09-09,m,Soweto
+P001487,Emma Pillay,2004-11-16,F,Centurion
+P001920,Farouk Van der Merwe,13/01/2000,M,Johannesburg
+P000767,Chloe Pillay,1964-09-13,f,Centurion
+P001757, UNATHI MABASO ,2021-04-15,Female,Pretoria
+P000994,Zinhle Pretorius,1979-07-28,f,Midrand
+P000349,Jabu Khumalo,2024-09-25,Male,Pretoria
+P002411,Hendrik Khumalo,1979-07-09,M,Benoni
+P000512,Vusi Dlamini,26/01/1948,M,Krugersdorp
+P001506,Ayesha Sithole,1955-07-14,f,Krugersdorp
+P001691,Megan Botha,1972-03-24,f,Benoni
+P001589,Oliver Ndlovu,1968-01-24,M,Benoni
+P002900,Naledi Mabaso,13/11/2014,F,Soweto
+P000779,Wanda Adams,11-Oct-2016,Female,Centurion
+P002284,Naledi Tshabalala,1973-11-21,F,Centurion
+P001347,Mpho Molefe,2023-02-13,Male,Johannesburg
+P000523,Wanda Molefe,1974-03-23,Female,Centurion
+P001934,Nomsa Ndlovu,20/08/2019,Female,Pretoria
+P002755,Thabo Zulu,2006-03-04,Male,Krugersdorp
+P001053,Tumi Tshabalala,1992-08-16,F,Midrand
+P001535,Zanele Mokoena,2005-10-12,f,Centurion
+P001794,Tumi Govender,2023-09-27,f,Pretoria
+P002282,Ayesha Du Plessis,1951-01-19,f,Centurion
+P000273,Ayesha Jacobs,1954-11-12,F,Centurion
+P001817,Dumisani Zulu,1960-06-23,Male,Johannesburg
+P000898,Farouk Du Plessis,10-Jun-1946,M,Benoni
+P001483,Megan Dlamini,20/05/1976,Female,Johannesburg
+P002476,Dumisani Van der Merwe,1947-03-07,M,Pretoria
+P001534,Oliver Nkosi,2003-09-18,m,Krugersdorp
+P003138,Johan Ndlovu,07/05/1970,Male,Pretoria
+P000100,Karabo Van der Merwe,2021-01-21,F,Roodepoort
+P000941,Thabo Du Plessis,28-Feb-1988,M,Johannesburg
+P002969,Lerato Adams,1996-05-21,F,Midrand
+P001293,Riaan Govender,12-Sep-1958,Male,Midrand
+P002277,Ayesha Sithole,18/09/1962,F,Soweto
+P000836,Farouk Du Plessis,1979-11-24,M,Midrand
+P002260,Bongani Mokoena,01/03/1974,M,Centurion
+P001277,Riaan Van der Merwe,28/04/1962,M,Soweto
+P000204,Unathi Govender,1998-01-20,F,Midrand
+P002754,Farouk Govender,23/06/1989,M,Benoni
+P000997,Thabo Tshabalala,09/09/2022,M,Benoni
+P002832,Chloe Khumalo,1944-08-06,F,Roodepoort
+P000036,Emma Mahlangu,09/01/1967,Female,Centurion
+P001672,Farouk Mabaso,1971-01-06,M,Soweto
+P001931,Imaan Govender,1951-10-20,Female,Soweto
+P002186,Karabo Ndlovu,2004-06-21,F,Soweto
+P003003,Unathi Adams,1992-01-12,f,Soweto
+P000140,Thabo Dlamini,1998-03-05,m,Midrand
+P001040,Lerato Mahlangu,1942-06-14,F,Roodepoort
+P003098,Wanda Botha,1974-12-05,F,Benoni
+P002887,Zinhle Pillay,18/06/2013,f,Benoni
+P000379,Liam Botha,14/12/2005,M,Krugersdorp
+P002375,Emma Tshabalala,2021-03-27,F,Pretoria
+P000189,Zinhle Mokoena,1967-12-08,f,Pretoria
+P001438,Lerato Ndlovu,2015-01-10,f,Krugersdorp
+P003152,Farouk Naidoo,02/06/1956,M,Midrand
+P000633,Johan Govender,2014-03-14,M,Benoni
+P000465,Palesa Dlamini,1994-05-20,F,Krugersdorp
+P000676,Liam Smith,1981-04-28,m,Soweto
+P002377,Nomsa Van der Merwe,1967-05-25,f,Roodepoort
+P003178,Zinhle Mokoena,1961-06-25,F,Pretoria
+P001650,Unathi Botha,1975-04-25,F,Centurion
+P000868,Dumisani Pretorius,2014-06-09,m,Krugersdorp
+P001666,Kagiso Tshabalala,1958-11-04,m,Pretoria
+P001753,Pieter Mabaso,2013-06-04,Male,Midrand
+P001175,Hendrik Botha,1999-03-23,M,Pretoria
+P001674,Megan Smith,1984-01-10,Female,Roodepoort
+P000322,Vusi Pretorius,1959-04-14,M,Krugersdorp
+P002313,Riaan Molefe,2024-04-04,M,Centurion
+P000799,Farouk Pretorius,19/06/1971,M,Johannesburg
+P003000,Sipho Pillay,2012-11-08,m,Pretoria
+P001863,Ayesha Sithole,1988-10-09,Female,Centurion
+P000699,Riaan Govender,1967-05-27,M,Johannesburg
+P001907,Naledi Smith,1991-04-10,F,Centurion
+P002283,Megan Govender,1970-03-07,f,Pretoria
+P001346,Dumisani Pretorius,2001-06-19,M,Benoni
+P000020,Chloe Naidoo,1948-04-15,F,Soweto
+P002195,Tumi Molefe,23/08/2022,F,Soweto
+P002629,Palesa Jacobs,1945-03-23,F,Johannesburg
+P000463,Chloe Mahlangu,1973-01-19,f,Roodepoort
+P000012,Oliver Tshabalala,23/05/1997,M,Soweto
+P003184,Riaan Smith,12/11/1956,M,Benoni
+P000198,Karabo Molefe,1958-05-24,f,Roodepoort
+P002077, LERATO GOVENDER ,17/12/1961,F,Johannesburg
+P000125,Pieter Molefe,08-Mar-1997,M,Krugersdorp
+P001725,Tumi Zulu,1958-04-01,Female,Midrand
+P002321,Nomsa Molefe,02/10/2013,Female,Johannesburg
+P002236,Gugu Govender,1996-02-27,F,Roodepoort
+P000081,Palesa Pillay,2005-05-04,F,Krugersdorp
+P002030,Bongani Nkosi,1951-11-09,M,Centurion
+P000897,Wanda Pretorius,12/04/2000,F,Pretoria
+P001538,Mpho Pillay,1957-12-13,Male,Soweto
+P000658, HENDRIK VAN DER MERWE ,1966-05-22,M,Midrand
+P000146,Gugu Khumalo,05/02/1985,F,Johannesburg
+P002385,Hendrik Du Plessis,28-Apr-1967,m,Benoni
+P000617,Sibusiso Adams,1956-02-26,M,Soweto
+P003078,Zinhle Khumalo,06/09/1953,F,Krugersdorp
+P001081,Gugu Botha,2003-11-01,F,Krugersdorp
+P001427,Chloe Ndlovu,2004-03-02,F,Johannesburg
+P001587,Karabo Du Plessis,13-Aug-1941,F,Midrand
+P002537,Imaan Mahlangu,2016-03-08,F,Centurion
+P000543,Lerato Dlamini,1955-05-15,f,Roodepoort
+P001599,Sibusiso Molefe,2022-02-21,M,Centurion
+P001862,Imaan Naidoo,06/05/2004,F,Krugersdorp
+P002477,Imaan Mahlangu,1961-07-23,F,Centurion
+P002583,Mpho Naidoo,27/08/1988,m,Soweto
+P000324,Kagiso Adams,1979-09-06,Male,Roodepoort
+P000590,Zinhle Mabaso,21/11/1960,Female,Soweto
+P001266,Sipho Du Plessis,1954-03-05,m,Krugersdorp
+P001697,Imaan Williams,25/08/1956,F,Midrand
+P001796,Thabo Khumalo,1998-12-12,m,Roodepoort
+P001609,Gugu Botha,1940-02-03,F,Benoni
+P002720,Lerato Pretorius,2012-09-08,f,Roodepoort
+P002229,Yusuf Pillay,1959-08-10,M,Benoni
+P001877,Liam Pillay,1978-09-28,m,Johannesburg
+P000450, TUMI PILLAY ,1972-12-20,F,Centurion
+P000257,Emma Khumalo,2001-09-19,F,Centurion
+P002128,Mpho Sithole,1980-12-17,M,Krugersdorp
+P000393,Mpho Mokoena,28-Dec-1954,Male,Soweto
+P002294,Vusi Mahlangu,15/10/1947,M,Johannesburg
+P001864,Sibusiso Pillay,19/02/1949,Male,Pretoria
+P002976,Wanda Mokoena,17/01/1989,F,Soweto
+P001979,Sibusiso Mahlangu,1973-01-13,M,Benoni
+P002527,Oliver Pillay,1960-11-28,M,Krugersdorp
+P000578,Riaan Smith,21/09/1945,M,Johannesburg
+P001701,Thabo Jacobs,18-Nov-1981,Male,Benoni
+P001632,Palesa Smith,2020-07-06,F,Pretoria
+P001094,Unathi Smith,10-Dec-1974,f,Krugersdorp
+P002685,Wanda Williams,2021-02-18,F,Roodepoort
+P001846,Bongani Naidoo,1962-12-04,M,Centurion
+P000526,Yusuf Nkosi,1964-03-13,M,Johannesburg
+P000565,Zanele Jacobs,1943-12-15,F,Pretoria
+P001608,Imaan Botha,1956-10-15,F,Krugersdorp
+P002013,Mpho Williams,1993-01-09,M,Benoni
+P002650,Johan Zulu,1973-03-22,Male,Roodepoort
+P000025,Thabo Govender,1986-03-23,M,Roodepoort
+P000666,Anika Williams,1944-09-05,F,Johannesburg
+P001845,Emma Jacobs,23/08/2023,Female,Krugersdorp
+P000921,Kagiso Sithole,1983-07-21,m,Pretoria
+P001215,Megan Mokoena,1970-10-22,Female,Midrand
+P002881,Zanele Zulu,22/11/1954,F,Johannesburg
+P000913,Emma Botha,06/03/1991,f,Johannesburg
+P001310,Sipho Tshabalala,2013-09-23,M,Centurion
+P000861,Kagiso Naidoo,02-Oct-1979,M,Benoni
+P000052,Anika Smith,2003-12-11,f,Johannesburg
+P002774,Hendrik Naidoo,2012-04-26,M,Pretoria
+P002353,Lerato Ndlovu,2006-11-19,F,Krugersdorp
+P001143,Oliver Ndlovu,1949-10-18,m,Krugersdorp
+P001668,Hendrik Khumalo,1995-05-09,M,Johannesburg
+P000357,Mpho Botha,1944-06-07,Male,Benoni
+P001781,Yusuf Adams,1959-02-07,m,Soweto
+P001551,Sibusiso Smith,2021-06-23,M,Soweto
+P000573,Naledi Zulu,19-Feb-1996,f,Midrand
+P000171,Riaan Mabaso,21-Nov-2004,m,Midrand
+P000784,Emma Williams,1972-08-11,F,Soweto
+P001871,Kagiso Dlamini,08/02/1971,m,Midrand
+P001340,Zinhle Mahlangu,1994-10-15,Female,Midrand
+P002603,Unathi Pillay,1997-07-03,Female,Krugersdorp
+P002926,Unathi Mahlangu,1973-12-16,F,Centurion
+P002410,Palesa Mahlangu,2013-12-02,F,Pretoria
+P002140,Emma Govender,21/04/1970,Female,Soweto
+P002022,Vusi Nkosi,1950-05-14,m,Midrand
+P001322,Nomsa Du Plessis,28/12/1944,f,Soweto
+P001491,Vusi Khumalo,1973-07-16,m,Midrand
+P000422,Thabo Van der Merwe,03/03/1982,M,Centurion
+P001181,Zanele Smith,07/05/2003,F,Benoni
+P002264,Kagiso Van der Merwe,16/03/1960,M,Centurion
+P000429,Bongani Govender,1959-03-28,M,Johannesburg
+P000237,Naledi Zulu,1995-10-21,F,Johannesburg
+P000067,Gugu Botha,1978-05-21,f,Midrand
+P001579,Oliver Adams,28/10/1993,m,Benoni
+P002732,Thabo Mokoena,24/03/1986,m,Roodepoort
+P002744,Sipho Van der Merwe,2016-05-13,M,Soweto
+P000082,Zinhle Tshabalala,,F,Krugersdorp
+P001044,Imaan Molefe,2000-11-25,f,Centurion
+P001611,Ayesha Mokoena,2004-12-11,Female,Benoni
+P001965,Vusi Ndlovu,1957-10-05,M,Soweto
+P000583,Kagiso Mabaso,2015-11-14,Male,Pretoria
+P001325,Imaan Pretorius,01-Jul-1959,F,Pretoria
+P002924,Zinhle Ndlovu,05/12/1991,F,Roodepoort
+P002770,Mpho Sithole,1970-09-07,M,Midrand
+P001776,Anika Adams,19/06/2021,Female,Johannesburg
+P001729,Oliver Tshabalala,1975-05-22,Male,Krugersdorp
+P002984,Yusuf Tshabalala,18-Jan-1940,M,Midrand
+P000599,Johan Pretorius,1958-11-03,M,Roodepoort
+P001147,Karabo Naidoo,2012-05-25,F,Pretoria
+P001131,Liam Mabaso,1943-11-10,M,Krugersdorp
+P002357,Kagiso Sithole,09/07/2018,M,Roodepoort
+P002339,Karabo Du Plessis,1999-08-06,F,Roodepoort
+P002462,Mpho Nkosi,1970-02-18,m,Soweto
+P001906,Mpho Botha,2002-12-07,M,Johannesburg
+P000862,Hendrik Tshabalala,2021-12-28,M,Krugersdorp
+P001475,Wanda Naidoo,1996-03-10,F,Roodepoort
+P002325,Johan Pillay,18/01/2002,M,Johannesburg
+P001308,Kagiso Van der Merwe,16/01/1940,M,Midrand
+P001400,Jabu Zulu,1954-03-05,m,Benoni
+P000354,Naledi Sithole,1978-03-13,f,Roodepoort
+P000333,Anika Ndlovu,04/11/1974,f,Centurion
+P001151,Palesa Mokoena,1972-09-03,Female,Krugersdorp
+P000815,Wanda Sithole,16/06/1956,F,Midrand
+P003041,Unathi Nkosi,1983-06-28,Female,Benoni
+P000822,Vusi Mabaso,03/05/1969,M,Midrand
+P001157,Wanda Pillay,2020-09-04,Female,Soweto
+P002649,Kagiso Adams,1957-10-23,M,Centurion
+P003042,Dumisani Pillay,1978-10-26,M,Johannesburg
+P002443,Emma Naidoo,04-Aug-1997,F,Benoni
+P001597,Pieter Sithole,13/01/1943,Male,Johannesburg
+P001335,Wanda Tshabalala,12/04/1995,F,Pretoria
+P002038,Zanele Nkosi,1987-01-02,F,Soweto
+P002869,Sipho Adams,08-Jun-1972,m,Soweto
+P003013,Karabo Tshabalala,1999-01-13,Female,Roodepoort
+P002134,Chloe Tshabalala,13-Aug-1972,F,Soweto
+P001297,Zanele Zulu,18-Jan-1981,F,Benoni
+P003011,Naledi Ndlovu,2003-03-07,F,Benoni
+P002833,Zinhle Mahlangu,1967-09-07,Female,Soweto
+P001197,Riaan Mabaso,2013-03-12,M,Johannesburg
+P000307,Emma Govender,1971-06-08,F,Benoni
+P001349,Dumisani Sithole,1993-10-04,M,Midrand
+P000050,Hendrik Smith,2015-02-03,M,Johannesburg
+P001296,Sipho Mabaso,1957-07-12,M,Roodepoort
+P002647,Unathi Botha,1968-01-17,F,Midrand
+P001932,Chloe Adams,17-Nov-1991,F,Soweto
+P001203, ZINHLE NKOSI ,28-Jun-2000,F,Centurion
+P003142,Ayesha Pillay,1986-02-06,F,Soweto
+P000551,Anika Mabaso,1989-10-09,f,Roodepoort
+P002208,Naledi Pillay,09/04/1989,F,Benoni
+P003100, SIBUSISO NDLOVU ,08/08/1999,Male,Benoni
+P000629,Ayesha Van der Merwe,2013-05-14,F,Midrand
+P001242, PALESA NKOSI ,23/03/1970,F,Soweto
+P002334,Naledi Zulu,1946-08-06,F,Soweto
+P000017,Lerato Van der Merwe,1963-05-10,f,Benoni
+P002278,Pieter Govender,2019-12-10,m,Benoni
+P000457,Naledi Jacobs,1998-03-21,Female,Benoni
+P002997,Palesa Molefe,2001-08-10,F,Krugersdorp
+P000743,Tumi Mokoena,1955-09-11,f,Midrand
+P000338,Tumi Mokoena,1962-03-12,f,Johannesburg
+P000259,Kagiso Ndlovu,28/06/2003,Male,Krugersdorp
+P001038,Nomsa Smith,09/09/2018,Female,Johannesburg
+P001689,Gugu Williams,1940-05-01,F,Roodepoort
+P001892,Wanda Tshabalala,1997-08-09,f,Benoni
+P001670,Naledi Khumalo,1949-01-01,F,Soweto
+P000981,Zanele Pretorius,1942-06-24,Female,Krugersdorp
+P001929,Emma Nkosi,2020-12-07,F,Pretoria
+P000615,Unathi Govender,1988-02-02,F,Johannesburg
+P002181,Imaan Naidoo,1981-11-21,F,Johannesburg
+P003135,Kagiso Zulu,1994-08-01,M,Midrand
+P003010,Zanele Molefe,1981-04-24,F,Soweto
+P000932,Naledi Botha,03-Sep-1992,F,Midrand
+P000481,Gugu Williams,1981-01-09,f,Roodepoort
+P002108,Zanele Zulu,1942-02-25,F,Benoni
+P002070,Riaan Van der Merwe,18/12/1954,m,Benoni
+P000999,Palesa Tshabalala,1977-05-26,F,Johannesburg
+P002455,Anika Tshabalala,22-Nov-1946,F,Centurion
+P001683,Kagiso Pretorius,1974-06-08,M,Soweto
+P000165,Ayesha Khumalo,1992-10-10,F,Soweto
+P002251,Bongani Govender,1968-04-20,M,Soweto
+P000019,Oliver Naidoo,1990-07-13,Male,Krugersdorp
+P000130,Wanda Ndlovu,,Female,Johannesburg
+P001381,Nomsa Williams,2020-06-15,F,Johannesburg
+P002111,Jabu Adams,19/02/1977,m,Soweto
+P000153,Johan Mabaso,1957-01-28,m,Pretoria
+P002090,Wanda Dlamini,1964-04-23,f,Johannesburg
+P001187,Bongani Tshabalala,1984-01-10,Male,Benoni
+P002348,Jabu Jacobs,1961-12-05,M,Benoni
+P002105,Gugu Mahlangu,1968-03-11,F,Roodepoort
+P002587,Yusuf Tshabalala,1984-04-02,m,Krugersdorp
+P001897, JABU MABASO ,2003-04-21,M,Midrand
+P000781,Riaan Molefe,1956-09-01,Male,Midrand
+P002271,Johan Ndlovu,17/05/1949,M,Benoni
+P000117,Anika Mabaso,2012-05-07,F,Soweto
+P001660,Ayesha Sithole,2013-03-19,Female,Krugersdorp
+P001916,Bongani Pillay,07/10/1948,M,Centurion
+P001926,Karabo Molefe,02/05/1981,Female,Pretoria
+P001930,Bongani Mahlangu,2000-11-27,M,Benoni
+P002883,Emma Pillay,1993-09-15,F,Krugersdorp
+P000369,Nomsa Du Plessis,1999-08-03,Female,Roodepoort
+P001192,Riaan Du Plessis,2021-02-23,m,Roodepoort
+P000300,Naledi Dlamini,21/08/1990,F,Johannesburg
+P001841,Naledi Sithole,23/03/1942,Female,Pretoria
+P000859,Johan Van der Merwe,17/10/1964,M,Roodepoort
+P002058, WANDA SITHOLE ,2022-04-04,F,Johannesburg
+P002928,Tumi Sithole,2023-05-17,F,Krugersdorp
+P003050,Oliver Tshabalala,1995-04-20,M,Pretoria
+P000773,Johan Zulu,2000-03-05,M,Benoni
+P002510,Farouk Molefe,1978-05-23,M,Benoni
+P001881,Imaan Pillay,1965-10-19,F,Midrand
+P000552,Johan Ndlovu,1979-02-12,M,Johannesburg
+P002378,Liam Mabaso,11/10/1978,M,Midrand
+P002478,Ayesha Pretorius,1991-05-07,F,Benoni
+P002768,Bongani Du Plessis,1991-10-27,M,Soweto
+P002157,Lerato Mabaso,1976-05-01,F,Benoni
+P001426,Palesa Williams,1963-05-21,Female,Centurion
+P002006,Farouk Botha,1955-11-05,M,Pretoria
+P002880,Zanele Ndlovu,2004-09-15,F,Johannesburg
+P001265,Ayesha Govender,1945-01-04,f,Centurion
+P003182,Hendrik Govender,1990-05-16,M,Pretoria
+P002860,Chloe Williams,1996-10-14,F,Benoni
+P002042,Zanele Jacobs,1954-09-01,F,Midrand
+P001365,Ayesha Dlamini,2003-12-04,F,Soweto
+P002550,Megan Botha,27/09/1945,F,Midrand
+P002303,Ayesha Smith,1984-06-04,F,Johannesburg
+P001116,Palesa Naidoo,2013-07-17,F,Johannesburg
+P001418,Zinhle Pretorius,26/01/1941,Female,Pretoria
+P002333,Karabo Jacobs,1961-03-14,f,Soweto
+P001234, NOMSA PILLAY ,1950-10-08,F,Midrand
+P001434,Wanda Nkosi,1996-08-15,f,Centurion
+P003076,Pieter Van der Merwe,1943-04-05,M,Johannesburg
+P002244,Tumi Du Plessis,2014-01-21,F,Midrand
+P001771,Unathi Mahlangu,18-Jun-1962,f,Pretoria
+P000178,Johan Du Plessis,1979-04-13,Male,Midrand
+P001641,Anika Khumalo,1987-05-05,F,Centurion
+P001742,Emma Jacobs,17/02/1965,f,Johannesburg
+P000055,Gugu Naidoo,1956-01-17,f,Midrand
+P000490,Johan Khumalo,1968-11-18,M,Krugersdorp
+P000724,Oliver Mokoena,1958-08-06,m,Johannesburg
+P000045,Palesa Van der Merwe,1955-03-23,F,Roodepoort
+P000328,Kagiso Du Plessis,1978-07-27,m,Johannesburg
+P000718,Chloe Naidoo,2012-01-11,f,Krugersdorp
+P001905,Lerato Tshabalala,2013-06-27,f,Centurion
+P000360,Emma Dlamini,16-Mar-2005,F,Roodepoort
+P001289,Unathi Mokoena,17/10/2018,F,Soweto
+P001942,Anika Pillay,2001-12-01,F,Centurion
+P000205,Zinhle Naidoo,27/07/1941,F,Johannesburg
+P000154,Bongani Tshabalala,2002-05-26,m,Centurion
+P001885,Karabo Botha,1963-05-20,F,Soweto
+P000085,Imaan Dlamini,14/06/1949,f,Roodepoort
+P000685,Jabu Ndlovu,2000-06-12,M,Pretoria
+P000604,Chloe Tshabalala,1964-02-03,F,Roodepoort
+P002854, FAROUK MABASO ,1979-07-25,Male,Soweto
+P001299, PALESA ZULU ,1969-06-16,F,Pretoria
+P003110,Unathi Botha,2016-04-15,F,Soweto
+P000659,Karabo Pretorius,2017-12-23,F,Soweto
+P000370,Nomsa Nkosi,07/08/2018,F,Soweto
+P002604,Ayesha Mabaso,1966-02-04,F,Benoni
+P002084,Oliver Dlamini,2024-07-17,M,Midrand
+P000129,Zanele Adams,1969-11-26,F,Krugersdorp
+P000285,Riaan Zulu,2003-02-01,M,Midrand
+P002087,Imaan Govender,1991-04-25,Female,Centurion
+P003004,Thabo Smith,1954-05-05,M,Johannesburg
+P001188,Ayesha Mokoena,1965-09-02,f,Johannesburg
+P000986,Zinhle Mabaso,1996-11-19,f,Midrand
+P000120,Vusi Van der Merwe,1989-05-14,M,Krugersdorp
+P003141,Mpho Tshabalala,1997-07-01,M,Pretoria
+P001089,Johan Pillay,1980-11-22,M,Pretoria
+P000451,Tumi Sithole,1944-12-02,F,Soweto
+P001687,Kagiso Nkosi,1997-06-06,Male,Pretoria
+P000939,Palesa Mahlangu,2018-11-24,F,Krugersdorp
+P002459,Wanda Van der Merwe,24/07/2017,F,Benoni
+P002076,Hendrik Molefe,2020-11-20,Male,Pretoria
+P002783,Sibusiso Smith,1944-12-19,m,Krugersdorp
+P002285,Vusi Khumalo,02-Aug-1956,M,Centurion
+P001529,Nomsa Jacobs,2019-09-07,Female,Johannesburg
+P002528,Naledi Williams,2021-03-19,F,Johannesburg
+P001195,Riaan Adams,1998-07-10,M,Centurion
+P002562,Johan Ndlovu,23/06/1985,M,Krugersdorp
+P000720,Wanda Pillay,09/07/1990,F,Krugersdorp
+P001710,Dumisani Smith,1974-08-11,M,Johannesburg
+P000717,Pieter Mahlangu,2024-03-20,M,Johannesburg
+P002937,Liam Tshabalala,2013-01-14,M,Pretoria
+P003080,Unathi Nkosi,15/11/1949,Female,Soweto
+P002615, CHLOE DU PLESSIS ,1954-04-07,f,Soweto
+P000915,Tumi Jacobs,1997-02-01,f,Centurion
+P002597,Bongani Mokoena,1997-05-09,m,Pretoria
+P002677,Jabu Pretorius,2015-02-13,Male,Roodepoort
+P002698,Nomsa Jacobs,24/10/1983,Female,Midrand
+P001737,Bongani Mabaso,03-Aug-2024,M,Krugersdorp
+P003165,Ayesha Jacobs,28/03/2016,F,Pretoria
+P002633,Wanda Smith,2020-12-03,F,Pretoria
+P002962,Naledi Zulu,1951-04-24,F,Midrand
+P001822,Oliver Smith,1941-02-07,M,Pretoria
+P001099, VUSI MABASO ,2017-12-14,M,Johannesburg
+P000625,Emma Khumalo,2002-11-07,Female,Krugersdorp
+P000056,Megan Khumalo,1979-11-10,f,Roodepoort
+P000928,Wanda Molefe,1954-10-24,F,Soweto
+P001498,Thabo Van der Merwe,05/11/2018,M,Soweto
+P001167, NALEDI DLAMINI ,14/07/1950,F,Benoni
+P000751,Thabo Smith,1964-11-19,M,Johannesburg
+P000620,Ayesha Adams,2003-11-20,Female,Soweto
+P000320,Palesa Dlamini,1995-07-15,f,Soweto
+P002538,Ayesha Dlamini,02/05/1966,f,Benoni
+P000537,Megan Mokoena,1947-03-10,F,Roodepoort
+P002868,Karabo Ndlovu,2017-02-22,F,Benoni
+P000857,Megan Nkosi,1953-07-10,Female,Benoni
+P002318,Naledi Botha,22/02/1972,F,Roodepoort
+P002261,Chloe Jacobs,1967-01-05,F,Roodepoort
+P003092,Tumi Govender,1979-07-04,F,Soweto
+P001417,Emma Molefe,1993-03-06,F,Midrand
+P002559,Vusi Botha,1996-03-22,m,Midrand
+P000506,Tumi Mabaso,1973-01-14,F,Pretoria
+P002631,Karabo Du Plessis,1953-02-13,F,Johannesburg
+P001158,Farouk Botha,1946-12-28,M,Centurion
+P001554,Anika Pretorius,08-Dec-2020,f,Roodepoort
+P000327,Thabo Nkosi,1945-12-14,M,Roodepoort
+P001559,Tumi Ndlovu,2004-04-11,Female,Benoni
+P000278,Farouk Naidoo,1995-05-08,m,Benoni
+P001025,Ayesha Nkosi,2002-09-28,F,Soweto
+P002220,Emma Botha,2016-03-18,F,Johannesburg
+P002719,Pieter Jacobs,15/09/1968,M,Midrand
+P002142,Naledi Mahlangu,1977-07-18,F,Centurion
+P000200,Yusuf Adams,2018-12-08,Male,Roodepoort
+P002238,Chloe Govender,2020-12-18,F,Soweto
+P001961,Nomsa Molefe,2024-12-05,Female,Krugersdorp
+P002320,Nomsa Dlamini,15/06/1953,F,Pretoria
+P000605,Naledi Pretorius,1958-08-04,f,Roodepoort
+P000610,Lerato Dlamini,2000-05-28,F,Pretoria
+P003130,Unathi Adams,1982-02-12,Female,Soweto
+P000656,Riaan Govender,2015-05-17,M,Soweto
+P001568,Megan Van der Merwe,1993-05-14,f,Krugersdorp
+P000009,Zinhle Molefe,2024-06-05,F,Johannesburg
+P000749,Anika Molefe,1971-12-19,Female,Johannesburg
+P001500,Emma Mahlangu,1952-03-09,F,Roodepoort
+P000748,Bongani Ndlovu,1965-09-28,Male,Centurion
+P001735, EMMA BOTHA ,03/03/1959,Female,Centurion
+P003104,Hendrik Sithole,03/03/1997,M,Johannesburg
+P000437,Wanda Mokoena,1986-01-25,Female,Benoni
+P002240,Anika Jacobs,02/07/1960,F,Centurion
+P002467,Tumi Pillay,04-Dec-1976,F,Midrand
+P001504,Gugu Adams,15/05/1990,Female,Benoni
+P002023, MEGAN JACOBS ,15/08/1984,F,Centurion
+P000209,Oliver Pretorius,09-May-1947,M,Johannesburg
+P002993,Anika Dlamini,1940-05-08,F,Pretoria
+P000438,Kagiso Van der Merwe,1978-11-01,M,Johannesburg
+P001902,Megan Van der Merwe,2019-05-06,F,Centurion
+P002496,Mpho Dlamini,22/09/2022,M,Centurion
+P002213,Gugu Pretorius,1979-05-07,Female,Midrand
+P000486,Hendrik Williams,22/04/1993,M,Benoni
+P001319,Zinhle Mabaso,02/08/1940,f,Pretoria
+P000920,Dumisani Nkosi,1960-09-14,m,Krugersdorp
+P001374,Jabu Mabaso,09/08/1973,Male,Johannesburg
+P001410,Chloe Sithole,1947-05-14,Female,Roodepoort
+P000103,Farouk Sithole,1971-08-17,M,Centurion
+P002804,Zinhle Khumalo,1971-07-23,F,Pretoria
+P001566,Thabo Govender,16-Apr-1948,M,Centurion
+P000567,Hendrik Govender,1953-09-19,M,Benoni
+P001312,Liam Ndlovu,2016-08-09,m,Benoni
+P001042,Hendrik Ndlovu,23/09/2013,M,Pretoria
+P003133, THABO NKOSI ,2013-10-26,Male,Pretoria
+P000969,Sipho Govender,1995-07-23,M,Pretoria
+P000281,Chloe Van der Merwe,1992-04-09,F,Midrand
+P001659,Dumisani Molefe,1945-01-23,Male,Krugersdorp
+P001561, BONGANI KHUMALO ,12/09/1976,M,Roodepoort
+P001333,Megan Williams,1968-07-06,F,Roodepoort
