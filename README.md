@@ -2,7 +2,7 @@
 
 An ETL project built around a made-up private hospital. It takes admission, charge and payment files, cleans them with Python, loads them into SQL Server, and works out what each patient account was charged, who owes what, and how full the wards were.
 
-Author: _your name here_
+Author: Oregomoditse Makinta
 
 **All the data is fake.** The patients, doctors and medical schemes are invented by `scripts/generate_source_data.py`. No real patient information is used anywhere.
 
