@@ -4,7 +4,7 @@ An ETL project built around a made-up private hospital. It takes admission, char
 
 Author: Oregomoditse Makinta
 
-**All the data is fake.** The patients, doctors and medical schemes are invented by `scripts/generate_source_data.py`. No real patient information is used anywhere.
+The patients, doctors and medical schemes are invented by `scripts/generate_source_data.py`. No real patient information is used anywhere.
 
 ## What it covers
 
