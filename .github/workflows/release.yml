@@ -1,0 +1,58 @@
+# CD = Continuous Delivery.
+# CI answers "is the code OK?". CD answers "how does the tested code get out?".
+#
+# In this project, delivering means: when I mark a version, GitHub tests it
+# one more time, packs the project into a zip, and publishes it on the
+# repository's Releases page with the list of changes since the last version.
+# Nobody builds the zip by hand, and a version that fails its tests is never published.
+#
+# To make a release, give a commit a version tag and push the tag:
+#   git tag v1.0.0
+#   git push origin v1.0.0
+#
+# What this does NOT do is deploy to a database server. See the README for why.
+
+name: Release
+
+on:
+  push:
+    tags: ["v*"]            # only runs for tags that start with v, like v1.0.0
+
+# allow this workflow to create a release in the repository
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Test, package and publish
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install packages
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      # the same checks as CI. If these fail, the steps below don't run and nothing is published.
+      - name: Lint and test
+        run: |
+          ruff check .
+          python -m pytest
+
+      # git archive packs exactly what is in the repository at this tag (so no config.ini, no .venv)
+      - name: Build the zip
+        run: git archive --format=zip --prefix=lakeside-hospital-pipeline/ -o "lakeside-hospital-pipeline-${{ github.ref_name }}.zip" HEAD
+
+      # gh is GitHub's command line tool, it is already installed on the machine.
+      # github.token is a temporary password GitHub makes for this run.
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh release create "${{ github.ref_name }}" "lakeside-hospital-pipeline-${{ github.ref_name }}.zip" --title "${{ github.ref_name }}" --generate-notes

@@ -17,14 +17,8 @@ def _save(frame, folder, name):
     frame.to_csv(folder / f"{name}.csv", index=False)
 
 
-def main() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--skip-load", action="store_true", help="stop after writing the cleaned files")
-    args = parser.parse_args()
-    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)-7s %(message)s")
-
-    raw = extract.extract_all(RAW_DIR)
-
+def clean_all(raw):
+    """Clean every source. Returns (clean tables, rejected rows, stats), keyed by landing table name."""
     # reference data first, the transactions get checked against it
     tariffs, rej_tariffs = transform.clean_tariffs(raw["tariffs"])
     wards, rej_wards = transform.clean_wards(raw["wards"], tariffs)
@@ -39,6 +33,17 @@ def main() -> None:
              "Admission": admissions, "Charge": charges, "Payment": payments}
     rejects = {"Tariff": rej_tariffs, "Ward": rej_wards, "Doctor": rej_doctors, "Funder": rej_funders,
                "Patient": rej_patients, "Admission": rej_adm, "Charge": rej_charges, "Payment": rej_payments}
+    return clean, rejects, stats
+
+
+def main() -> None:
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--skip-load", action="store_true", help="stop after writing the cleaned files")
+    args = parser.parse_args()
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)-7s %(message)s")
+
+    raw = extract.extract_all(RAW_DIR)
+    clean, rejects, stats = clean_all(raw)
 
     for name in clean:
         _save(clean[name], CLEAN_DIR, name.lower())

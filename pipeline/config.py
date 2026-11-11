@@ -11,7 +11,8 @@ REPORT_DIR = ROOT / "reports" / "output"
 CONFIG_FILE = ROOT / "config.ini"
 
 
-def connection_url() -> str:
+def connection_string(database: str | None = None) -> str:
+    """ODBC connection string from config.ini. Pass database="master" to connect before our database exists."""
     if not CONFIG_FILE.exists():
         raise FileNotFoundError("config.ini not found - copy config.example.ini to config.ini first")
     parser = ConfigParser()
@@ -20,11 +21,16 @@ def connection_url() -> str:
     parts = [
         f"DRIVER={{{cfg.get('driver', 'ODBC Driver 17 for SQL Server')}}}",
         f"SERVER={cfg.get('server', 'localhost')}",
-        f"DATABASE={cfg.get('database', 'LakesideHospital')}",
+        f"DATABASE={database or cfg.get('database', 'LakesideHospital')}",
         "TrustServerCertificate=yes",
     ]
     if cfg.getboolean("trusted_connection", fallback=True):
         parts.append("Trusted_Connection=yes")
     else:
         parts += [f"UID={cfg.get('username')}", f"PWD={cfg.get('password')}"]
-    return "mssql+pyodbc:///?odbc_connect=" + quote_plus(";".join(parts))
+    return ";".join(parts)
+
+
+def connection_url() -> str:
+    """The same connection, in the form SQLAlchemy wants."""
+    return "mssql+pyodbc:///?odbc_connect=" + quote_plus(connection_string())

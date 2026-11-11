@@ -2,7 +2,7 @@
 
 An ETL project built around a made-up private hospital. It takes admission, charge and payment files, cleans them with Python, loads them into SQL Server, and works out what each patient account was charged, who owes what, and how full the wards were.
 
-Author: Oregomoditse Makinta
+Author: _your name here_
 
 **All the data is fake.** The patients, doctors and medical schemes are invented by `scripts/generate_source_data.py`. No real patient information is used anywhere.
 
@@ -68,11 +68,17 @@ You need Python 3.10+, SQL Server 2016 SP1 or newer, SSMS and the ODBC driver fo
 ```
 python -m venv .venv
 .venv\Scripts\activate
-pip install -r requirements.txt
+pip install -r requirements.txt -r requirements-dev.txt
 copy config.example.ini config.ini
 ```
 
-Edit `config.ini` for your server, then run `sql/01` to `sql/06` in SSMS in order.
+Edit `config.ini` for your server, then run `sql/01` to `sql/07` in SSMS in order.
+
+Or let Python run the scripts instead of SSMS (careful: this rebuilds the core tables, so only on a fresh database):
+
+```
+python -m pipeline.deploy_sql
+```
 
 ```
 python -m pipeline.run_pipeline
@@ -85,9 +91,61 @@ To see only the cleaning step, without a database:
 python -m pipeline.run_pipeline --skip-load
 ```
 
-After a load run `sql/07_data_quality_checks.sql`. Everything should say PASS. `sql/08_analysis_queries.sql` has the queries I used to look at the results (debtors age analysis, average bill per diagnosis, readmissions within 30 days, theatre hours per month and a few more).
+After a load, check the data quality view. Everything should say PASS:
+
+```
+python -m pipeline.check_quality
+```
+
+(or `SELECT * FROM reporting.vw_DataQualityChecks` in SSMS). `sql/08_analysis_queries.sql` has the queries I used to look at the results (debtors age analysis, average bill per diagnosis, readmissions within 30 days, theatre hours per month and a few more).
 
 Tests: `python -m pytest`
+
+## CI/CD
+
+This is the part I added last. It uses GitHub Actions, which is built into GitHub and free for public repositories.
+
+**What the words mean**
+
+- **CI (continuous integration)**: every time I push code, a machine at GitHub downloads the repository and checks it automatically. If I broke something, I find out in a minute or two instead of weeks later. The point is that the checks run every time without me having to remember.
+- **CD (continuous delivery)**: getting the tested code out in a form that can be used, also automatically. No building or copying by hand.
+- **A workflow** is a YAML file in `.github/workflows`. It says when to run (the trigger) and what to do (a list of steps). GitHub reads these files by itself, there is nothing to switch on.
+- **A runner** is the temporary machine GitHub starts for each run. It is thrown away afterwards, so every run starts clean.
+- **Green / red**: every step is a command. If a command ends with an error the run stops and is marked red. Otherwise it is green.
+
+**The three workflows**
+
+| file | when it runs | what it does |
+|---|---|---|
+| `ci.yml` | every push to `main`, every pull request | installs Python and the packages, lints the code with ruff, runs the tests, runs the cleaning step on the real files |
+| `sql-integration.yml` | only when I start it by hand | starts a real SQL Server in a container, builds the database from the `sql` folder, runs the full pipeline into it twice, and fails if any data quality check says FAIL |
+| `release.yml` | when I push a version tag like `v1.0.0` | runs the tests again, zips the project, and publishes it on the repository's Releases page |
+
+So `ci.yml` is the CI, `release.yml` is the CD, and `sql-integration.yml` is a bigger test that sits in between.
+
+**Trying it**
+
+1. Push the project to GitHub. `ci.yml` starts by itself. Look under the **Actions** tab.
+2. To run the SQL test: Actions > "SQL integration test" > Run workflow.
+3. To make a release:
+   ```
+   git tag v1.0.0
+   git push origin v1.0.0
+   ```
+   A few minutes later there is a v1.0.0 under **Releases** with the zip attached.
+
+To see CI catch something, change one of the numbers in `tests/test_pipeline_counts.py` and push. The run goes red and shows which test failed.
+
+**Things I had to change to make this possible**
+
+- `pipeline/deploy_sql.py` is new. It runs the SQL scripts from Python, because a CI machine has no SSMS and nobody to press F5. It has to cut each file up on the `GO` lines, because `GO` is an SSMS thing and SQL Server doesn't understand it.
+- The data quality checks moved from a query into a view (`reporting.vw_DataQualityChecks`), and `pipeline/check_quality.py` reads it and ends with an error if anything failed. A CI step can only pass or fail on an exit code, it can't look at a result grid.
+- `tests/test_pipeline_counts.py` runs the cleaning on the real files and checks the row counts haven't changed.
+- `requirements-dev.txt` and `ruff.toml` for the test and lint tools.
+
+**What the CD does not do**
+
+It does not deploy anything to a database server. My SQL Server runs on my own laptop, and a machine at GitHub can't reach that. Real deployment would need a server GitHub can connect to (Azure SQL for example) or a self-hosted runner on my network, with the connection details stored in GitHub Secrets. So "delivery" here stops at a tested, versioned zip.
 
 ## Numbers to check against
 
@@ -102,7 +160,7 @@ Cleaning step:
 
 A lot of the charge rejects (988) are "Admission not found". Most of those are charges that belong to an admission that was itself rejected, so one bad admission row takes its charges with it.
 
-After the load, the second result set of `07_data_quality_checks.sql` should show:
+After the load, the totals query at the top of `08_analysis_queries.sql` should show:
 
 | | |
 |---|---|
@@ -131,7 +189,11 @@ These were worked out separately in pandas from the cleaned files using the same
 - A patient stays in one ward for the whole admission. No transfers (ICU to general ward for example), which would change the nightly rate.
 - Landing tables are fully reloaded each run.
 - `DimDate` only covers 2024 to 2026.
-- Tests only cover the Python cleaning. Nothing tests the SQL.
+- The SQL is only tested by the integration workflow, and that one is started by hand. It should run on every push once I trust it.
+- No deployment to a real server (see CI/CD above).
+- `deploy_sql.py` rebuilds the core tables every time. There are no migrations, so there is no safe way to change a table that already has data in it.
+- `deploy_sql.py` would split in the wrong place if a line inside a comment or a string was just the word GO.
+- The password for the test SQL Server is written in the workflow file. That is fine for a throwaway container with fake data, but it's a habit to be careful with.
 - The Excel report is formatted tables only, no charts.
 
 ## Things I might add

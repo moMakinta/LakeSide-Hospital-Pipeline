@@ -1,0 +1,8 @@
+config.ini
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+data/clean/
+data/rejects/
+reports/output/

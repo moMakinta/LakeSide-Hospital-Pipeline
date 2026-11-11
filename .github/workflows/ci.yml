@@ -1,0 +1,49 @@
+# CI = Continuous Integration.
+# Every time code is pushed to GitHub, GitHub starts a fresh Linux machine,
+# downloads this repository onto it, and runs the steps below.
+# If any step fails, the run goes red and I get an email.
+# Nothing here needs SQL Server, so it is quick (about a minute).
+
+name: CI
+
+# WHEN does it run?
+on:
+  push:
+    branches: [main]        # every push to the main branch
+  pull_request:             # and every pull request, before it is merged
+  workflow_dispatch:        # and by hand, from the Actions tab on GitHub
+
+# WHAT does it run? One job with a list of steps, top to bottom.
+jobs:
+  test:
+    name: Lint, test and run the cleaning step
+    runs-on: ubuntu-latest        # the kind of machine GitHub gives us
+
+    steps:
+      # 1. get the code from this repository onto the machine
+      - name: Check out the code
+        uses: actions/checkout@v7
+
+      # 2. install Python
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip              # remember downloaded packages so the next run is faster
+
+      # 3. install the packages the project needs, plus the ones for testing
+      - name: Install packages
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      # 4. lint: look for obvious mistakes without running the code
+      - name: Lint with ruff
+        run: ruff check .
+
+      # 5. the unit tests in the tests folder
+      - name: Run the tests
+        run: python -m pytest -v
+
+      # 6. run the real pipeline on the real files, without the database part.
+      #    The tests already check the row counts, this is to see the log output in the run.
+      - name: Run the cleaning step
+        run: python -m pipeline.run_pipeline --skip-load

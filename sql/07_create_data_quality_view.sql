@@ -1,7 +1,12 @@
-/* 07 - Checks to run after a load. Everything should say PASS. */
+/* 07 - Data quality checks, as a view.
+   After a load:  SELECT * FROM reporting.vw_DataQualityChecks;   everything should say PASS.
+   It is a view so that the Python script (pipeline/check_quality.py) and the CI pipeline
+   can read the result and fail if anything says FAIL. */
 USE LakesideHospital;
 GO
 
+CREATE OR ALTER VIEW reporting.vw_DataQualityChecks
+AS
 WITH Checks AS (
     SELECT 'Landed admissions missing from core' AS CheckName, COUNT(*) AS FailedRows
     FROM   landing.Admission AS s
@@ -66,16 +71,4 @@ SELECT CheckName,
        FailedRows,
        CASE WHEN FailedRows = 0 THEN 'PASS' ELSE 'FAIL' END AS Result
 FROM   Checks;
-GO
-
--- totals to compare with the numbers in the README
-SELECT (SELECT COUNT(*) FROM core.FactAdmission)                                      AS Admissions,
-       (SELECT COUNT(*) FROM core.FactCharge WHERE ChargeSource = 'Captured')         AS CapturedLines,
-       (SELECT COUNT(*) FROM core.FactCharge WHERE ChargeSource = 'Accommodation')    AS AccommodationLines,
-       (SELECT SUM(Amount) FROM core.FactCharge)                                      AS TotalCharged,
-       (SELECT SUM(FunderAmount) FROM core.FactCharge)                                AS FunderLiable,
-       (SELECT SUM(PatientAmount) FROM core.FactCharge)                               AS PatientLiable,
-       (SELECT SUM(Amount) FROM core.FactPayment)                                     AS TotalPaid;
-
-SELECT TOP (20) * FROM audit.LoadLog ORDER BY LoadLogID DESC;
 GO

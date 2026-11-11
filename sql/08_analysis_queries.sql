@@ -2,6 +2,23 @@
 USE LakesideHospital;
 GO
 
+-- 0. Run these first after a load.
+-- the checks: everything should say PASS
+SELECT * FROM reporting.vw_DataQualityChecks;
+
+-- totals to compare with the numbers in the README
+SELECT (SELECT COUNT(*) FROM core.FactAdmission)                                      AS Admissions,
+       (SELECT COUNT(*) FROM core.FactCharge WHERE ChargeSource = 'Captured')         AS CapturedLines,
+       (SELECT COUNT(*) FROM core.FactCharge WHERE ChargeSource = 'Accommodation')    AS AccommodationLines,
+       (SELECT SUM(Amount) FROM core.FactCharge)                                      AS TotalCharged,
+       (SELECT SUM(FunderAmount) FROM core.FactCharge)                                AS FunderLiable,
+       (SELECT SUM(PatientAmount) FROM core.FactCharge)                               AS PatientLiable,
+       (SELECT SUM(Amount) FROM core.FactPayment)                                     AS TotalPaid;
+
+-- the last few pipeline runs
+SELECT TOP (20) * FROM audit.LoadLog ORDER BY LoadLogID DESC;
+GO
+
 -- 1. Debtors age analysis: how old is the money still owed on discharged accounts?
 DECLARE @AsAt date = (SELECT MAX(d.FullDate)
                       FROM core.FactPayment AS p

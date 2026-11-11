@@ -1,0 +1,9 @@
+# Settings for ruff, the linter that the CI pipeline runs.
+# A linter reads the code without running it and points out mistakes,
+# like a variable that is used but never defined, or an import that is not used.
+line-length = 150
+exclude = [".venv", "data"]
+
+[lint]
+# E and F are the basic rule sets: syntax errors, undefined names, unused imports and variables
+select = ["E4", "E7", "E9", "F"]

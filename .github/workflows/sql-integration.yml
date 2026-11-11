@@ -1,0 +1,93 @@
+# Integration test: build the whole thing for real, including SQL Server.
+#
+# The normal CI run (ci.yml) only tests the Python. This one starts a real
+# SQL Server inside a container, creates the database from the scripts in
+# the sql folder, runs the full pipeline into it, and then checks the data
+# quality view. It is the only automatic test of the T-SQL.
+#
+# It takes a few minutes, so for now it only runs when I start it by hand:
+#   GitHub > Actions > "SQL integration test" > Run workflow
+# TODO: once it has been passing for a while, make it run on every push too.
+
+name: SQL integration test
+
+on:
+  workflow_dispatch:
+
+jobs:
+  integration:
+    name: Full load into SQL Server
+    runs-on: ubuntu-latest
+
+    # The password for the test SQL Server. This server only exists for the few
+    # minutes the job runs and has nothing but fake data in it, so the password
+    # is written here. A password for a real server must NEVER be put in a file
+    # like this. It goes in GitHub > Settings > Secrets.
+    env:
+      SA_PASSWORD: Lakeside_CI_Test_2025
+
+    # A "service" is a container that GitHub starts next to the job.
+    # This one is Microsoft's SQL Server image. The job reaches it on localhost,1433.
+    services:
+      sqlserver:
+        image: mcr.microsoft.com/mssql/server:2022-latest
+        env:
+          ACCEPT_EULA: "Y"
+          MSSQL_SA_PASSWORD: Lakeside_CI_Test_2025
+        ports:
+          - 1433:1433
+
+    steps:
+      - name: Check out the code
+        uses: actions/checkout@v7
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # Python talks to SQL Server through Microsoft's ODBC driver, which has to be installed on the machine
+      - name: Install the ODBC driver for SQL Server
+        run: |
+          if odbcinst -q -d | grep -q "ODBC Driver 18 for SQL Server"; then
+            echo "Driver is already installed"
+          else
+            curl -sSL https://packages.microsoft.com/keys/microsoft.asc | sudo tee /etc/apt/trusted.gpg.d/microsoft.asc > /dev/null
+            curl -sSL https://packages.microsoft.com/config/ubuntu/$(lsb_release -rs)/prod.list | sudo tee /etc/apt/sources.list.d/mssql-release.list > /dev/null
+            sudo apt-get update
+            sudo ACCEPT_EULA=Y apt-get install -y msodbcsql18
+          fi
+
+      - name: Install packages
+        run: pip install -r requirements.txt -r requirements-dev.txt
+
+      # config.ini is not in the repository (it is in .gitignore), so make one that points at the test server
+      - name: Write config.ini for the test server
+        run: |
+          cat > config.ini <<EOF
+          [sqlserver]
+          server = localhost,1433
+          database = LakesideHospital
+          driver = ODBC Driver 18 for SQL Server
+          trusted_connection = no
+          username = sa
+          password = ${SA_PASSWORD}
+          EOF
+
+      # runs sql/01 to sql/07. It waits for SQL Server to finish starting up first.
+      - name: Create the database
+        run: python -m pipeline.deploy_sql
+
+      - name: Run the full pipeline
+        run: python -m pipeline.run_pipeline
+
+      # ends with an error if any check in reporting.vw_DataQualityChecks says FAIL
+      - name: Check data quality
+        run: python -m pipeline.check_quality
+
+      # run it a second time: nothing should break, and the checks should still pass
+      - name: Run the pipeline again (should be safe to re-run)
+        run: |
+          python -m pipeline.run_pipeline
+          python -m pipeline.check_quality
